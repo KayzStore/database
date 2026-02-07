@@ -1,0 +1,798 @@
+[
+  {
+    "question": "Hewan, hewan apa yang perut, kepala, mata, bahkan kakinya di kepala?",
+    "answer": "Kutu"
+  },
+  {
+    "question": "Sebutkan 4 nama buah dalam satu detik?",
+    "answer": "Rujak"
+  },
+  {
+    "question": "Bis apa yang bisa dimakan?",
+    "answer": "Biskuit"
+  },
+  {
+    "question": "Dari atas sampai bawah rasanya sama?",
+    "answer": "Toge"
+  },
+  {
+    "question": "Bisa di pegang gak bisa diliat?",
+    "answer": "Kuping"
+  },
+  {
+    "question": "Di kupas kulitnya ada bijinya, digigit bijinya ada batangnya apa coba?",
+    "answer": "Jagung"
+  },
+  {
+    "question": "Ban apa yang enak dimakan?",
+    "answer": "Bandeng"
+  },
+  {
+    "question": "Buah apa yang selalu membuat kita waspada?",
+    "answer": "Buahaya"
+  },
+  {
+    "question": "Nyarinya susah, setelah dapet dibuang, apaan?",
+    "answer": "Upil"
+  },
+  {
+    "question": "Binatang apa yang gak pernah rugi?",
+    "answer": "Laba-laba"
+  },
+  {
+    "question": "Gajah apa yang belalainya pendek?",
+    "answer": "Gajah pesek"
+  },
+  {
+    "question": "Sapi, sapi apa yang bisa nulis?",
+    "answer": "Sapidol"
+  },
+  {
+    "question": "Aku punya mata 3, kakiku 1, aku suka berdiri dipinggir jalan, apakah aku?",
+    "answer": "Lampu merah"
+  },
+  {
+    "question": "Gimana caranya orang bungkuk tidur?",
+    "answer": "Merem"
+  },
+  {
+    "question": "Apa yang bulet kecil item, tapi kalo dipencet keluar orangnya?",
+    "answer": "Bel rumah"
+  },
+  {
+    "question": "Apaan yang naik turun dibawah puser?",
+    "answer": "Resleting"
+  },
+  {
+    "question": "Hewan apa yang selalu jadi korban pemerasan?",
+    "answer": "Sapi perah"
+  },
+  {
+    "question": "Ban apa yang ada diatas tiang?",
+    "answer": "Bandera"
+  },
+  {
+    "question": "Nasi apa yang gak pernah basi?",
+    "answer": "Nasihat"
+  },
+  {
+    "question": "Benda panjang dan lonjong, huruf awalnya K, huruf akhirnya L, apa hayu?",
+    "answer": "Kapsul"
+  },
+  {
+    "question": "Malam apa yang mengerikan?",
+    "answer": "Malampir"
+  },
+  {
+    "question": "Punya kepala, punya leher, tidak punya tangan, tidak punya kaki, tetapi dia bisa berdiri?",
+    "answer": "Botol"
+  },
+  {
+    "question": "Game apa yang sangat mengerikan?",
+    "answer": "Gamepa bumi"
+  },
+  {
+    "question": "Jamu apa yang kalau diminum merusak badan?",
+    "answer": "Jamuran"
+  },
+  {
+    "question": "Benda apa yang dimasukin malah keluar lagi?",
+    "answer": "Kancing baju"
+  },
+  {
+    "question": "Nenek nenek jatuh di kali, munculnya dimana?",
+    "answer": "Dikoran"
+  },
+  {
+    "question": "Orang apa yang masuk botol?",
+    "answer": "Orang aring"
+  },
+  {
+    "question": "Kue apa yang tengahnya ga ada rasanya?",
+    "answer": "Donat"
+  },
+  {
+    "question": "Kalau dikocok putihnya gak keluar, tapi kalau dipencet malah keluar?",
+    "answer": "Pasta gigi"
+  },
+  {
+    "question": "Kutu apa yang paling mengerikan?",
+    "answer": "Kutukan"
+  },
+  {
+    "question": "Jika ada lilin dan obor, mana yang sebaiknya dinyalakan dulu agar lebih terang?",
+    "answer": "Korek api"
+  },
+  {
+    "question": "Kering tapi basah, apakah itu?",
+    "answer": "Keringat"
+  },
+  {
+    "question": "Makanan apa yang nama dan warnanya sama?",
+    "answer": "Coklat"
+  },
+  {
+    "question": "Es apa yang suka dinaiki orang?",
+    "answer": "Eskalator"
+  },
+  {
+    "question": "Bank apa yang malah rugi?",
+    "answer": "Bankrut"
+  },
+  {
+    "question": "Meski sudah dipotong, tapi tetap panjang, apakah itu?",
+    "answer": "Kacang panjang"
+  },
+  {
+    "question": "Dianggap bertambah, tetapi nyatanya berkurang, apakah itu?",
+    "answer": "Umur"
+  },
+  {
+    "question": "Kereta apa yang tidak bisa menampung orang remaja, dewasa dan orang tua?",
+    "answer": "Kereta bayi"
+  },
+  {
+    "question": "Mata apa yang ukurannya sekitar 15 cm?",
+    "answer": "Mata uang"
+  },
+  {
+    "question": "Kalau hitam dibilang bersih tetapi jika putih dibilang kotor, apakah itu?",
+    "answer": "Papan tulis"
+  },
+  {
+    "question": "Angka itu jumlahnya tak terhingga, tetapi angka apa yang paling tinggi?",
+    "answer": "Angkasa"
+  },
+  {
+    "question": "Mobil apa yang hanya bisa dilihat di HP android dan iphone?",
+    "answer": "Mobile legend"
+  },
+  {
+    "question": "Bisa melihat tetapi tidak bisa mendengar, apakah itu?",
+    "answer": "Mata"
+  },
+  {
+    "question": "Makan gratis, minum gratis bahkan tidur pun juga gratis tapi anehnya tidak ada yang suka, tempat apakah itu?",
+    "answer": "Penjara"
+  },
+  {
+    "question": "Ketua apa yang rambutnya putih?",
+    "answer": "Ketuaan"
+  },
+  {
+    "question": "Perang apa yang senjatanya lem?",
+    "answer": "Perangko"
+  },
+  {
+    "question": "Ular apa yang bisa senam?",
+    "answer": "Ularaga"
+  },
+  {
+    "question": "Paku apa yang ditakuti kuda?",
+    "answer": "Pakusir"
+  },
+  {
+    "question": "Bulat berwarna, tapi kalau kentut jadi kurus apa itu?",
+    "answer": "Balon"
+  },
+  {
+    "question": "Kota apa yang paling menyedihkan?",
+    "answer": "Kota malang"
+  },
+  {
+    "question": "Naiknya cepet turunnya lamban?",
+    "answer": "Ingus"
+  },
+  {
+    "question": "Tong…. tong apa yang rasanya enak?",
+    "answer": "Tongseng"
+  },
+  {
+    "question": "Ban itu isinya udara, tetapi ada ban yang isinya udaranya dingin?",
+    "answer": "Bandung"
+  },
+  {
+    "question": "Kota apa yang rasanya pahit?",
+    "answer": "Pare pare"
+  },
+  {
+    "question": "Bel apa yang tidak pernah berbunyi dan sangat licin?",
+    "answer": "Belut"
+  },
+  {
+    "question": "Singa apa yang sering dikunjungi orang?",
+    "answer": "Singapore"
+  },
+  {
+    "question": "Sapi apa yang bisa nempel ditembok?",
+    "answer": "Sapiderman"
+  },
+  {
+    "question": "Binatang apa yang paling banyak muridnya?",
+    "answer": "Kanguru"
+  },
+  {
+    "question": "Ular apa yang paling digemari anak-anak?",
+    "answer": "Ular tangga"
+  },
+  {
+    "question": "Dari atas bisa terbang ke bawah, tetapi sudah sampai ke bawah nggak bisa terbang keatas lagi?",
+    "answer": "Daun"
+  },
+  {
+    "question": "Laut apa yang nggak punya nyawa?",
+    "answer": "Laut mati"
+  },
+  {
+    "question": "Benda apa yang pertumbuhannya dari panjang jadi pendek?",
+    "answer": "Pensil"
+  },
+  {
+    "question": "Mata apa yang malam hari tutup?",
+    "answer": "Matahari"
+  },
+  {
+    "question": "Mata apa yang bisa naklukin banteng?",
+    "answer": "Matador"
+  },
+  {
+    "question": "Om apa yang pagi siang malam seneng dilaut?",
+    "answer": "Ombak"
+  },
+  {
+    "question": "Raja apa yang hobinya terbang?",
+    "answer": "Rajawali"
+  },
+  {
+    "question": "Raja apa yang kepalanya sering dipegang?",
+    "answer": "Raja catur"
+  },
+  {
+    "question": "Rambut apa yang gak perlu disisir?",
+    "answer": "Rambutan"
+  },
+  {
+    "question": "Sapu apa yang bisa dikantongi?",
+    "answer": "Saputangan"
+  },
+  {
+    "question": "Selat apa yang tidak dihimpit oleh dua pulau?",
+    "answer": "Selatan"
+  },
+  {
+    "question": "Tank apa yang diucapin terakhir kali?",
+    "answer": "Tank you"
+  },
+  {
+    "question": "Anak apa yang larinya cepet?",
+    "answer": "Anak panah"
+  },
+  {
+    "question": "Awan apa yang nggak ada dilangit, nggak nurunin hujan, malah bikin orang jengkel?",
+    "answer": "Sariawan"
+  },
+  {
+    "question": "Anak, anaknya siapa yang selalu diinjak-injak?",
+    "answer": "Anak tangga"
+  },
+  {
+    "question": "Tangga apa yang nggak bisa ndinaiki?",
+    "answer": "Tangga nada"
+  },
+  {
+    "question": "Bibir apa yang nyeremin?",
+    "answer": "Bibir jurang"
+  },
+  {
+    "question": "Kerjanya keliling terus setiap hari, tidak pernah capek, siapakah dia?",
+    "answer": "Jarum jam"
+  },
+  {
+    "question": "Mandi apa yang nggak bikin badan basah?",
+    "answer": "Mandi bola"
+  },
+  {
+    "question": "Siapa yang hanya punya ‘HAK’ tapi tidak punya ‘Kejwajiban’?",
+    "answer": "Sepatu"
+  },
+  {
+    "question": "Bulan apa yang tidak tercantum di kalender?",
+    "answer": "Bulan madu"
+  },
+  {
+    "question": "Dia bisa menolong orang dalam kegelapan, tapi dia malah mengorbankan diri pelan-pelan, siapakah dia?",
+    "answer": "Lilin"
+  },
+  {
+    "question": "Makin diisi, makin ringan, apa hayu?",
+    "answer": "Balon gas"
+  },
+  {
+    "question": "Hakim apa yang tugasnya bukan di pengadilan?",
+    "answer": "Hakim garis"
+  },
+  {
+    "question": "Hewan apa yang sering menerima kesalahan orang lain?",
+    "answer": "Kambing hitam"
+  },
+  {
+    "question": "Nama anak yang paling panjang sedunia?",
+    "answer": "Anak sungai"
+  },
+  {
+    "question": "Kecil, kurus, tapi banyak dagingnya, apa hayu?",
+    "answer": "Sate"
+  },
+  {
+    "question": "Masuk kering, keluar lengket, apa hayu?",
+    "answer": "Permen karet"
+  },
+  {
+    "question": "Barang apa yang justru berguna kalo udah pecah?",
+    "answer": "Telur"
+  },
+  {
+    "question": "Apa arti pribahasa ‘sambil menyelam minum air’?",
+    "answer": "Tenggelam"
+  },
+  {
+    "question": "Ibu apa yang kalo berdiri bikin orang tersanjung?",
+    "answer": "Ibu jari"
+  },
+  {
+    "question": "Warna dan buah apa yang disukai wanita?",
+    "answer": "Merah jambu"
+  },
+  {
+    "question": "Kabar apa sebesar gajah tetapi beratnya 0 kg?",
+    "answer": "Kabar burung"
+  },
+  {
+    "question": "Benda apa keluar ketika diputar?",
+    "answer": "Lipstik"
+  },
+  {
+    "question": "Kepalanya merah, jalannya mundur, tapi bukan undur-undur?",
+    "answer": "Obat nyamuk"
+  },
+  {
+    "question": "Bunga-bunga apa yang paling mahal?",
+    "answer": "Bungalow"
+  },
+  {
+    "question": "Apa yang sebesar gajah tetapi beratnya 0 kg?",
+    "answer": "Bayangan gajah"
+  },
+  {
+    "question": "Kebo apa yang bikin capek hayo?",
+    "answer": "Kebogor"
+  },
+  {
+    "question": "Bagaimana caranya menghilangkan bau pete dimulut?",
+    "answer": "Makan jengkol"
+  },
+  {
+    "question": "Apa yang dipunyai kucing tapi tidak dipunyai hewan laen?",
+    "answer": "Anak kucing"
+  },
+  {
+    "question": "Kera apa yang bisa masuk botol",
+    "answer": "Keratingdaeng"
+  },
+  {
+    "question": "Kemana-mana selalu berlima, tapi yang masuk cuman satu apa hayo?",
+    "answer": "Ngupil"
+  },
+  {
+    "question": "Kota apa yang nilainya selalu tujuh?",
+    "answer": "Salatiga"
+  },
+  {
+    "question": "Bola apa yang mirip sama kucing?",
+    "answer": "Bolaemon"
+  },
+  {
+    "question": "Hewan apa yang bersaudara?",
+    "answer": "Katak beradik"
+  },
+  {
+    "question": "Salah apa yang nggak pernah dihukum tapi rasanya sakit banget?",
+    "answer": "Salah urat"
+  },
+  {
+    "question": "Bel apa yang kalo dipencet bisa melukai?",
+    "answer": "Beling"
+  },
+  {
+    "question": "Kopi apa yang nggak bisa diminum?",
+    "answer": "Kopiah"
+  },
+  {
+    "question": "Kecoa apa yang masuk rumah sakit?",
+    "answer": "Kecoalakaan"
+  },
+  {
+    "question": "Kadal, kadal apa yang bikin sakit perut?",
+    "answer": "Kadaluarsa"
+  },
+  {
+    "question": "Apa bahasa arabnya nenek-nenek jatuh dari lantai 10?",
+    "answer": "Almarhum"
+  },
+  {
+    "question": "Kenapa orang suka berkhayal?",
+    "answer": "Karena gratis"
+  },
+  {
+    "question": "Sate apa yang bisa terbang?",
+    "answer": "Satelit"
+  },
+  {
+    "question": "Sapi apa yang larinya kenceng dan bisa ngerem?",
+    "answer": "Sapida motor"
+  },
+  {
+    "question": "Tukang apa yang kalo berhitung diulang-ulang?",
+    "answer": "Tukang foto"
+  },
+  {
+    "question": "Pedas dibalik jadi sedap, sup dibalik jadi apa?",
+    "answer": "Tumpah"
+  },
+  {
+    "question": "Ikan apa yang walau sudah diair diam saja?",
+    "answer": "Ikan goreng"
+  },
+  {
+    "question": "Negara apa yang namanya mirip nama perempuan?",
+    "answer": "Yunani"
+  },
+  {
+    "question": "Kelapa apa yang bikin badan kurus?",
+    "answer": "Kelaparan"
+  },
+  {
+    "question": "Menarik apa yang nggak butuh tali atau tambang?",
+    "answer": "Menarik nafas"
+  },
+  {
+    "question": "Sungai apa di Jakarta yang alirannya deres?",
+    "answer": "Kalideres"
+  },
+  {
+    "question": "Dia nggak bisa bergerak, tapi bisa naik bisa turun. Apakah itu?",
+    "answer": "Jalan"
+  },
+  {
+    "question": "Ayam apa yang nggak takut sama harimau?",
+    "answer": "Ayam nekad"
+  },
+  {
+    "question": "Kepala kepiting adanya dimana?",
+    "answer": "Diketek"
+  },
+  {
+    "question": "Gigi apa yang nggak bisa ngunyah?",
+    "answer": "Gigi motor"
+  },
+  {
+    "question": "Kota apa yang nggak pernah sendiri?",
+    "answer": "Samarinda"
+  },
+  {
+    "question": "Hidup diatas, matipun diatas. Apakah itu?",
+    "answer": "Lampu bohlam"
+  },
+  {
+    "question": "Negara apa yang paling pedas?",
+    "answer": "Chili"
+  },
+  {
+    "question": "Yang dibeli tidak pakai barang itu, dan yang pakai tidak tahu barang itu. Apakah itu?",
+    "answer": "Peti mati"
+  },
+  {
+    "question": "Es apa yang ditunggu-tunggu banyak orang?",
+    "answer": "Esok hari"
+  },
+  {
+    "question": "Pulau apa yang disukai lebah?",
+    "answer": "Madura"
+  },
+  {
+    "question": "Sabun apa yang genit?",
+    "answer": "Sabun colek"
+  },
+  {
+    "question": "Bola apa yang bikin kita bingung?",
+    "answer": "Bolak-balik"
+  },
+  {
+    "question": "Ban apa yang ganas larinya?",
+    "answer": "Banteng"
+  },
+  {
+    "question": "Hewan apa yang punya kelamin lebih dari satu?",
+    "answer": "Barongsai"
+  },
+  {
+    "question": "Hewan apa yang suka pindah rumah?",
+    "answer": "Siput"
+  },
+  {
+    "question": "Bulu apa yang berat sekali?",
+    "answer": "Bu Lurah"
+  },
+  {
+    "question": "Apa yang pantatnya selalu dihisap?",
+    "answer": "Rokok"
+  },
+  {
+    "question": "Gajah mati meninggalkan gading, harimau mati meninggalkan belang, manusia mati meninggalkan?",
+    "answer": "Hutang"
+  },
+  {
+    "question": "Cuman goyang-goyang kaki dapat duit. Siapakah dia?",
+    "answer": "Tukang jahit"
+  },
+  {
+    "question": "Cuman kipas-kipas tapi dapat duit. Siapakah dia?",
+    "answer": "Tukang sate"
+  },
+  {
+    "question": "Jam apa yang sering dipakai dukun?",
+    "answer": "Jampi-jampi"
+  },
+  {
+    "question": "Binatang apa yang paling banyak lewat di jalan raya?",
+    "answer": "Kijang"
+  },
+  {
+    "question": "Binatang apa yang kalo dikasih obat malah mati?",
+    "answer": "Nyamuk"
+  },
+  {
+    "question": "Monyet apa yang berlari-lari di lapangan?",
+    "answer": "Monyetak gol"
+  },
+  {
+    "question": "Air apa yang perlu digetok?",
+    "answer": "Air keras"
+  },
+  {
+    "question": "Pisau apa yang tidak bisa memotong?",
+    "answer": "Pisau cukur"
+  },
+  {
+    "question": "Kalu dia duduk malah lebih tinggi dari pada saat dia berdiri?",
+    "answer": "Kucing duduk"
+  },
+  {
+    "question": "Masuknya hijau, keluarnya merah. Apa hayu?",
+    "answer": "Sirih"
+  },
+  {
+    "question": "Dokter apa yang tidak boleh jatuh cinta pada pasiennya?",
+    "answer": "Dokter hewan"
+  },
+  {
+    "question": "Bunga apa yang paling disuka cewek?",
+    "answer": "Bunga bank"
+  },
+  {
+    "question": "Ciuman sayang di kening, ciuman cinta di pipi, ciuman panas di..?",
+    "answer": "Dikompor"
+  },
+  {
+    "question": "Kera apa yang paling besar se-jawa barat?",
+    "answer": "Kerawang"
+  },
+  {
+    "question": "Kera apa yang bersaudara?",
+    "answer": "Kerabat"
+  },
+  {
+    "question": "Bentuknya kotak, dipegang empuk, dan bisa dimakan. Apa hayu?",
+    "answer": "Tahu"
+  },
+  {
+    "question": "Panjang, berbulu, kalo dimasukin harus pelan-pelan, kalau tidak nanti berdarah. Apa hayu?",
+    "answer": "Sikat gigi"
+  },
+  {
+    "question": "Seribu dibagi dua, jadi?",
+    "answer": "Sobek"
+  },
+  {
+    "question": "Apa yang dilakukan polisi ditengah jalan?",
+    "answer": "Tidur"
+  },
+  {
+    "question": "Siapa menteri kebersihan china?",
+    "answer": "Kemo Cheng"
+  },
+  {
+    "question": "Berdiri sama tinggi, duduk sama rendah, berlari sama …?",
+    "answer": "Capeknya"
+  },
+  {
+    "question": "Kota apa yang selalu minta perhiasan sama ibunya?",
+    "answer": "Magelang"
+  },
+  {
+    "question": "Apa yang selalu jauh di mata dekat di hati?",
+    "answer": "Paru paru"
+  },
+  {
+    "question": "Yang beli nggak pakai, yang pakai tidak beli, yang jual nggak mau pakai?",
+    "answer": "Kain kafan"
+  },
+  {
+    "question": "Tanah apa yang tidak bisa diwariskan?",
+    "answer": "Tanah abang"
+  },
+  {
+    "question": "Bis apa yang menyesatkan?",
+    "answer": "Bisikan setan"
+  },
+  {
+    "question": "Makan apa yang nggak bakal bikin kenyang?",
+    "answer": "Makan waktu"
+  },
+  {
+    "question": "Surat apa yang tidak pernah dibalas oleh pembacanya?",
+    "answer": "Surat kabar"
+  },
+  {
+    "question": "Hari apa yang nggak sempit?",
+    "answer": "Hari Lebaran"
+  },
+  {
+    "question": "Bentuknya lingkaran, ada kacangnya ditengah-tengah, bisa dijilat, huruf depannya M huruf belakangnya K. Apa hayu?",
+    "answer": "Martabak"
+  },
+  {
+    "question": "Oleh-oleh apa yang dibawa kakek saat pulang dari berendam dilaut?",
+    "answer": "Telor asin"
+  },
+  {
+    "question": "Ayam apa yang selalu dicari orang?",
+    "answer": "Ayam hilang"
+  },
+  {
+    "question": "Orang apa yang berenang tapi rambutnya tidak basah?",
+    "answer": "Orang botak"
+  },
+  {
+    "question": "Barang apa yang kalo perlu dibuang, kalo sudah nggak perlu malah diambil?",
+    "answer": "Jangkar kapal"
+  },
+  {
+    "question": "Negara apa yang doyannya minum?",
+    "answer": "Australia"
+  },
+  {
+    "question": "Buah apa yang nggak bisa dipetik?",
+    "answer": "Buah jatuh"
+  },
+  {
+    "question": "Apa bahasa inggrisnya harimau yang jago main golf?",
+    "answer": "Tiger wood"
+  },
+  {
+    "question": "Sebutkan makanan ala anak punk",
+    "answer": "Punksit"
+  },
+  {
+    "question": "Sebutkan tempat mangkal anak punk",
+    "answer": "Punkalan ojek"
+  },
+  {
+    "question": "Shampoo apa yang bisa mengeluarkan asap?",
+    "answer": "Shampoorna hijau"
+  },
+  {
+    "question": "Suku apa yang suka berjaga-jaga tiap malam?",
+    "answer": "Sukuriti"
+  },
+  {
+    "question": "Tari apa yang paling menakutkan?",
+    "answer": "Taring harimau"
+  },
+  {
+    "question": "Tari apa yang gerakannya tidak usah dipelajari?",
+    "answer": "Tarik nafas"
+  },
+  {
+    "question": "Telor apa yang paling keras?",
+    "answer": "Telortoar"
+  },
+  {
+    "question": "Tempe apa yang menyakitkan?",
+    "answer": "Tempeleng"
+  },
+  {
+    "question": "Tempe apa yang tidak bisa dimakan?",
+    "answer": "Temperatur"
+  },
+  {
+    "question": "Tong apa yang tidak bisa buat nyimpen krupuk?",
+    "answer": "Tongkat"
+  },
+  {
+    "question": "Apa bahasa arabnya diam ditempat?",
+    "answer": "Takabur"
+  },
+  {
+    "question": "Mata apa yang nggak bisa pakai kacamata?",
+    "answer": "Mata kaki"
+  },
+  {
+    "question": "Mi apa yang paling banyak di terminal?",
+    "answer": "Mikrolet"
+  },
+  {
+    "question": "Nada apa yang punya pangkat?",
+    "answer": "Nada mayor"
+  },
+  {
+    "question": "Nasi apa yang nggak bisa hilang?",
+    "answer": "Nasionalisme"
+  },
+  {
+    "question": "Panci apa yang bisa dipakai buat nangkep ikan?",
+    "answer": "Pancing ikan"
+  },
+  {
+    "question": "Resep apa yang dibayar harian?",
+    "answer": "Resepsionis"
+  },
+  {
+    "question": "Sambal yang berbahaya?",
+    "answer": "Kesambal petir"
+  },
+  {
+    "question": "Kasur apa yang tidak bisa ditidurin?",
+    "answer": "Kasurupan"
+  },
+  {
+    "question": "Kencan apa yang paling menyakitkan?",
+    "answer": "Kencantol kawat"
+  },
+  {
+    "question": "Ketan apa yang menyakitkan?",
+    "answer": "Ketancap pisau"
+  },
+  {
+    "question": "Kirim apa yang masuk penjara?",
+    "answer": "Kiriminal"
+  },
+  {
+    "question": "Kue apa yang asem?",
+    "answer": "Kuetek"
+  },
+  {
+    "question": "Kunci apa yang sering ditaruh dikepala?",
+    "answer": "Kuncir rambut"
+  }
+]

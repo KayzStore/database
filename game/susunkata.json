@@ -1,0 +1,1767 @@
+[
+  {
+    "type": "Profesi",
+    "question": "O-D-T-R-E-K",
+    "answer": "DOKTER"
+  },
+  {
+    "type": "Benda",
+    "question": "L-I-M-B-O",
+    "answer": "MOBIL"
+  },
+  {
+    "type": "Profesi",
+    "question": "A-K-H-I-M",
+    "answer": "HAKIM"
+  },
+  {
+    "type": "Benda",
+    "question": "T-R-A-G-I",
+    "answer": "GITAR"
+  },
+  {
+    "type": "Benda",
+    "question": "A-P-S-U-I",
+    "answer": "PISAU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-P-I-P",
+    "answer": "PIPA"
+  },
+  {
+    "type": "Hewan",
+    "question": "M-A-Y-A",
+    "answer": "AYAM"
+  },
+  {
+    "type": "Benda",
+    "question": "A-K-P-L-E-A",
+    "answer": "KEPALA"
+  },
+  {
+    "type": "Benda",
+    "question": "E-O-N-K-A-R-Y",
+    "answer": "KERAYON"
+  },
+  {
+    "type": "Benda",
+    "question": "G-U-N-A",
+    "answer": "UANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "D-A-K-U",
+    "answer": "KUDA"
+  },
+  {
+    "type": "Makanan",
+    "question": "A-T-D-O-N",
+    "answer": "DONAT"
+  },
+  {
+    "type": "Benda",
+    "question": "E-P-I-C",
+    "answer": "PECI"
+  },
+  {
+    "type": "Kota",
+    "question": "G-N-U-L-A-M-P",
+    "answer": "LAMPUNG"
+  },
+  {
+    "type": "Tempat",
+    "question": "B-U-N-R-A-K-U",
+    "answer": "KUBURAN"
+  },
+  {
+    "type": "Benda",
+    "question": "S-A-M-U-K",
+    "answer": "KAMUS"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-R-D-E-E-N",
+    "answer": "BENDERA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-N-I-P-O",
+    "answer": "PIANO"
+  },
+  {
+    "type": "Buah",
+    "question": "A-B-R-A-N-T-U-M",
+    "answer": "RAMBUTAN"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-N-G-E-R-U-B",
+    "answer": "BERUANG"
+  },
+  {
+    "type": "Benda",
+    "question": "J-A-M-E",
+    "answer": "MEJA"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-U-R-N-G-U",
+    "answer": "BURUNG"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-E-N-G-N-A-T",
+    "answer": "BANTENG"
+  },
+  {
+    "type": "Buah",
+    "question": "A-N-S-A-N",
+    "answer": "NANAS"
+  },
+  {
+    "type": "Buah",
+    "question": "A-I-R-D-U-N",
+    "answer": "DURIAN"
+  },
+  {
+    "type": "Hewan",
+    "question": "K-A-I-N",
+    "answer": "IKAN"
+  },
+  {
+    "type": "Benda",
+    "question": "I-N-P-U-T",
+    "answer": "PINTU"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-N-U-M-K-Y",
+    "answer": "NYAMUK"
+  },
+  {
+    "type": "Benda",
+    "question": "A-D-L-A-N-S",
+    "answer": "SANDAL"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-E-B-U-R",
+    "answer": "KERBAU"
+  },
+  {
+    "type": "Benda",
+    "question": "S-T-R-E-A-K",
+    "answer": "KERTAS"
+  },
+  {
+    "type": "Benda",
+    "question": "G-E-N-P-O-T",
+    "answer": "TOPENG"
+  },
+  {
+    "type": "Benda",
+    "question": "A-S-B-U-N",
+    "answer": "SABUN"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-U-N-T",
+    "answer": "UNTA"
+  },
+  {
+    "type": "Benda",
+    "question": "I-L-N-I-L",
+    "answer": "LILIN"
+  },
+  {
+    "type": "Benda",
+    "question": "M-A-J",
+    "answer": "JAM"
+  },
+  {
+    "type": "Benda",
+    "question": "A-K-U-P",
+    "answer": "PAKU"
+  },
+  {
+    "type": "Buah",
+    "question": "A-P-I-N-G-S",
+    "answer": "PISANG"
+  },
+  {
+    "type": "Benda",
+    "question": "A-T-S",
+    "answer": "TAS"
+  },
+  {
+    "type": "Benda",
+    "question": "I-R-K-U-S",
+    "answer": "KURSI"
+  },
+  {
+    "type": "Hewan",
+    "question": "I-P-S-A",
+    "answer": "SAPI"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-A-N-G-K-I-M",
+    "answer": "KAMBING"
+  },
+  {
+    "type": "Hewan",
+    "question": "R-A-U-L",
+    "answer": "ULAR"
+  },
+  {
+    "type": "Benda",
+    "question": "A-L-B-T-A-N",
+    "answer": "BANTAL"
+  },
+  {
+    "type": "Benda",
+    "question": "E-L-M-I-R-A",
+    "answer": "LEMARI"
+  },
+  {
+    "type": "Benda",
+    "question": "S-U-I-T",
+    "answer": "TISU"
+  },
+  {
+    "type": "Benda",
+    "question": "G-I-N-R-I-P",
+    "answer": "PIRING"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-L-B-I",
+    "answer": "BALI"
+  },
+  {
+    "type": "Benda",
+    "question": "S-P-I-N-E-L",
+    "answer": "PENSIL"
+  },
+  {
+    "type": "Benda",
+    "question": "T-U-B-A",
+    "answer": "BATU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-T-A-B",
+    "answer": "BATA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-P-U-S",
+    "answer": "SAPU"
+  },
+  {
+    "type": "Kota",
+    "question": "B-R-O-G-O",
+    "answer": "BOGOR"
+  },
+  {
+    "type": "Benda",
+    "question": "A-N-I-S-U-L-K",
+    "answer": "LUKISAN"
+  },
+  {
+    "type": "Benda",
+    "question": "K-U-S-A-L-K",
+    "answer": "KULKAS"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-D-A-B",
+    "answer": "BADAK"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-H-J-A-G",
+    "answer": "GAJAH"
+  },
+  {
+    "type": "Benda",
+    "question": "A-N-Y-P-U-G",
+    "answer": "PAYUNG"
+  },
+  {
+    "type": "Benda",
+    "question": "A-D-H-U-N-K",
+    "answer": "HANDUK"
+  },
+  {
+    "type": "Buah",
+    "question": "A-S-M-A-N-G-E",
+    "answer": "SEMANGKA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-S-E-T-U-P",
+    "answer": "SEPATU"
+  },
+  {
+    "type": "Benda",
+    "question": "G-U-R-A-P",
+    "answer": "GARPU"
+  },
+  {
+    "type": "Hewan",
+    "question": "C-U-K-I-N-G",
+    "answer": "KUCING"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-A-M-O-D",
+    "answer": "DOMBA"
+  },
+  {
+    "type": "Tempat",
+    "question": "T-H-O-L-E",
+    "answer": "HOTEL"
+  },
+  {
+    "type": "Hewan",
+    "question": "H-E-A-P-J-A-R",
+    "answer": "JERAPAH"
+  },
+  {
+    "type": "Tempat",
+    "question": "L-A-T-H-E",
+    "answer": "HALTE"
+  },
+  {
+    "type": "Benda",
+    "question": "E-R-I-C-M-N",
+    "answer": "CERMIN"
+  },
+  {
+    "type": "Benda",
+    "question": "M-O-P-E-T-U-R-K",
+    "answer": "KOMPUTER"
+  },
+  {
+    "type": "Benda",
+    "question": "M-E-T-R-O-S",
+    "answer": "TERMOS"
+  },
+  {
+    "type": "Benda",
+    "question": "A-C-L-E-A-N",
+    "answer": "CELANA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-I-R-I-T",
+    "answer": "TIRAI"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-N-D-R-A-B-A",
+    "answer": "BANDARA"
+  },
+  {
+    "type": "Organ",
+    "question": "S-U-U-S",
+    "answer": "USUS"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-G-E-N-T-N-B",
+    "answer": "BANTENG"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-A-D-B",
+    "answer": "BADAK"
+  },
+  {
+    "type": "Buah",
+    "question": "E-M-N-O-L",
+    "answer": "LEMON"
+  },
+  {
+    "type": "Tempat",
+    "question": "D-A-N-N-A-K-G",
+    "answer": "KANDANG"
+  },
+  {
+    "type": "Buah",
+    "question": "A-P-S-I-N-G",
+    "answer": "PISANG"
+  },
+  {
+    "type": "Benda",
+    "question": "L-I-S-E-T-T-A",
+    "answer": "SATELIT"
+  },
+  {
+    "type": "Benda",
+    "question": "A-K-E-B-C",
+    "answer": "BECAK"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-N-A-B-U-G",
+    "answer": "BANGAU"
+  },
+  {
+    "type": "Tumbuhan",
+    "question": "A-N-B-U-G",
+    "answer": "BUNGA"
+  },
+  {
+    "type": "Benda",
+    "question": "I-P-T-U-N",
+    "answer": "PINTU"
+  },
+  {
+    "type": "Benda",
+    "question": "I-P-K-O",
+    "answer": "KOPI"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-R-U-B-E",
+    "answer": "KERBAU"
+  },
+  {
+    "type": "Bagian Tubuh",
+    "question": "D-I-N-G-U-H",
+    "answer": "HIDUNG"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "L-I-P-T-O",
+    "answer": "PILOT"
+  },
+  {
+    "type": "Benda",
+    "question": "A-C-L-E-A-N",
+    "answer": "CELANA"
+  },
+  {
+    "type": "BENDA",
+    "question": "H-A-N-A-L-A-M",
+    "answer": "HALAMAN"
+  },
+  {
+    "type": "Tumbuhan",
+    "question": "G-A-B-W-A-N",
+    "answer": "BAWANG"
+  },
+  {
+    "type": "Benda",
+    "question": "U-C-T-A-R",
+    "answer": "CATUR"
+  },
+  {
+    "type": "Benda",
+    "question": "M-R-T-O-O",
+    "answer": "MOTOR"
+  },
+  {
+    "type": "Tempat",
+    "question": "L-E-A-K-S",
+    "answer": "KELAS"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-K-E-H-O-L-S",
+    "answer": "SEKOLAH"
+  },
+  {
+    "type": "Hewan",
+    "question": "J-I-G-N-A-N",
+    "answer": "ANJING"
+  },
+  {
+    "type": "Benda",
+    "question": "S-A-B-E-R",
+    "answer": "BERAS"
+  },
+  {
+    "type": "Hewan",
+    "question": "M-U-T-E-S",
+    "answer": "SEMUT"
+  },
+  {
+    "type": "Benda",
+    "question": "D-A-K-U-H-N",
+    "answer": "HANDUK"
+  },
+  {
+    "type": "Benda",
+    "question": "A-L-E-N-E-D-J",
+    "answer": "JENDELA"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-U-G-I-N-S",
+    "answer": "SUNGAI"
+  },
+  {
+    "type": "Buah",
+    "question": "A-K-P-E-A-L",
+    "answer": "KELAPA"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-L-U-O-N-N-B",
+    "answer": "BUNGLON"
+  },
+  {
+    "type": "Makanan",
+    "question": "A-A-R-C",
+    "answer": "ACAR"
+  },
+  {
+    "type": "Tempst",
+    "question": "E-L-H-A-T",
+    "answer": "HALTE"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-H-A-W-S",
+    "answer": "SAWAH"
+  },
+  {
+    "type": "Tempat",
+    "question": "D-A-R-A-B-A-N",
+    "answer": "BANDARA"
+  },
+  {
+    "type": "Hewan",
+    "question": "U-H-I",
+    "answer": "HIU"
+  },
+  {
+    "type": "Sayuran",
+    "question": "L-O-K",
+    "answer": "KOL"
+  },
+  {
+    "type": "Benda",
+    "question": "N-A-B",
+    "answer": "BAN"
+  },
+  {
+    "type": "Benda",
+    "question": "B-R-O",
+    "answer": "BOR"
+  },
+  {
+    "type": "Benda",
+    "question": "E-R-P",
+    "answer": "PER"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-U-J-B",
+    "answer": "BAJU"
+  },
+  {
+    "type": "Buah",
+    "question": "P-E-A-L",
+    "answer": "APEL"
+  },
+  {
+    "type": "Benda",
+    "question": "K-U-B-U",
+    "answer": "BUKU"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-L-O",
+    "answer": "BOLA"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-C-B-E",
+    "answer": "CABE"
+  },
+  {
+    "type": "Benda",
+    "question": "F-I-R-E",
+    "answer": "FERI"
+  },
+  {
+    "type": "Hewan",
+    "question": "R-U-I-N",
+    "answer": "NURI"
+  },
+  {
+    "type": "Benda",
+    "question": "Y-O-O-Y",
+    "answer": "YOYO"
+  },
+  {
+    "type": "Benda",
+    "question": "F-A-S-O",
+    "answer": "SOFA"
+  },
+  {
+    "type": "Benda",
+    "question": "I-L-T-A",
+    "answer": "TALI"
+  },
+  {
+    "type": "Hewan",
+    "question": "S-U-R-A",
+    "answer": "RUSA"
+  },
+  {
+    "type": "Benda",
+    "question": "P-A-U-L",
+    "answer": "PALU"
+  },
+  {
+    "type": "Hewan",
+    "question": "E-L-E-L",
+    "answer": "LELE"
+  },
+  {
+    "type": "Benda",
+    "question": "P-I-T-O",
+    "answer": "TOPI"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-B-U-L",
+    "answer": "LABU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-Y-U-K",
+    "answer": "KAYU"
+  },
+  {
+    "type": "Buah",
+    "question": "L-I-C-E",
+    "answer": "LECI"
+  },
+  {
+    "type": "Benda",
+    "question": "L-A-J-A",
+    "answer": "JALA"
+  },
+  {
+    "type": "Benda",
+    "question": "S-A-U-K",
+    "answer": "KUAS"
+  },
+  {
+    "type": "Benda",
+    "question": "D-I-A-S",
+    "answer": "DASI"
+  },
+  {
+    "type": "Hewan",
+    "question": "L-A-U-T",
+    "answer": "ULAT"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-N-T",
+    "answer": "TANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-P-U-S",
+    "answer": "PAUS"
+  },
+  {
+    "type": "Hewan",
+    "question": "U-U-Y-Y",
+    "answer": "YUYU"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-W-I-S",
+    "answer": "SAWI"
+  },
+  {
+    "type": "Sayuran",
+    "question": "E-T-G-O",
+    "answer": "TOGE"
+  },
+  {
+    "type": "Buah",
+    "question": "A-S-O-W",
+    "answer": "SAWO"
+  },
+  {
+    "type": "Buah",
+    "question": "R-I-C-E",
+    "answer": "CERI"
+  },
+  {
+    "type": "Benda",
+    "question": "I-K-A-L",
+    "answer": "KAIL"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-R-E-P",
+    "answer": "PARE"
+  },
+  {
+    "type": "Benda",
+    "question": "D-A-R-O",
+    "answer": "RODA"
+  },
+  {
+    "type": "Benda",
+    "question": "L-E-M-H",
+    "answer": "HELM"
+  },
+  {
+    "type": "Buah",
+    "question": "P-A-L-E",
+    "answer": "APEL"
+  },
+  {
+    "type": "Benda",
+    "question": "R-U-M-D",
+    "answer": "DRUM"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-R-E-K",
+    "answer": "KERA"
+  },
+  {
+    "type": "Benda",
+    "question": "K-A-N-T",
+    "answer": "TANK"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "U-R-U-G",
+    "answer": "GURU"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "K-O-I-K",
+    "answer": "KOKI"
+  },
+  {
+    "type": "Benda",
+    "question": "A-M-P-U-L",
+    "answer": "LAMPU"
+  },
+  {
+    "type": "Buah",
+    "question": "J-R-U-K-E",
+    "answer": "JERUK"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-A-L-E-N",
+    "answer": "ELANG"
+  },
+  {
+    "type": "Benda",
+    "question": "B-E-R-E-M",
+    "answer": "EMBER"
+  },
+  {
+    "type": "Benda",
+    "question": "B-E-G-O-N",
+    "answer": "OBENG"
+  },
+  {
+    "type": "Benda",
+    "question": "A-A-L-I-P",
+    "answer": "PIALA"
+  },
+  {
+    "type": "Benda",
+    "question": "H-A-R-U-M",
+    "answer": "RUMAH"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-A-I-N-S",
+    "answer": "SINGA"
+  },
+  {
+    "type": "Hewan",
+    "question": "K-U-S-I-T",
+    "answer": "TIKUS"
+  },
+  {
+    "type": "Benda",
+    "question": "J-A-W-N-A",
+    "answer": "WAJAN"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-R-A-Z-E",
+    "answer": "ZEBRA"
+  },
+  {
+    "type": "Benda",
+    "question": "L-I-T-O-R",
+    "answer": "TROLI"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-C-M-A-N",
+    "answer": "MACAN"
+  },
+  {
+    "type": "Sayuran",
+    "question": "M-I-N-U-T",
+    "answer": "TIMUN"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-N-O-L",
+    "answer": "BALON"
+  },
+  {
+    "type": "Benda",
+    "question": "P-A-N-I-C",
+    "answer": "PANCI"
+  },
+  {
+    "type": "Benda",
+    "question": "C-U-I-N-K",
+    "answer": "KUNCI"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-P-A-N-D",
+    "answer": "PANDA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-D-N-E-T",
+    "answer": "TENDA"
+  },
+  {
+    "type": "Hewan",
+    "question": "N-O-B-I-S",
+    "answer": "BISON"
+  },
+  {
+    "type": "Buah",
+    "question": "E-L-M-O-N",
+    "answer": "MELON"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-T-R-I-P",
+    "answer": "TAPIR"
+  },
+  {
+    "type": "Benda",
+    "question": "S-I-R-S-I",
+    "answer": "SISIR"
+  },
+  {
+    "type": "Benda",
+    "question": "R-U-S-A-K",
+    "answer": "KASUR"
+  },
+  {
+    "type": "Benda",
+    "question": "P-O-K-E-R",
+    "answer": "KOPER"
+  },
+  {
+    "type": "Benda",
+    "question": "A-L-E-G-S",
+    "answer": "GELAS"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-D-G-U-N",
+    "answer": "UDANG"
+  },
+  {
+    "type": "Benda",
+    "question": "S-P-I-N-O",
+    "answer": "SPION"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-T-A-L-L",
+    "answer": "LALAT"
+  },
+  {
+    "type": "Buah",
+    "question": "J-A-B-M-U",
+    "answer": "JAMBU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-P-O-M-P",
+    "answer": "POMPA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-M-U-J-R",
+    "answer": "JARUM"
+  },
+  {
+    "type": "Benda",
+    "question": "S-K-E-E-T",
+    "answer": "KESET"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-U-B-A-Y",
+    "answer": "BUAYA"
+  },
+  {
+    "type": "Benda",
+    "question": "I-T-A-S-K",
+    "answer": "SIKAT"
+  },
+  {
+    "type": "Buah",
+    "question": "M-O-T-A-T",
+    "answer": "TOMAT"
+  },
+  {
+    "type": "Benda",
+    "question": "K-E-R-T-O",
+    "answer": "ROKET"
+  },
+  {
+    "type": "Benda",
+    "question": "T-A-K-E-R",
+    "answer": "RAKET"
+  },
+  {
+    "type": "Benda",
+    "question": "M-E-T-R-O",
+    "answer": "REMOT"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-E-L-A-H",
+    "answer": "LEBAH"
+  },
+  {
+    "type": "Hewan",
+    "question": "C-I-A-K-C",
+    "answer": "CICAK"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-G-A-G",
+    "answer": "GAGAK"
+  },
+  {
+    "type": "Buah",
+    "question": "L-A-S-K-A",
+    "answer": "SALAK"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-S-K-A",
+    "answer": "ASBAK"
+  },
+  {
+    "type": "Benda",
+    "question": "L-O-B-T-O",
+    "answer": "BOTOL"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-A-B-O-N",
+    "answer": "BANGO"
+  },
+  {
+    "type": "Hewan",
+    "question": "C-O-K-E-A",
+    "answer": "KECOA"
+  },
+  {
+    "type": "Hewan",
+    "question": "P-U-T-I-A",
+    "answer": "TUPAI"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-O-I-L",
+    "answer": "BIOLA"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-A-L-O",
+    "answer": "KOALA"
+  },
+  {
+    "type": "Sayuran",
+    "question": "S-I-B-U-K",
+    "answer": "KUBIS"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-B-A-M-Y",
+    "answer": "BAYAM"
+  },
+  {
+    "type": "Sayuran",
+    "question": "M-U-R-A-J",
+    "answer": "JAMUR"
+  },
+  {
+    "type": "Benda",
+    "question": "L-I-U-K-A",
+    "answer": "KUALI"
+  },
+  {
+    "type": "Hewan",
+    "question": "S-A-G-A-N",
+    "answer": "ANGSA"
+  },
+  {
+    "type": "Benda",
+    "question": "N-A-B-O-D",
+    "answer": "BANDO"
+  },
+  {
+    "type": "Benda",
+    "question": "S-T-A-K-E",
+    "answer": "KASET"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-P-A-R",
+    "answer": "PAGAR"
+  },
+  {
+    "type": "Hewan",
+    "question": "K-U-R-A-N",
+    "answer": "RAKUN"
+  },
+  {
+    "type": "Benda",
+    "question": "B-L-A-K-E",
+    "answer": "KABEL"
+  },
+  {
+    "type": "Benda",
+    "question": "B-R-O-T-O",
+    "answer": "ROBOT"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-E-L-S",
+    "answer": "GELAS"
+  },
+  {
+    "type": "Benda",
+    "question": "P-I-S-K-A",
+    "answer": "KIPAS"
+  },
+  {
+    "type": "Benda",
+    "question": "K-E-R-O-K",
+    "answer": "KOREK"
+  },
+  {
+    "type": "Benda",
+    "question": "A-L-O-N-G",
+    "answer": "GALON"
+  },
+  {
+    "type": "Benda",
+    "question": "A-C-I-N-D",
+    "answer": "CANDI"
+  },
+  {
+    "type": "Hewan",
+    "question": "E-N-Y-U-P",
+    "answer": "PENYU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-P-I-O-N",
+    "answer": "PIANO"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "R-U-R-I-K",
+    "answer": "KURIR"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "P-U-S-R-I",
+    "answer": "SUPIR"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "A-K-R-I-S",
+    "answer": "KASIR"
+  },
+  {
+    "type": "Profesi",
+    "question": "L-A-T-T-E",
+    "answer": "ATLET"
+  },
+  {
+    "type": "Profesi",
+    "question": "P-I-K-E-R",
+    "answer": "KIPER"
+  },
+  {
+    "type": "Profesi",
+    "question": "W-A-I-T-S",
+    "answer": "WASIT"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "B-I-B-A-T",
+    "answer": "TABIB"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "R-I-K-U-S",
+    "answer": "KUSIR"
+  },
+  {
+    "type": "Tempat",
+    "question": "H-A-N-T-U",
+    "answer": "HUTAN"
+  },
+  {
+    "type": "Tempat",
+    "question": "D-R-A-U-P",
+    "answer": "DAPUR"
+  },
+  {
+    "type": "Tempat",
+    "question": "M-A-N-T-A",
+    "answer": "TAMAN"
+  },
+  {
+    "type": "Tempat",
+    "question": "P-A-R-A-S",
+    "answer": "PASAR"
+  },
+  {
+    "type": "Benda",
+    "question": "B-A-K-E-O-N",
+    "answer": "BONEKA"
+  },
+  {
+    "type": "Benda",
+    "question": "J-A-K-E-M-E",
+    "answer": "KEMEJA"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-I-A-N-U-A",
+    "answer": "IGUANA"
+  },
+  {
+    "type": "Benda",
+    "question": "H-A-R-E-U-P",
+    "answer": "PERAHU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-M-A-K-E-R",
+    "answer": "KAMERA"
+  },
+  {
+    "type": "Benda",
+    "question": "D-A-P-E-S-E",
+    "answer": "SEPEDA"
+  },
+  {
+    "type": "Benda",
+    "question": "R-E-T-A-K-E",
+    "answer": "KERETA"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-U-I-T-A-R",
+    "answer": "GURITA"
+  },
+  {
+    "type": "Buah",
+    "question": "A-P-E-P-A-Y",
+    "answer": "PEPAYA"
+  },
+  {
+    "type": "Benda",
+    "question": "A-K-L-U-N-G",
+    "answer": "KALUNG"
+  },
+  {
+    "type": "Benda",
+    "question": "N-A-T-A-N-E",
+    "answer": "ANTENA"
+  },
+  {
+    "type": "Buah",
+    "question": "G-R-A-N-G-U",
+    "answer": "ANGGUR"
+  },
+  {
+    "type": "Benda",
+    "question": "C-R-A-S-K-I",
+    "answer": "KARCIS"
+  },
+  {
+    "type": "Benda",
+    "question": "P-E-G-S-E-R",
+    "answer": "GESPER"
+  },
+  {
+    "type": "Sayuran",
+    "question": "A-G-N-A-K-C",
+    "answer": "KACANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "J-I-G-K-A-N",
+    "answer": "KIJANG"
+  },
+  {
+    "type": "Benda",
+    "question": "N-A-G-W-A-G",
+    "answer": "GAWANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "K-O-D-O-M-O",
+    "answer": "KOMODO"
+  },
+  {
+    "type": "Benda",
+    "question": "G-L-U-I-N-G",
+    "answer": "GULING"
+  },
+  {
+    "type": "Benda",
+    "question": "A-N-G-Y-G-U",
+    "answer": "GAYUNG"
+  },
+  {
+    "type": "Sayuran",
+    "question": "G-E-R-N-O-T",
+    "answer": "TERONG"
+  },
+  {
+    "type": "Benda",
+    "question": "N-A-T-I-N-G",
+    "answer": "ANTING"
+  },
+  {
+    "type": "Benda",
+    "question": "K-R-O-O-M-P",
+    "answer": "KOMPOR"
+  },
+  {
+    "type": "Benda",
+    "question": "M-U-S-P-I-T",
+    "answer": "SUMPIT"
+  },
+  {
+    "type": "Benda",
+    "question": "D-E-M-O-P-T",
+    "answer": "DOMPET"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-G-N-I-C-C",
+    "answer": "CACING"
+  },
+  {
+    "type": "Hewan",
+    "question": "C-U-P-A-N-G",
+    "answer": "CAPUNG"
+  },
+  {
+    "type": "Benda",
+    "question": "G-M-K-O-B-E",
+    "answer": "GEMBOK"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-N-B-U-K",
+    "answer": "BANGKU"
+  },
+  {
+    "type": "Benda",
+    "question": "C-C-I-I-N-N",
+    "answer": "CINCIN"
+  },
+  {
+    "type": "Benda",
+    "question": "D-O-S-K-E-N",
+    "answer": "SENDOK"
+  },
+  {
+    "type": "Benda",
+    "question": "G-R-O-L-O-B",
+    "answer": "BORGOL"
+  },
+  {
+    "type": "Hewan",
+    "question": "C-A-L-K-I-N",
+    "answer": "KANCIL"
+  },
+  {
+    "type": "Sayuran",
+    "question": "L-O-W-E-R-T",
+    "answer": "WORTEL"
+  },
+  {
+    "type": "Hewan",
+    "question": "E-T-O-N-M-Y",
+    "answer": "MONYET"
+  },
+  {
+    "type": "Benda",
+    "question": "A-N-I-T-R-A",
+    "answer": "RANTAI"
+  },
+  {
+    "type": "Sayuran",
+    "question": "J-U-G-N-A-G",
+    "answer": "JAGUNG"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-R-I-P-K-T",
+    "answer": "PARKIT"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-U-S-M-A-N",
+    "answer": "MUSANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-N-D-A-K-L",
+    "answer": "LANDAK"
+  },
+  {
+    "type": "Sayuran",
+    "question": "B-I-C-N-U-S",
+    "answer": "BUNCIS"
+  },
+  {
+    "type": "Buah",
+    "question": "M-E-D-I-A-L",
+    "answer": "DELIMA"
+  },
+  {
+    "type": "Buah",
+    "question": "M-A-R-C-I-E",
+    "answer": "CERMAI"
+  },
+  {
+    "type": "Buah",
+    "question": "G-A-N-G-M-A",
+    "answer": "MANGGA"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-B-A-W-I",
+    "answer": "BIAWAK"
+  },
+  {
+    "type": "Benda",
+    "question": "C-A-K-E-P-I",
+    "answer": "KECAPI"
+  },
+  {
+    "type": "Benda",
+    "question": "E-L-G-A-N-G",
+    "answer": "GELANG"
+  },
+  {
+    "type": "Buah",
+    "question": "A-N-N-A-K-G",
+    "answer": "NANGKA"
+  },
+  {
+    "type": "Buah",
+    "question": "S-K-A-S-R-I",
+    "answer": "SIRSAK"
+  },
+  {
+    "type": "Benda",
+    "question": "R-E-S-E-N-T",
+    "answer": "SENTER"
+  },
+  {
+    "type": "Benda",
+    "question": "P-A-N-G-E-D",
+    "answer": "PEDANG"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-T-A-N-G",
+    "answer": "TANGGA"
+  },
+  {
+    "type": "Benda",
+    "question": "H-E-A-R-U-P",
+    "answer": "PERAHU"
+  },
+  {
+    "type": "Benda",
+    "question": "A-K-A-K-P-M",
+    "answer": "KAMPAK"
+  },
+  {
+    "type": "Profesi",
+    "question": "I-S-P-O-I-L",
+    "answer": "POLISI"
+  },
+  {
+    "type": "Profesi",
+    "question": "L-E-T-A-P-U",
+    "answer": "PELAUT"
+  },
+  {
+    "type": "Profesi",
+    "question": "A-W-L-P-O-N",
+    "answer": "POLWAN"
+  },
+  {
+    "type": "Profesi",
+    "question": "R-U-S-S-E-T",
+    "answer": "SUSTER"
+  },
+  {
+    "type": "Tempat",
+    "question": "I-L-K-I-N-K",
+    "answer": "KLINIK"
+  },
+  {
+    "type": "Tempat",
+    "question": "T-O-P-E-K-A",
+    "answer": "APOTEK"
+  },
+  {
+    "type": "Tempat",
+    "question": "K-A-R-T-O-N",
+    "answer": "KANTOR"
+  },
+  {
+    "type": "Tempat",
+    "question": "G-U-N-W-A-R",
+    "answer": "WARUNG"
+  },
+  {
+    "type": "Tempat",
+    "question": "G-U-N-G-U-N",
+    "answer": "GUNUNG"
+  },
+  {
+    "type": "Tempat",
+    "question": "B-A-R-K-I-P",
+    "answer": "PABRIK"
+  },
+  {
+    "type": "Hewan",
+    "question": "I-C-E-L-I-N-K",
+    "answer": "KELINCI"
+  },
+  {
+    "type": "Benda",
+    "question": "K-I-R-A-S-E-T",
+    "answer": "SETRIKA"
+  },
+  {
+    "type": "Sayuran",
+    "question": "G-A-N-T-K-E-N",
+    "answer": "KENTANG"
+  },
+  {
+    "type": "Benda",
+    "question": "G-I-N-G-U-T-N",
+    "answer": "GUNTING"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-N-G-N-E-D",
+    "answer": "GENDANG"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-H-A-W-S",
+    "answer": "SAWAH"
+  },
+  {
+    "type": "Hewan",
+    "question": "B-U-N-G-K-A-M",
+    "answer": "KUMBANG"
+  },
+  {
+    "type": "Benda",
+    "question": "C-A-N-K-I-N-G",
+    "answer": "KANCING"
+  },
+  {
+    "type": "Buah",
+    "question": "G-A-S-M-I-N-G",
+    "answer": "MANGGIS"
+  },
+  {
+    "type": "Benda",
+    "question": "R-A-C-K-I-N-G",
+    "answer": "CANGKIR"
+  },
+  {
+    "type": "Benda",
+    "question": "G-L-E-N-N-C-O",
+    "answer": "LONCENG"
+  },
+  {
+    "type": "Benda",
+    "question": "A-S-A-W-E-P-T",
+    "answer": "PESAWAT"
+  },
+  {
+    "type": "Benda",
+    "question": "B-R-O-K-A-G-E",
+    "answer": "GEROBAK"
+  },
+  {
+    "type": "Benda",
+    "question": "L-U-C-K-N-A-G",
+    "answer": "CANGKUL"
+  },
+  {
+    "type": "Hewan",
+    "question": "D-E-I-A-L-E-K",
+    "answer": "KELEDAI"
+  },
+  {
+    "type": "Benda",
+    "question": "A-L-P-O-M-I-N",
+    "answer": "LAMPION"
+  },
+  {
+    "type": "Sayuran",
+    "question": "K-A-R-A-P-I-P",
+    "answer": "PAPRIKA"
+  },
+  {
+    "type": "Sayuran",
+    "question": "K-O-L-O-R-I-B",
+    "answer": "BROKOLI"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-I-A-R-H-U-M",
+    "answer": "HARIMAU"
+  },
+  {
+    "type": "Sayuran",
+    "question": "J-O-I-N-M-E-L",
+    "answer": "MELINJO"
+  },
+  {
+    "type": "Buah",
+    "question": "M-A-R-I-S-K-A",
+    "answer": "MARKISA"
+  },
+  {
+    "type": "Benda",
+    "question": "J-A-G-K-N-A-R",
+    "answer": "JANGKAR"
+  },
+  {
+    "type": "Buah",
+    "question": "E-K-E-K-M-S-E",
+    "answer": "KESEMEK"
+  },
+  {
+    "type": "Buah",
+    "question": "R-I-S-A-Y-A-K",
+    "answer": "SRIKAYA"
+  },
+  {
+    "type": "Benda",
+    "question": "N-O-M-I-T-O-R",
+    "answer": "MONITOR"
+  },
+  {
+    "type": "Benda",
+    "question": "G-A-N-K-M-U-K",
+    "answer": "MANGKUK"
+  },
+  {
+    "type": "Benda",
+    "question": "T-A-N-A-G-E-R",
+    "answer": "GERANAT"
+  },
+  {
+    "type": "Benda",
+    "question": "A-J-I-G-G-E-R",
+    "answer": "GERGAJI"
+  },
+  {
+    "type": "Profesi",
+    "question": "L-E-A-N-A-N-Y",
+    "answer": "NELAYAN"
+  },
+  {
+    "type": "Profesi",
+    "question": "L-U-K-E-P-I-S",
+    "answer": "PELUKIS"
+  },
+  {
+    "type": "Profesi",
+    "question": "S-I-M-I-A-N-S",
+    "answer": "MASINIS"
+  },
+  {
+    "type": "Profesi",
+    "question": "I-N-K-I-E-S-T",
+    "answer": "TEKNISI"
+  },
+  {
+    "type": "Profesi",
+    "question": "E-T-A-T-R-A-N",
+    "answer": "TENTARA"
+  },
+  {
+    "type": "Profesi",
+    "question": "P-E-T-A-W-A-R",
+    "answer": "PERAWAT"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "A-L-A-N-Y-E-P",
+    "answer": "PELAYAN"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "A-D-A-H-K-O-N",
+    "answer": "NAHKODA"
+  },
+  {
+    "type": "Profesi",
+    "question": "J-E-N-I-P-U-T",
+    "answer": "PETINJU"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-D-I-T-N-O-S",
+    "answer": "STADION"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-K-A-K-A-T-K-U",
+    "answer": "KAKAKTUA"
+  },
+  {
+    "type": "Buah",
+    "question": "O-R-B-I-T-E-R-S",
+    "answer": "STROBERI"
+  },
+  {
+    "type": "Benda",
+    "question": "A-C-T-A-K-A-M-A",
+    "answer": "KACAMATA"
+  },
+  {
+    "type": "Benda",
+    "question": "L-E-V-I-T-I-E-S",
+    "answer": "TELEVISI"
+  },
+  {
+    "type": "SayuraN",
+    "question": "G-U-N-K-K-N-A-G",
+    "answer": "KANGKUNG"
+  },
+  {
+    "type": "Hewan",
+    "question": "L-A-B-E-L-N-A-G",
+    "answer": "BELALANG"
+  },
+  {
+    "type": "Hewan",
+    "question": "A-J-A-W-L-I-A-R",
+    "answer": "RAJAWALI"
+  },
+  {
+    "type": "Hewan",
+    "question": "G-I-T-I-N-P-E-K",
+    "answer": "KEPITING"
+  },
+  {
+    "type": "Benda",
+    "question": "G-R-U-S-L-I-N-E",
+    "answer": "SERULING"
+  },
+  {
+    "type": "Hewan",
+    "question": "N-A-B-T-A-K-E-N",
+    "answer": "BEKANTAN"
+  },
+  {
+    "type": "Benda",
+    "question": "C-O-N-G-M-E-E-K",
+    "answer": "KEMOCENG"
+  },
+  {
+    "type": "Benda",
+    "question": "M-E-T-P-E-R-O-T",
+    "answer": "TEROMPET"
+  },
+  {
+    "type": "Benda",
+    "question": "G-U-N-K-L-A-N-G",
+    "answer": "ANGKLUNG"
+  },
+  {
+    "type": "Profesi",
+    "question": "A-N-N-Y-Y-I-P-E",
+    "answer": "PENYANYI"
+  },
+  {
+    "type": "Pekerjaan",
+    "question": "D-A-N-G-P-A-G-E",
+    "answer": "PEDAGANG"
+  },
+  {
+    "type": "Profesi",
+    "question": "D-R-U-K-I-T-E-R",
+    "answer": "DIREKTUR"
+  },
+  {
+    "type": "Profesi",
+    "question": "D-E-N-E-P-R-I-S",
+    "answer": "PRESIDEN"
+  },
+  {
+    "type": "Profesi",
+    "question": "S-I-N-N-Y-U-R-I",
+    "answer": "INSINYUR"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-R-E-L-M-I-N-T",
+    "answer": "TERMINAL"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-R-N-I-P-A-R-K",
+    "answer": "PARKIRAN"
+  },
+  {
+    "type": "Tempat",
+    "question": "A-N-T-R-O-R-S-E",
+    "answer": "RESTORAN"
+  }
+]

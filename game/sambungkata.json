@@ -1,0 +1,418 @@
+[
+{
+"soal": "aku mandi di k....",
+"jawaban": "kamar mandi"
+},
+{
+"soal": "dia adalah seorang u...",
+"jawaban": "usahawan"
+},
+{
+"soal": "dia seorang c...",
+"jawaban": "copilot"
+},
+{
+"soal": "ibu pergi ke p...",
+"jawaban": "pasar"
+},
+{
+"soal": "adik bermain b...",
+"jawaban": "bola"
+},
+{
+"soal": "saya suka makan n...",
+"jawaban": "nasi"
+},
+{
+"soal": "langit berwarna b...",
+"jawaban": "biru"
+},
+{
+"soal": "daun berwarna h...",
+"jawaban": "hijau"
+},
+{
+"soal": "mobil itu berwarna m...",
+"jawaban": "merah"
+},
+{
+"soal": "anjing menggonggong g...",
+"jawaban": "guk guk"
+},
+{
+"soal": "kucing mengeong m...",
+"jawaban": "meong"
+},
+{
+"soal": "ayam berkokok k...",
+"jawaban": "kukuruyuk"
+},
+{
+"soal": "sapi memamah b...",
+"jawaban": "biak"
+},
+{
+"soal": "ikan berenang di a...",
+"jawaban": "air"
+},
+{
+"soal": "burung terbang di u...",
+"jawaban": "udara"
+},
+{
+"soal": "buku berisi i...",
+"jawaban": "informasi"
+},
+{
+"soal": "pensil untuk m...",
+"jawaban": "menulis"
+},
+{
+"soal": "penghapus untuk m...",
+"jawaban": "menghapus"
+},
+{
+"soal": "penggaris untuk m...",
+"jawaban": "mengukur"
+},
+{
+"soal": "gunting untuk m...",
+"jawaban": "menggunting"
+},
+{
+"soal": "komputer untuk b...",
+"jawaban": "bekerja"
+},
+{
+"soal": "telepon untuk b...",
+"jawaban": "berbicara"
+},
+{
+"soal": "televisi untuk m...",
+"jawaban": "menonton"
+},
+{
+"soal": "radio untuk m...",
+"jawaban": "mendengar"
+},
+{
+"soal": "pintu untuk m...",
+"jawaban": "masuk"
+},
+{
+"soal": "jendela untuk m...",
+"jawaban": "melihat"
+},
+{
+"soal": "atap untuk m...",
+"jawaban": "melindungi"
+},
+{
+"soal": "lantai untuk b...",
+"jawaban": "berdiri"
+},
+{
+"soal": "dinding untuk m...",
+"jawaban": "membatasi"
+},
+{
+"soal": "kursi untuk d...",
+"jawaban": "duduk"
+},
+{
+"soal": "meja untuk m...",
+"jawaban": "menulis"
+},
+{
+"soal": "lemari untuk m...",
+"jawaban": "menyimpan"
+},
+{
+"soal": "tempat tidur untuk t...",
+"jawaban": "tidur"
+},
+{
+"soal": "bantal untuk k...",
+"jawaban": "kepala"
+},
+{
+"soal": "selimut untuk m...",
+"jawaban": "menghangatkan"
+},
+{
+"soal": "sabun untuk m...",
+"jawaban": "mandi"
+},
+{
+"soal": "shampo untuk m...",
+"jawaban": "rambut"
+},
+{
+"soal": "sikat gigi untuk m...",
+"jawaban": "gigi"
+},
+{
+"soal": "pasta gigi untuk m...",
+"jawaban": "gigi"
+},
+{
+"soal": "handuk untuk m...",
+"jawaban": "mengeringkan"
+},
+{
+"soal": "sendok untuk m...",
+"jawaban": "makan"
+},
+{
+"soal": "garpu untuk m...",
+"jawaban": "makan"
+},
+{
+"soal": "piring untuk m...",
+"jawaban": "makan"
+},
+{
+"soal": "gelas untuk m...",
+"jawaban": "minum"
+},
+{
+"soal": "pisau untuk m...",
+"jawaban": "memotong"
+},
+{
+"soal": "wajan untuk m...",
+"jawaban": "memasak"
+},
+{
+"soal": "panci untuk m...",
+"jawaban": "memasak"
+},
+{
+"soal": "kompor untuk m...",
+"jawaban": "memasak"
+},
+{
+"soal": "kulkas untuk m...",
+"jawaban": "mendinginkan"
+},
+{
+"soal": "beras menjadi n...",
+"jawaban": "nasi"
+},
+{
+"soal": "tepung menjadi k...",
+"jawaban": "kue"
+},
+{
+"soal": "susu dari s...",
+"jawaban": "sapi"
+},
+{
+"soal": "telur dari a...",
+"jawaban": "ayam"
+},
+{
+"soal": "madu dari l...",
+"jawaban": "lebah"
+},
+{
+"soal": "gula rasanya m...",
+"jawaban": "manis"
+},
+{
+"soal": "garam rasanya a...",
+"jawaban": "asin"
+},
+{
+"soal": "cabai rasanya p...",
+"jawaban": "pedas"
+},
+{
+"soal": "jeruk rasanya a...",
+"jawaban": "asam"
+},
+{
+"soal": "kopi rasanya p...",
+"jawaban": "pahit"
+},
+{
+"soal": "apel adalah b...",
+"jawaban": "buah"
+},
+{
+"soal": "wortel adalah s...",
+"jawaban": "sayur"
+},
+{
+"soal": "ayam adalah d...",
+"jawaban": "daging"
+},
+{
+"soal": "air adalah c...",
+"jawaban": "cairan"
+},
+{
+"soal": "roti adalah m...",
+"jawaban": "makanan"
+},
+{
+"soal": "mata untuk m...",
+"jawaban": "melihat"
+},
+{
+"soal": "hidung untuk m...",
+"jawaban": "mencium"
+},
+{
+"soal": "telinga untuk m...",
+"jawaban": "mendengar"
+},
+{
+"soal": "mulut untuk b...",
+"jawaban": "bicara"
+},
+{
+"soal": "tangan untuk m...",
+"jawaban": "memegang"
+},
+{
+"soal": "kaki untuk b...",
+"jawaban": "berjalan"
+},
+{
+"soal": "rambut di k...",
+"jawaban": "kepala"
+},
+{
+"soal": "kulit melindungi t...",
+"jawaban": "tubuh"
+},
+{
+"soal": "otak untuk b...",
+"jawaban": "berpikir"
+},
+{
+"soal": "jantung untuk m...",
+"jawaban": "memompa"
+},
+{
+"soal": "paru-paru untuk b...",
+"jawaban": "bernapas"
+},
+{
+"soal": "dokter mengobati o...",
+"jawaban": "orang sakit"
+},
+{
+"soal": "guru mengajar m...",
+"jawaban": "murid"
+},
+{
+"soal": "polisi menjaga k...",
+"jawaban": "keamanan"
+},
+{
+"soal": "petani menanam p...",
+"jawaban": "padi"
+},
+{
+"soal": "nelayan menangkap i...",
+"jawaban": "ikan"
+},
+{
+"soal": "pilot menerbangkan p...",
+"jawaban": "pesawat"
+},
+{
+"soal": "masinis mengendarai k...",
+"jawaban": "kereta"
+},
+{
+"soal": "supir mengemudikan m...",
+"jawaban": "mobil"
+},
+{
+"soal": "tukang kayu membuat p...",
+"jawaban": "perabot"
+},
+{
+"soal": "penjahit menjahit p...",
+"jawaban": "pakaian"
+},
+{
+"soal": "pemadam kebakaran memadamkan a...",
+"jawaban": "api"
+},
+{
+"soal": "perawat merawat p...",
+"jawaban": "pasien"
+},
+{
+"soal": "hakim memimpin p...",
+"jawaban": "persidangan"
+},
+{
+"soal": "jaksa menuntut t...",
+"jawaban": "terdakwa"
+},
+{
+"soal": "pengacara membela k...",
+"jawaban": "klien"
+},
+{
+"soal": "presiden memimpin n...",
+"jawaban": "negara"
+},
+{
+"soal": "gubernur memimpin p...",
+"jawaban": "provinsi"
+},
+{
+"soal": "walikota memimpin k...",
+"jawaban": "kota"
+},
+{
+"soal": "bupati memimpin k...",
+"jawaban": "kabupaten"
+},
+{
+"soal": "lurah memimpin d...",
+"jawaban": "desa"
+},
+{
+"soal": "januari adalah b...",
+"jawaban": "bulan"
+},
+{
+"soal": "senin adalah h...",
+"jawaban": "hari"
+},
+{
+"soal": "angka satu adalah s...",
+"jawaban": "satuan"
+},
+{
+"soal": "warna merah adalah w...",
+"jawaban": "warna"
+},
+{
+"soal": "Indonesia adalah n...",
+"jawaban": "negara"
+},
+{
+"soal": "Bahasa Indonesia adalah b...",
+"jawaban": "bahasa"
+},
+{
+"soal": "Jakarta adalah i...",
+"jawaban": "ibukota"
+},
+{
+"soal": "Rupiah adalah m...",
+"jawaban": "mata uang"
+},
+{
+"soal": "Garuda adalah l...",
+"jawaban": "lambang"
+}
+]
