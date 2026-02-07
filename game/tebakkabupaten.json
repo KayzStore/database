@@ -1,2572 +1,2082 @@
 [
-        {
-            "index": 1,
-            "title": "Kabupaten Aceh Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/1/200"
-        },
-        {
-            "index": 2,
-            "title": "Kabupaten Aceh Barat Daya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/2/200"
-        },
-        {
-            "index": 3,
-            "title": "Kabupaten Aceh Besar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/3/200"
-        },
-        {
-            "index": 4,
-            "title": "Kabupaten Aceh Jaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/4/200"
-        },
-        {
-            "index": 5,
-            "title": "Kabupaten Aceh Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/5/200"
-        },
-        {
-            "index": 6,
-            "title": "Kabupaten Aceh Singkil",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/6/200"
-        },
-        {
-            "index": 7,
-            "title": "Kabupaten Aceh Tamiang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/7/200"
-        },
-        {
-            "index": 8,
-            "title": "Kabupaten Aceh Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/8/200"
-        },
-        {
-            "index": 9,
-            "title": "Kabupaten Aceh Tenggara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/9/200"
-        },
-        {
-            "index": 10,
-            "title": "Kabupaten Aceh Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/10/200"
-        },
-        {
-            "index": 11,
-            "title": "Kabupaten Aceh Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/11/200"
-        },
-        {
-            "index": 12,
-            "title": "Kabupaten Bener Meriah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/12/200"
-        },
-        {
-            "index": 13,
-            "title": "Kabupaten Bireuen",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/13/200"
-        },
-        {
-            "index": 14,
-            "title": "Kabupaten Gayo Lues",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/14/200"
-        },
-        {
-            "index": 15,
-            "title": "Kabupaten Nagan Raya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/15/200"
-        },
-        {
-            "index": 16,
-            "title": "Kabupaten Pidie",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/16/200"
-        },
-        {
-            "index": 17,
-            "title": "Kabupaten Pidie Jaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/17/200"
-        },
-        {
-            "index": 18,
-            "title": "Kabupaten Simeulue",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/18/200"
-        },
-        {
-            "index": 19,
-            "title": "Kota Banda Aceh",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/19/200"
-        },
-        {
-            "index": 20,
-            "title": "Kota Langsa",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/20/200"
-        },
-        {
-            "index": 21,
-            "title": "Kota Lhokseumawe",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/21/200"
-        },
-        {
-            "index": 22,
-            "title": "Kota Sabang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/22/200"
-        },
-        {
-            "index": 23,
-            "title": "Kota Subulussalam",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/23/200"
-        },
-        {
-            "index": 24,
-            "title": "Kabupaten Asahan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/24/200"
-        },
-        {
-            "index": 25,
-            "title": "Kabupaten Batubara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/25/200"
-        },
-        {
-            "index": 26,
-            "title": "Kabupaten Dairi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/26/200"
-        },
-        {
-            "index": 27,
-            "title": "Kabupaten Deli Serdang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/27/200"
-        },
-        {
-            "index": 28,
-            "title": "Kabupaten Karo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/28/200"
-        },
-        {
-            "index": 29,
-            "title": "Kabupaten Humbang Hasundutan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/29/200"
-        },
-        {
-            "index": 30,
-            "title": "Kabupaten Labuhanbatu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/30/200"
-        },
-        {
-            "index": 31,
-            "title": "Kabupaten Labuhanbatu Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/31/200"
-        },
-        {
-            "index": 32,
-            "title": "Kabupaten Labuhanbatu Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/32/200"
-        },
-        {
-            "index": 33,
-            "title": "Kabupaten Langkat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/33/200"
-        },
-        {
-            "index": 34,
-            "title": "Kabupaten Mandailing Natal",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/34/200"
-        },
-        {
-            "index": 35,
-            "title": "Kabupaten Nias",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/35/200"
-        },
-        {
-            "index": 36,
-            "title": "Kabupaten Nias Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/36/200"
-        },
-        {
-            "index": 37,
-            "title": "Kabupaten Nias Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/37/200"
-        },
-        {
-            "index": 38,
-            "title": "Kabupaten Nias Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/38/200"
-        },
-        {
-            "index": 39,
-            "title": "Kabupaten Padang Lawas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/39/200"
-        },
-        {
-            "index": 40,
-            "title": "Kabupaten Padang Lawas Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/40/200"
-        },
-        {
-            "index": 41,
-            "title": "Kabupaten Pakpak Bharat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/41/200"
-        },
-        {
-            "index": 42,
-            "title": "Kabupaten Samosir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/42/200"
-        },
-        {
-            "index": 43,
-            "title": "Kabupaten Serdang Bedagai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/43/200"
-        },
-        {
-            "index": 44,
-            "title": "Kabupaten Simalungun",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/44/200"
-        },
-        {
-            "index": 45,
-            "title": "Kabupaten Tapanuli Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/45/200"
-        },
-        {
-            "index": 46,
-            "title": "Kabupaten Tapanuli Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/46/200"
-        },
-        {
-            "index": 47,
-            "title": "Kabupaten Tapanuli Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/47/200"
-        },
-        {
-            "index": 48,
-            "title": "Kabupaten Toba Samosir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/48/200"
-        },
-        {
-            "index": 49,
-            "title": "Kota Binjai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/49/200"
-        },
-        {
-            "index": 50,
-            "title": "Kota Gunungsitoli",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/50/200"
-        },
-        {
-            "index": 51,
-            "title": "Kota Medan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/51/200"
-        },
-        {
-            "index": 52,
-            "title": "Kota Padang Sidempuan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/52/200"
-        },
-        {
-            "index": 53,
-            "title": "Kota Pematangsiantar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/53/200"
-        },
-        {
-            "index": 54,
-            "title": "Kota Sibolga",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/54/200"
-        },
-        {
-            "index": 55,
-            "title": "Kota Tanjungbalai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/55/200"
-        },
-        {
-            "index": 56,
-            "title": "Kota Tebing Tinggi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/56/200"
-        },
-        {
-            "index": 57,
-            "title": "Kabupaten Agam",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/57/200"
-        },
-        {
-            "index": 58,
-            "title": "Kabupaten Dharmasraya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/58/200"
-        },
-        {
-            "index": 59,
-            "title": "Kabupaten Kepulauan Mentawai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/59/200"
-        },
-        {
-            "index": 60,
-            "title": "Kabupaten Lima Puluh Kota",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/60/200"
-        },
-        {
-            "index": 61,
-            "title": "Kabupaten Padang Pariaman",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/61/200"
-        },
-        {
-            "index": 62,
-            "title": "Kabupaten Pasaman",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/62/200"
-        },
-        {
-            "index": 63,
-            "title": "Kabupaten Pasaman Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/63/200"
-        },
-        {
-            "index": 64,
-            "title": "Kabupaten Pesisir Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/64/200"
-        },
-        {
-            "index": 65,
-            "title": "Kabupaten Sijunjung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/65/200"
-        },
-        {
-            "index": 66,
-            "title": "Kabupaten Solok",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/66/200"
-        },
-        {
-            "index": 67,
-            "title": "Kabupaten Solok Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/67/200"
-        },
-        {
-            "index": 68,
-            "title": "Kabupaten Tanah Datar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/68/200"
-        },
-        {
-            "index": 69,
-            "title": "Kota Bukittinggi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/69/200"
-        },
-        {
-            "index": 70,
-            "title": "Kota Padang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/70/200"
-        },
-        {
-            "index": 71,
-            "title": "Kota Padangpanjang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/71/200"
-        },
-        {
-            "index": 72,
-            "title": "Kota Pariaman",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/72/200"
-        },
-        {
-            "index": 73,
-            "title": "Kota Payakumbuh",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/73/200"
-        },
-        {
-            "index": 74,
-            "title": "Kota Sawahlunto",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/74/200"
-        },
-        {
-            "index": 75,
-            "title": "Kota Solok",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/75/200"
-        },
-        {
-            "index": 76,
-            "title": "Kabupaten Bengkalis",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/76/200"
-        },
-        {
-            "index": 77,
-            "title": "Kabupaten Indragiri Hilir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/77/200"
-        },
-        {
-            "index": 78,
-            "title": "Kabupaten Indragiri Hulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/78/200"
-        },
-        {
-            "index": 79,
-            "title": "Kabupaten Kampar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/79/200"
-        },
-        {
-            "index": 80,
-            "title": "Kabupaten Kepulauan Meranti",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/80/200"
-        },
-        {
-            "index": 81,
-            "title": "Kabupaten Kuantan Singingi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/81/200"
-        },
-        {
-            "index": 82,
-            "title": "Kabupaten Pelalawan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/82/200"
-        },
-        {
-            "index": 83,
-            "title": "Kabupaten Rokan Hilir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/83/200"
-        },
-        {
-            "index": 84,
-            "title": "Kabupaten Rokan Hulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/84/200"
-        },
-        {
-            "index": 85,
-            "title": "Kabupaten Siak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/85/200"
-        },
-        {
-            "index": 86,
-            "title": "Kota Dumai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/86/200"
-        },
-        {
-            "index": 87,
-            "title": "Kota Pekanbaru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/87/200"
-        },
-        {
-            "index": 88,
-            "title": "Kabupaten Bintan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/88/200"
-        },
-        {
-            "index": 89,
-            "title": "Kabupaten Karimun",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/89/200"
-        },
-        {
-            "index": 90,
-            "title": "Kabupaten Kepulauan Anambas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/90/200"
-        },
-        {
-            "index": 91,
-            "title": "Kabupaten Lingga",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/91/200"
-        },
-        {
-            "index": 92,
-            "title": "Kabupaten Natuna",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/92/200"
-        },
-        {
-            "index": 93,
-            "title": "Kota Batam",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/93/200"
-        },
-        {
-            "index": 94,
-            "title": "Kota Tanjungpinang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/94/200"
-        },
-        {
-            "index": 95,
-            "title": "Kabupaten Batanghari",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/95/200"
-        },
-        {
-            "index": 96,
-            "title": "Kabupaten Bungo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/96/200"
-        },
-        {
-            "index": 97,
-            "title": "Kabupaten Kerinci",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/97/200"
-        },
-        {
-            "index": 98,
-            "title": "Kabupaten Merangin",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/98/200"
-        },
-        {
-            "index": 99,
-            "title": "Kabupaten Muaro Jambi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/99/200"
-        },
-        {
-            "index": 100,
-            "title": "Kabupaten Sarolangun",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/100/200"
-        },
-        {
-            "index": 101,
-            "title": "Kabupaten Tanjung Jabung Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/101/200"
-        },
-        {
-            "index": 102,
-            "title": "Kabupaten Tanjung Jabung Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/102/200"
-        },
-        {
-            "index": 103,
-            "title": "Kabupaten Tebo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/103/200"
-        },
-        {
-            "index": 104,
-            "title": "Kota Jambi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/104/200"
-        },
-        {
-            "index": 105,
-            "title": "Kota Sungai Penuh",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/105/200"
-        },
-        {
-            "index": 106,
-            "title": "Kabupaten Banyuasin",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/106/200"
-        },
-        {
-            "index": 107,
-            "title": "Kabupaten Empat Lawang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/107/200"
-        },
-        {
-            "index": 108,
-            "title": "Kabupaten Lahat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/108/200"
-        },
-        {
-            "index": 109,
-            "title": "Kabupaten Muara Enim",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/109/200"
-        },
-        {
-            "index": 110,
-            "title": "Kabupaten Musi Banyuasin",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/110/200"
-        },
-        {
-            "index": 111,
-            "title": "Kabupaten Musi Rawas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/111/200"
-        },
-        {
-            "index": 112,
-            "title": "Kabupaten Musi Rawas Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/112/200"
-        },
-        {
-            "index": 113,
-            "title": "Kabupaten Ogan Ilir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/113/200"
-        },
-        {
-            "index": 114,
-            "title": "Kabupaten Ogan Komering Ilir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/114/200"
-        },
-        {
-            "index": 115,
-            "title": "Kabupaten Ogan Komering Ulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/115/200"
-        },
-        {
-            "index": 116,
-            "title": "Kabupaten Ogan Komering Ulu Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/116/200"
-        },
-        {
-            "index": 117,
-            "title": "Kabupaten Ogan Komering Ulu Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/117/200"
-        },
-        {
-            "index": 118,
-            "title": "Kabupaten Penukal Abab Lematang Ilir",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/118/200"
-        },
-        {
-            "index": 119,
-            "title": "Kota Lubuklinggau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/119/200"
-        },
-        {
-            "index": 120,
-            "title": "Kota Pagar Alam",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/120/200"
-        },
-        {
-            "index": 121,
-            "title": "Kota Palembang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/121/200"
-        },
-        {
-            "index": 122,
-            "title": "Kota Prabumulih",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/122/200"
-        },
-        {
-            "index": 123,
-            "title": "Kabupaten Bengkulu Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/123/200"
-        },
-        {
-            "index": 124,
-            "title": "Kabupaten Bengkulu Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/124/200"
-        },
-        {
-            "index": 125,
-            "title": "Kabupaten Bengkulu Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/125/200"
-        },
-        {
-            "index": 126,
-            "title": "Kabupaten Kaur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/126/200"
-        },
-        {
-            "index": 127,
-            "title": "Kabupaten Kepahiang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/127/200"
-        },
-        {
-            "index": 128,
-            "title": "Kabupaten Lebong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/128/200"
-        },
-        {
-            "index": 129,
-            "title": "Kabupaten Mukomuko",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/129/200"
-        },
-        {
-            "index": 130,
-            "title": "Kabupaten Rejang Lebong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/130/200"
-        },
-        {
-            "index": 131,
-            "title": "Kabupaten Seluma",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/131/200"
-        },
-        {
-            "index": 132,
-            "title": "Kota Bengkulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/132/200"
-        },
-        {
-            "index": 133,
-            "title": "Kabupaten Bangka",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/133/200"
-        },
-        {
-            "index": 134,
-            "title": "Kabupaten Bangka Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/134/200"
-        },
-        {
-            "index": 135,
-            "title": "Kabupaten Bangka Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/135/200"
-        },
-        {
-            "index": 136,
-            "title": "Kabupaten Bangka Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/136/200"
-        },
-        {
-            "index": 137,
-            "title": "Kabupaten Belitung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/137/200"
-        },
-        {
-            "index": 138,
-            "title": "Kabupaten Belitung Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/138/200"
-        },
-        {
-            "index": 139,
-            "title": "Kota Pangkal Pinang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/139/200"
-        },
-        {
-            "index": 140,
-            "title": "Kabupaten Lampung Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/140/200"
-        },
-        {
-            "index": 141,
-            "title": "Kabupaten Lampung Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/141/200"
-        },
-        {
-            "index": 142,
-            "title": "Kabupaten Lampung Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/142/200"
-        },
-        {
-            "index": 143,
-            "title": "Kabupaten Lampung Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/143/200"
-        },
-        {
-            "index": 144,
-            "title": "Kabupaten Lampung Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/144/200"
-        },
-        {
-            "index": 145,
-            "title": "Kabupaten Mesuji",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/145/200"
-        },
-        {
-            "index": 146,
-            "title": "Kabupaten Pesawaran",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/146/200"
-        },
-        {
-            "index": 147,
-            "title": "Kabupaten Pesisir Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/147/200"
-        },
-        {
-            "index": 148,
-            "title": "Kabupaten Pringsewu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/148/200"
-        },
-        {
-            "index": 149,
-            "title": "Kabupaten Tanggamus",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/149/200"
-        },
-        {
-            "index": 150,
-            "title": "Kabupaten Tulang Bawang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/150/200"
-        },
-        {
-            "index": 151,
-            "title": "Kabupaten Tulang Bawang Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/151/200"
-        },
-        {
-            "index": 152,
-            "title": "Kabupaten Way Kanan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/152/200"
-        },
-        {
-            "index": 153,
-            "title": "Kota Bandar Lampung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/153/200"
-        },
-        {
-            "index": 154,
-            "title": "Kota Metro",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/154/200"
-        },
-        {
-            "index": 155,
-            "title": "Kabupaten Lebak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/155/200"
-        },
-        {
-            "index": 156,
-            "title": "Kabupaten Pandeglang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/156/200"
-        },
-        {
-            "index": 157,
-            "title": "Kabupaten Serang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/157/200"
-        },
-        {
-            "index": 158,
-            "title": "Kabupaten Tangerang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/158/200"
-        },
-        {
-            "index": 159,
-            "title": "Kota Cilegon",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/159/200"
-        },
-        {
-            "index": 160,
-            "title": "Kota Serang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/160/200"
-        },
-        {
-            "index": 161,
-            "title": "Kota Tangerang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/161/200"
-        },
-        {
-            "index": 162,
-            "title": "Kota Tangerang Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/162/200"
-        },
-        {
-            "index": 163,
-            "title": "Kabupaten Administrasi Kepulauan Seribu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/163/200"
-        },
-        {
-            "index": 164,
-            "title": "Kota Administrasi Jakarta Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/164/200"
-        },
-        {
-            "index": 165,
-            "title": "Kota Administrasi Jakarta Pusat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/165/200"
-        },
-        {
-            "index": 166,
-            "title": "Kota Administrasi Jakarta Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/166/200"
-        },
-        {
-            "index": 167,
-            "title": "Kota Administrasi Jakarta Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/167/200"
-        },
-        {
-            "index": 168,
-            "title": "Kota Administrasi Jakarta Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/168/200"
-        },
-        {
-            "index": 169,
-            "title": "Kabupaten Bandung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/169/200"
-        },
-        {
-            "index": 170,
-            "title": "Kabupaten Bandung Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/170/200"
-        },
-        {
-            "index": 171,
-            "title": "Kabupaten Bekasi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/171/200"
-        },
-        {
-            "index": 172,
-            "title": "Kabupaten Bogor",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/172/200"
-        },
-        {
-            "index": 173,
-            "title": "Kabupaten Ciamis",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/173/200"
-        },
-        {
-            "index": 174,
-            "title": "Kabupaten Cianjur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/174/200"
-        },
-        {
-            "index": 175,
-            "title": "Kabupaten Cirebon",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/175/200"
-        },
-        {
-            "index": 176,
-            "title": "Kabupaten Garut",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/176/200"
-        },
-        {
-            "index": 177,
-            "title": "Kabupaten Indramayu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/177/200"
-        },
-        {
-            "index": 178,
-            "title": "Kabupaten Karawang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/178/200"
-        },
-        {
-            "index": 179,
-            "title": "Kabupaten Kuningan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/179/200"
-        },
-        {
-            "index": 180,
-            "title": "Kabupaten Majalengka",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/180/200"
-        },
-        {
-            "index": 181,
-            "title": "Kabupaten Pangandaran",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/181/200"
-        },
-        {
-            "index": 182,
-            "title": "Kabupaten Purwakarta",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/182/200"
-        },
-        {
-            "index": 183,
-            "title": "Kabupaten Subang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/183/200"
-        },
-        {
-            "index": 184,
-            "title": "Kabupaten Sukabumi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/184/200"
-        },
-        {
-            "index": 185,
-            "title": "Kabupaten Sumedang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/185/200"
-        },
-        {
-            "index": 186,
-            "title": "Kabupaten Tasikmalaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/186/200"
-        },
-        {
-            "index": 187,
-            "title": "Kota Bandung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/187/200"
-        },
-        {
-            "index": 188,
-            "title": "Kota Banjar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/188/200"
-        },
-        {
-            "index": 189,
-            "title": "Kota Bekasi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/189/200"
-        },
-        {
-            "index": 190,
-            "title": "Kota Bogor",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/190/200"
-        },
-        {
-            "index": 191,
-            "title": "Kota Cimahi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/191/200"
-        },
-        {
-            "index": 192,
-            "title": "Kota Cirebon",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/192/200"
-        },
-        {
-            "index": 193,
-            "title": "Kota Depok",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/193/200"
-        },
-        {
-            "index": 194,
-            "title": "Kota Sukabumi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/194/200"
-        },
-        {
-            "index": 195,
-            "title": "Kota Tasikmalaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/195/200"
-        },
-        {
-            "index": 196,
-            "title": "Kabupaten Banjarnegara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/196/200"
-        },
-        {
-            "index": 197,
-            "title": "Kabupaten Banyumas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/197/200"
-        },
-        {
-            "index": 198,
-            "title": "Kabupaten Batang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/198/200"
-        },
-        {
-            "index": 199,
-            "title": "Kabupaten Blora",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/199/200"
-        },
-        {
-            "index": 200,
-            "title": "Kabupaten Boyolali",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/200/200"
-        },
-        {
-            "index": 201,
-            "title": "Kabupaten Brebes",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/201/200"
-        },
-        {
-            "index": 202,
-            "title": "Kabupaten Cilacap",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/202/200"
-        },
-        {
-            "index": 203,
-            "title": "Kabupaten Demak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/203/200"
-        },
-        {
-            "index": 204,
-            "title": "Kabupaten Grobogan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/204/200"
-        },
-        {
-            "index": 205,
-            "title": "Kabupaten Jepara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/205/200"
-        },
-        {
-            "index": 206,
-            "title": "Kabupaten Karanganyar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/206/200"
-        },
-        {
-            "index": 207,
-            "title": "Kabupaten Kebumen",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/207/200"
-        },
-        {
-            "index": 208,
-            "title": "Kabupaten Kendal",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/208/200"
-        },
-        {
-            "index": 209,
-            "title": "Kabupaten Klaten",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/209/200"
-        },
-        {
-            "index": 210,
-            "title": "Kabupaten Kudus",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/210/200"
-        },
-        {
-            "index": 211,
-            "title": "Kabupaten Magelang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/211/200"
-        },
-        {
-            "index": 212,
-            "title": "Kabupaten Pati",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/212/200"
-        },
-        {
-            "index": 213,
-            "title": "Kabupaten Pekalongan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/213/200"
-        },
-        {
-            "index": 214,
-            "title": "Kabupaten Pemalang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/214/200"
-        },
-        {
-            "index": 215,
-            "title": "Kabupaten Purbalingga",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/215/200"
-        },
-        {
-            "index": 216,
-            "title": "Kabupaten Purworejo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/216/200"
-        },
-        {
-            "index": 217,
-            "title": "Kabupaten Rembang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/217/200"
-        },
-        {
-            "index": 218,
-            "title": "Kabupaten Semarang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/218/200"
-        },
-        {
-            "index": 219,
-            "title": "Kabupaten Sragen",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/219/200"
-        },
-        {
-            "index": 220,
-            "title": "Kabupaten Sukoharjo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/220/200"
-        },
-        {
-            "index": 221,
-            "title": "Kabupaten Tegal",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/221/200"
-        },
-        {
-            "index": 222,
-            "title": "Kabupaten Temanggung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/222/200"
-        },
-        {
-            "index": 223,
-            "title": "Kabupaten Wonogiri",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/223/200"
-        },
-        {
-            "index": 224,
-            "title": "Kabupaten Wonosobo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/224/200"
-        },
-        {
-            "index": 225,
-            "title": "Kota Magelang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/225/200"
-        },
-        {
-            "index": 226,
-            "title": "Kota Pekalongan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/226/200"
-        },
-        {
-            "index": 227,
-            "title": "Kota Salatiga",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/227/200"
-        },
-        {
-            "index": 228,
-            "title": "Kota Semarang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/228/200"
-        },
-        {
-            "index": 229,
-            "title": "Kota Surakarta",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/229/200"
-        },
-        {
-            "index": 230,
-            "title": "Kota Tegal",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/230/200"
-        },
-        {
-            "index": 231,
-            "title": "Kabupaten Bantul",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/231/200"
-        },
-        {
-            "index": 232,
-            "title": "Kabupaten Gunung Kidul",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/232/200"
-        },
-        {
-            "index": 233,
-            "title": "Kabupaten Kulon Progo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/233/200"
-        },
-        {
-            "index": 234,
-            "title": "Kabupaten Sleman",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/234/200"
-        },
-        {
-            "index": 235,
-            "title": "Kota Yogyakarta",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/235/200"
-        },
-        {
-            "index": 236,
-            "title": "Kabupaten Bangkalan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/236/200"
-        },
-        {
-            "index": 237,
-            "title": "Kabupaten Banyuwangi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/237/200"
-        },
-        {
-            "index": 238,
-            "title": "Kabupaten Blitar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/238/200"
-        },
-        {
-            "index": 239,
-            "title": "Kabupaten Bojonegoro",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/239/200"
-        },
-        {
-            "index": 240,
-            "title": "Kabupaten Bondowoso",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/240/200"
-        },
-        {
-            "index": 241,
-            "title": "Kabupaten Gresik",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/241/200"
-        },
-        {
-            "index": 242,
-            "title": "Kabupaten Jember",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/242/200"
-        },
-        {
-            "index": 243,
-            "title": "Kabupaten Jombang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/243/200"
-        },
-        {
-            "index": 244,
-            "title": "Kabupaten Kediri",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/244/200"
-        },
-        {
-            "index": 245,
-            "title": "Kabupaten Lamongan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/245/200"
-        },
-        {
-            "index": 246,
-            "title": "Kabupaten Lumajang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/246/200"
-        },
-        {
-            "index": 247,
-            "title": "Kabupaten Madiun",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/247/200"
-        },
-        {
-            "index": 248,
-            "title": "Kabupaten Magetan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/248/200"
-        },
-        {
-            "index": 249,
-            "title": "Kabupaten Malang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/249/200"
-        },
-        {
-            "index": 250,
-            "title": "Kabupaten Mojokerto",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/250/200"
-        },
-        {
-            "index": 251,
-            "title": "Kabupaten Nganjuk",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/251/200"
-        },
-        {
-            "index": 252,
-            "title": "Kabupaten Ngawi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/252/200"
-        },
-        {
-            "index": 253,
-            "title": "Kabupaten Pacitan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/253/200"
-        },
-        {
-            "index": 254,
-            "title": "Kabupaten Pamekasan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/254/200"
-        },
-        {
-            "index": 255,
-            "title": "Kabupaten Pasuruan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/255/200"
-        },
-        {
-            "index": 256,
-            "title": "Kabupaten Ponorogo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/256/200"
-        },
-        {
-            "index": 257,
-            "title": "Kabupaten Probolinggo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/257/200"
-        },
-        {
-            "index": 258,
-            "title": "Kabupaten Sampang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/258/200"
-        },
-        {
-            "index": 259,
-            "title": "Kabupaten Sidoarjo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/259/200"
-        },
-        {
-            "index": 260,
-            "title": "Kabupaten Situbondo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/260/200"
-        },
-        {
-            "index": 261,
-            "title": "Kabupaten Sumenep",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/261/200"
-        },
-        {
-            "index": 262,
-            "title": "Kabupaten Trenggalek",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/262/200"
-        },
-        {
-            "index": 263,
-            "title": "Kabupaten Tuban",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/263/200"
-        },
-        {
-            "index": 264,
-            "title": "Kabupaten Tulungagung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/264/200"
-        },
-        {
-            "index": 265,
-            "title": "Kota Batu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/265/200"
-        },
-        {
-            "index": 266,
-            "title": "Kota Blitar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/266/200"
-        },
-        {
-            "index": 267,
-            "title": "Kota Kediri",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/267/200"
-        },
-        {
-            "index": 268,
-            "title": "Kota Madiun",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/268/200"
-        },
-        {
-            "index": 269,
-            "title": "Kota Malang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/269/200"
-        },
-        {
-            "index": 270,
-            "title": "Kota Mojokerto",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/270/200"
-        },
-        {
-            "index": 271,
-            "title": "Kota Pasuruan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/271/200"
-        },
-        {
-            "index": 272,
-            "title": "Kota Probolinggo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/272/200"
-        },
-        {
-            "index": 273,
-            "title": "Kota Surabaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/273/200"
-        },
-        {
-            "index": 274,
-            "title": "Kabupaten Badung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/274/200"
-        },
-        {
-            "index": 275,
-            "title": "Kabupaten Bangli",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/275/200"
-        },
-        {
-            "index": 276,
-            "title": "Kabupaten Buleleng",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/276/200"
-        },
-        {
-            "index": 277,
-            "title": "Kabupaten Gianyar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/277/200"
-        },
-        {
-            "index": 278,
-            "title": "Kabupaten Jembrana",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/278/200"
-        },
-        {
-            "index": 279,
-            "title": "Kabupaten Karangasem",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/279/200"
-        },
-        {
-            "index": 280,
-            "title": "Kabupaten Klungkung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/280/200"
-        },
-        {
-            "index": 281,
-            "title": "Kabupaten Tabanan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/281/200"
-        },
-        {
-            "index": 282,
-            "title": "Kota Denpasar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/282/200"
-        },
-        {
-            "index": 283,
-            "title": "Kabupaten Bima",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/283/200"
-        },
-        {
-            "index": 284,
-            "title": "Kabupaten Dompu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/284/200"
-        },
-        {
-            "index": 285,
-            "title": "Kabupaten Lombok Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/285/200"
-        },
-        {
-            "index": 286,
-            "title": "Kabupaten Lombok Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/286/200"
-        },
-        {
-            "index": 287,
-            "title": "Kabupaten Lombok Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/287/200"
-        },
-        {
-            "index": 288,
-            "title": "Kabupaten Lombok Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/288/200"
-        },
-        {
-            "index": 289,
-            "title": "Kabupaten Sumbawa",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/289/200"
-        },
-        {
-            "index": 290,
-            "title": "Kabupaten Sumbawa Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/290/200"
-        },
-        {
-            "index": 291,
-            "title": "Kota Bima",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/291/200"
-        },
-        {
-            "index": 292,
-            "title": "Kota Mataram",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/292/200"
-        },
-        {
-            "index": 293,
-            "title": "Kabupaten Alor",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/293/200"
-        },
-        {
-            "index": 294,
-            "title": "Kabupaten Belu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/294/200"
-        },
-        {
-            "index": 295,
-            "title": "Kabupaten Ende",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/295/200"
-        },
-        {
-            "index": 296,
-            "title": "Kabupaten Flores Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/296/200"
-        },
-        {
-            "index": 297,
-            "title": "Kabupaten Kupang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/297/200"
-        },
-        {
-            "index": 298,
-            "title": "Kabupaten Lembata",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/298/200"
-        },
-        {
-            "index": 299,
-            "title": "Kabupaten Malaka",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/299/200"
-        },
-        {
-            "index": 300,
-            "title": "Kabupaten Manggarai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/300/200"
-        },
-        {
-            "index": 301,
-            "title": "Kabupaten Manggarai Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/301/200"
-        },
-        {
-            "index": 302,
-            "title": "Kabupaten Manggarai Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/302/200"
-        },
-        {
-            "index": 303,
-            "title": "Kabupaten Ngada",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/303/200"
-        },
-        {
-            "index": 304,
-            "title": "Kabupaten Nagekeo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/304/200"
-        },
-        {
-            "index": 305,
-            "title": "Kabupaten Rote Ndao",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/305/200"
-        },
-        {
-            "index": 306,
-            "title": "Kabupaten Sabu Raijua",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/306/200"
-        },
-        {
-            "index": 307,
-            "title": "Kabupaten Sikka",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/307/200"
-        },
-        {
-            "index": 308,
-            "title": "Kabupaten Sumba Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/308/200"
-        },
-        {
-            "index": 309,
-            "title": "Kabupaten Sumba Barat Daya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/309/200"
-        },
-        {
-            "index": 310,
-            "title": "Kabupaten Sumba Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/310/200"
-        },
-        {
-            "index": 311,
-            "title": "Kabupaten Sumba Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/311/200"
-        },
-        {
-            "index": 312,
-            "title": "Kabupaten Timor Tengah Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/312/200"
-        },
-        {
-            "index": 313,
-            "title": "Kabupaten Timor Tengah Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/313/200"
-        },
-        {
-            "index": 314,
-            "title": "Kota Kupang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/314/200"
-        },
-        {
-            "index": 315,
-            "title": "Kabupaten Bengkayang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/315/200"
-        },
-        {
-            "index": 316,
-            "title": "Kabupaten Kapuas Hulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/316/200"
-        },
-        {
-            "index": 317,
-            "title": "Kabupaten Kayong Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/317/200"
-        },
-        {
-            "index": 318,
-            "title": "Kabupaten Ketapang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/318/200"
-        },
-        {
-            "index": 319,
-            "title": "Kabupaten Kubu Raya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/319/200"
-        },
-        {
-            "index": 320,
-            "title": "Kabupaten Landak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/320/200"
-        },
-        {
-            "index": 321,
-            "title": "Kabupaten Melawi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/321/200"
-        },
-        {
-            "index": 322,
-            "title": "Kabupaten Mempawah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/322/200"
-        },
-        {
-            "index": 323,
-            "title": "Kabupaten Sambas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/323/200"
-        },
-        {
-            "index": 324,
-            "title": "Kabupaten Sanggau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/324/200"
-        },
-        {
-            "index": 325,
-            "title": "Kabupaten Sekadau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/325/200"
-        },
-        {
-            "index": 326,
-            "title": "Kabupaten Sintang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/326/200"
-        },
-        {
-            "index": 327,
-            "title": "Kota Pontianak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/327/200"
-        },
-        {
-            "index": 328,
-            "title": "Kota Singkawang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/328/200"
-        },
-        {
-            "index": 329,
-            "title": "Kabupaten Barito Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/329/200"
-        },
-        {
-            "index": 330,
-            "title": "Kabupaten Barito Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/330/200"
-        },
-        {
-            "index": 331,
-            "title": "Kabupaten Barito Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/331/200"
-        },
-        {
-            "index": 332,
-            "title": "Kabupaten Gunung Mas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/332/200"
-        },
-        {
-            "index": 333,
-            "title": "Kabupaten Kapuas",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/333/200"
-        },
-        {
-            "index": 334,
-            "title": "Kabupaten Katingan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/334/200"
-        },
-        {
-            "index": 335,
-            "title": "Kabupaten Kotawaringin Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/335/200"
-        },
-        {
-            "index": 336,
-            "title": "Kabupaten Kotawaringin Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/336/200"
-        },
-        {
-            "index": 337,
-            "title": "Kabupaten Lamandau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/337/200"
-        },
-        {
-            "index": 338,
-            "title": "Kabupaten Murung Raya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/338/200"
-        },
-        {
-            "index": 339,
-            "title": "Kabupaten Pulang Pisau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/339/200"
-        },
-        {
-            "index": 340,
-            "title": "Kabupaten Sukamara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/340/200"
-        },
-        {
-            "index": 341,
-            "title": "Kabupaten Seruyan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/341/200"
-        },
-        {
-            "index": 342,
-            "title": "Kota Palangka Raya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/342/200"
-        },
-        {
-            "index": 343,
-            "title": "Kabupaten Balangan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/343/200"
-        },
-        {
-            "index": 344,
-            "title": "Kabupaten Banjar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/344/200"
-        },
-        {
-            "index": 345,
-            "title": "Kabupaten Barito Kuala",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/345/200"
-        },
-        {
-            "index": 346,
-            "title": "Kabupaten Hulu Sungai Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/346/200"
-        },
-        {
-            "index": 347,
-            "title": "Kabupaten Hulu Sungai Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/347/200"
-        },
-        {
-            "index": 348,
-            "title": "Kabupaten Hulu Sungai Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/348/200"
-        },
-        {
-            "index": 349,
-            "title": "Kabupaten Kotabaru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/349/200"
-        },
-        {
-            "index": 350,
-            "title": "Kabupaten Tabalong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/350/200"
-        },
-        {
-            "index": 351,
-            "title": "Kabupaten Tanah Bumbu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/351/200"
-        },
-        {
-            "index": 352,
-            "title": "Kabupaten Tanah Laut",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/352/200"
-        },
-        {
-            "index": 353,
-            "title": "Kabupaten Tapin",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/353/200"
-        },
-        {
-            "index": 354,
-            "title": "Kota Banjarbaru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/354/200"
-        },
-        {
-            "index": 355,
-            "title": "Kota Banjarmasin",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/355/200"
-        },
-        {
-            "index": 356,
-            "title": "Kabupaten Berau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/356/200"
-        },
-        {
-            "index": 357,
-            "title": "Kabupaten Kutai Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/357/200"
-        },
-        {
-            "index": 358,
-            "title": "Kabupaten Kutai Kartanegara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/358/200"
-        },
-        {
-            "index": 359,
-            "title": "Kabupaten Kutai Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/359/200"
-        },
-        {
-            "index": 360,
-            "title": "Kabupaten Mahakam Ulu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/360/200"
-        },
-        {
-            "index": 361,
-            "title": "Kabupaten Paser",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/361/200"
-        },
-        {
-            "index": 362,
-            "title": "Kabupaten Penajam Paser Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/362/200"
-        },
-        {
-            "index": 363,
-            "title": "Kota Balikpapan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/363/200"
-        },
-        {
-            "index": 364,
-            "title": "Kota Bontang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/364/200"
-        },
-        {
-            "index": 365,
-            "title": "Kota Samarinda",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/365/200"
-        },
-        {
-            "index": 366,
-            "title": "Kabupaten Bulungan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/366/200"
-        },
-        {
-            "index": 367,
-            "title": "Kabupaten Malinau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/367/200"
-        },
-        {
-            "index": 368,
-            "title": "Kabupaten Nunukan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/368/200"
-        },
-        {
-            "index": 369,
-            "title": "Kabupaten Tana Tidung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/369/200"
-        },
-        {
-            "index": 370,
-            "title": "Kota Tarakan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/370/200"
-        },
-        {
-            "index": 371,
-            "title": "Kabupaten Majene",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/371/200"
-        },
-        {
-            "index": 372,
-            "title": "Kabupaten Mamasa",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/372/200"
-        },
-        {
-            "index": 373,
-            "title": "Kabupaten Mamuju",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/373/200"
-        },
-        {
-            "index": 374,
-            "title": "Kabupaten Mamuju Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/374/200"
-        },
-        {
-            "index": 375,
-            "title": "Kabupaten Pasangkayu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/375/200"
-        },
-        {
-            "index": 376,
-            "title": "Kabupaten Polewali Mandar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/376/200"
-        },
-        {
-            "index": 377,
-            "title": "Kabupaten Bantaeng",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/377/200"
-        },
-        {
-            "index": 378,
-            "title": "Kabupaten Barru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/378/200"
-        },
-        {
-            "index": 379,
-            "title": "Kabupaten Bone",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/379/200"
-        },
-        {
-            "index": 380,
-            "title": "Kabupaten Bulukumba",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/380/200"
-        },
-        {
-            "index": 381,
-            "title": "Kabupaten Enrekang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/381/200"
-        },
-        {
-            "index": 382,
-            "title": "Kabupaten Gowa",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/382/200"
-        },
-        {
-            "index": 383,
-            "title": "Kabupaten Jeneponto",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/383/200"
-        },
-        {
-            "index": 384,
-            "title": "Kabupaten Kepulauan Selayar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/384/200"
-        },
-        {
-            "index": 385,
-            "title": "Kabupaten Luwu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/385/200"
-        },
-        {
-            "index": 386,
-            "title": "Kabupaten Luwu Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/386/200"
-        },
-        {
-            "index": 387,
-            "title": "Kabupaten Luwu Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/387/200"
-        },
-        {
-            "index": 388,
-            "title": "Kabupaten Maros",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/388/200"
-        },
-        {
-            "index": 389,
-            "title": "Kabupaten Pangkajene dan Kepulauan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/389/200"
-        },
-        {
-            "index": 390,
-            "title": "Kabupaten Pinrang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/390/200"
-        },
-        {
-            "index": 391,
-            "title": "Kabupaten Sidenreng Rappang (Sidrap)",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/391/200"
-        },
-        {
-            "index": 392,
-            "title": "Kabupaten Sinjai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/392/200"
-        },
-        {
-            "index": 393,
-            "title": "Kabupaten Soppeng",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/393/200"
-        },
-        {
-            "index": 394,
-            "title": "Kabupaten Takalar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/394/200"
-        },
-        {
-            "index": 395,
-            "title": "Kabupaten Tana Toraja",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/395/200"
-        },
-        {
-            "index": 396,
-            "title": "Kabupaten Toraja Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/396/200"
-        },
-        {
-            "index": 397,
-            "title": "Kabupaten Wajo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/397/200"
-        },
-        {
-            "index": 398,
-            "title": "Kota Makassar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/398/200"
-        },
-        {
-            "index": 399,
-            "title": "Kota Palopo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/399/200"
-        },
-        {
-            "index": 400,
-            "title": "Kota Parepare",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/400/200"
-        },
-        {
-            "index": 401,
-            "title": "Kabupaten Bombana",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/401/200"
-        },
-        {
-            "index": 402,
-            "title": "Kabupaten Buton",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/402/200"
-        },
-        {
-            "index": 403,
-            "title": "Kabupaten Buton Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/403/200"
-        },
-        {
-            "index": 404,
-            "title": "Kabupaten Buton Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/404/200"
-        },
-        {
-            "index": 405,
-            "title": "Kabupaten Buton Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/405/200"
-        },
-        {
-            "index": 406,
-            "title": "Kabupaten Kolaka",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/406/200"
-        },
-        {
-            "index": 407,
-            "title": "Kabupaten Kolaka Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/407/200"
-        },
-        {
-            "index": 408,
-            "title": "Kabupaten Kolaka Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/408/200"
-        },
-        {
-            "index": 409,
-            "title": "Kabupaten Konawe",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/409/200"
-        },
-        {
-            "index": 410,
-            "title": "Kabupaten Konawe Kepulauan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/410/200"
-        },
-        {
-            "index": 411,
-            "title": "Kabupaten Konawe Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/411/200"
-        },
-        {
-            "index": 412,
-            "title": "Kabupaten Konawe Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/412/200"
-        },
-        {
-            "index": 413,
-            "title": "Kabupaten Muna",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/413/200"
-        },
-        {
-            "index": 414,
-            "title": "Kabupaten Muna Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/414/200"
-        },
-        {
-            "index": 415,
-            "title": "Kabupaten Wakatobi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/415/200"
-        },
-        {
-            "index": 416,
-            "title": "Kota Baubau",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/416/200"
-        },
-        {
-            "index": 417,
-            "title": "Kota Kendari",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/417/200"
-        },
-        {
-            "index": 418,
-            "title": "Kabupaten Banggai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/418/200"
-        },
-        {
-            "index": 419,
-            "title": "Kabupaten Banggai Kepulauan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/419/200"
-        },
-        {
-            "index": 420,
-            "title": "Kabupaten Banggai Laut",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/420/200"
-        },
-        {
-            "index": 421,
-            "title": "Kabupaten Buol",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/421/200"
-        },
-        {
-            "index": 422,
-            "title": "Kabupaten Donggala",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/422/200"
-        },
-        {
-            "index": 423,
-            "title": "Kabupaten Morowali",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/423/200"
-        },
-        {
-            "index": 424,
-            "title": "Kabupaten Morowali Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/424/200"
-        },
-        {
-            "index": 425,
-            "title": "Kabupaten Parigi Moutong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/425/200"
-        },
-        {
-            "index": 426,
-            "title": "Kabupaten Poso",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/426/200"
-        },
-        {
-            "index": 427,
-            "title": "Kabupaten Sigi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/427/200"
-        },
-        {
-            "index": 428,
-            "title": "Kabupaten Tojo Una-Una",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/428/200"
-        },
-        {
-            "index": 429,
-            "title": "Kabupaten Tolitoli",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/429/200"
-        },
-        {
-            "index": 430,
-            "title": "Kota Palu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/430/200"
-        },
-        {
-            "index": 431,
-            "title": "Kabupaten Boalemo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/431/200"
-        },
-        {
-            "index": 432,
-            "title": "Kabupaten Bone Bolango",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/432/200"
-        },
-        {
-            "index": 433,
-            "title": "Kabupaten Gorontalo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/433/200"
-        },
-        {
-            "index": 434,
-            "title": "Kabupaten Gorontalo Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/434/200"
-        },
-        {
-            "index": 435,
-            "title": "Kabupaten Pohuwato",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/435/200"
-        },
-        {
-            "index": 436,
-            "title": "Kota Gorontalo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/436/200"
-        },
-        {
-            "index": 437,
-            "title": "Kabupaten Bolaang Mongondow",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/437/200"
-        },
-        {
-            "index": 438,
-            "title": "Kabupaten Bolaang Mongondow Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/438/200"
-        },
-        {
-            "index": 439,
-            "title": "Kabupaten Bolaang Mongondow Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/439/200"
-        },
-        {
-            "index": 440,
-            "title": "Kabupaten Bolaang Mongondow Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/440/200"
-        },
-        {
-            "index": 441,
-            "title": "Kabupaten Kepulauan Sangihe",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/441/200"
-        },
-        {
-            "index": 442,
-            "title": "Kabupaten Kepulauan Siau Tagulandang Biaro (Sitaro)",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/442/200"
-        },
-        {
-            "index": 443,
-            "title": "Kabupaten Kepulauan Talaud",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/443/200"
-        },
-        {
-            "index": 444,
-            "title": "Kabupaten Minahasa",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/444/200"
-        },
-        {
-            "index": 445,
-            "title": "Kabupaten Minahasa Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/445/200"
-        },
-        {
-            "index": 446,
-            "title": "Kabupaten Minahasa Tenggara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/446/200"
-        },
-        {
-            "index": 447,
-            "title": "Kabupaten Minahasa Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/447/200"
-        },
-        {
-            "index": 448,
-            "title": "Kota Bitung",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/448/200"
-        },
-        {
-            "index": 449,
-            "title": "Kota Kotamobagu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/449/200"
-        },
-        {
-            "index": 450,
-            "title": "Kota Manado",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/450/200"
-        },
-        {
-            "index": 451,
-            "title": "Kota Tomohon",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/451/200"
-        },
-        {
-            "index": 452,
-            "title": "Kabupaten Buru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/452/200"
-        },
-        {
-            "index": 453,
-            "title": "Kabupaten Buru Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/453/200"
-        },
-        {
-            "index": 454,
-            "title": "Kabupaten Kepulauan Aru",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/454/200"
-        },
-        {
-            "index": 455,
-            "title": "Kabupaten Maluku Barat Daya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/455/200"
-        },
-        {
-            "index": 456,
-            "title": "Kabupaten Maluku Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/456/200"
-        },
-        {
-            "index": 457,
-            "title": "Kabupaten Maluku Tenggara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/457/200"
-        },
-        {
-            "index": 458,
-            "title": "Kabupaten Kepulauan Tanimbar",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/458/200"
-        },
-        {
-            "index": 459,
-            "title": "Kabupaten Seram Bagian Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/459/200"
-        },
-        {
-            "index": 460,
-            "title": "Kabupaten Seram Bagian Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/460/200"
-        },
-        {
-            "index": 461,
-            "title": "Kota Ambon",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/461/200"
-        },
-        {
-            "index": 462,
-            "title": "Kota Tual",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/462/200"
-        },
-        {
-            "index": 463,
-            "title": "Kabupaten Halmahera Barat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/463/200"
-        },
-        {
-            "index": 464,
-            "title": "Kabupaten Halmahera Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/464/200"
-        },
-        {
-            "index": 465,
-            "title": "Kabupaten Halmahera Timur",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/465/200"
-        },
-        {
-            "index": 466,
-            "title": "Kabupaten Halmahera Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/466/200"
-        },
-        {
-            "index": 467,
-            "title": "Kabupaten Halmahera Utara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/467/200"
-        },
-        {
-            "index": 468,
-            "title": "Kabupaten Kepulauan Sula",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/468/200"
-        },
-        {
-            "index": 469,
-            "title": "Kabupaten Pulau Morotai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/469/200"
-        },
-        {
-            "index": 470,
-            "title": "Kabupaten Pulau Taliabu",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/470/200"
-        },
-        {
-            "index": 471,
-            "title": "Kota Ternate",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/471/200"
-        },
-        {
-            "index": 472,
-            "title": "Kota Tidore Kepulauan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/472/200"
-        },
-        {
-            "index": 473,
-            "title": "Kabupaten Fakfak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/473/200"
-        },
-        {
-            "index": 474,
-            "title": "Kabupaten Kaimana",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/474/200"
-        },
-        {
-            "index": 475,
-            "title": "Kabupaten Manokwari",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/475/200"
-        },
-        {
-            "index": 476,
-            "title": "Kabupaten Manokwari Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/476/200"
-        },
-        {
-            "index": 477,
-            "title": "Kabupaten Maybrat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/477/200"
-        },
-        {
-            "index": 478,
-            "title": "Kabupaten Pegunungan Arfak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/478/200"
-        },
-        {
-            "index": 479,
-            "title": "Kabupaten Raja Ampat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/479/200"
-        },
-        {
-            "index": 480,
-            "title": "Kabupaten Sorong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/480/200"
-        },
-        {
-            "index": 481,
-            "title": "Kabupaten Sorong Selatan",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/481/200"
-        },
-        {
-            "index": 482,
-            "title": "Kabupaten Tambrauw",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/482/200"
-        },
-        {
-            "index": 483,
-            "title": "Kabupaten Teluk Bintuni",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/483/200"
-        },
-        {
-            "index": 484,
-            "title": "Kabupaten Teluk Wondama",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/484/200"
-        },
-        {
-            "index": 485,
-            "title": "Kota Sorong",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/485/200"
-        },
-        {
-            "index": 486,
-            "title": "Kabupaten Asmat",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/486/200"
-        },
-        {
-            "index": 487,
-            "title": "Kabupaten Biak Numfor",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/487/200"
-        },
-        {
-            "index": 488,
-            "title": "Kabupaten Boven Digoel",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/488/200"
-        },
-        {
-            "index": 489,
-            "title": "Kabupaten Deiyai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/489/200"
-        },
-        {
-            "index": 490,
-            "title": "Kabupaten Dogiyai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/490/200"
-        },
-        {
-            "index": 491,
-            "title": "Kabupaten Intan Jaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/491/200"
-        },
-        {
-            "index": 492,
-            "title": "Kabupaten Jayapura",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/492/200"
-        },
-        {
-            "index": 493,
-            "title": "Kabupaten Jayawijaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/493/200"
-        },
-        {
-            "index": 494,
-            "title": "Kabupaten Keerom",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/494/200"
-        },
-        {
-            "index": 495,
-            "title": "Kabupaten Kepulauan Yapen",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/495/200"
-        },
-        {
-            "index": 496,
-            "title": "Kabupaten Lanny Jaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/496/200"
-        },
-        {
-            "index": 497,
-            "title": "Kabupaten Mamberamo Raya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/497/200"
-        },
-        {
-            "index": 498,
-            "title": "Kabupaten Mamberamo Tengah",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/498/200"
-        },
-        {
-            "index": 499,
-            "title": "Kabupaten Mappi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/499/200"
-        },
-        {
-            "index": 500,
-            "title": "Kabupaten Merauke",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/500/200"
-        },
-        {
-            "index": 501,
-            "title": "Kabupaten Mimika",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/501/200"
-        },
-        {
-            "index": 502,
-            "title": "Kabupaten Nabire",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/502/200"
-        },
-        {
-            "index": 503,
-            "title": "Kabupaten Nduga",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/503/200"
-        },
-        {
-            "index": 504,
-            "title": "Kabupaten Paniai",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/504/200"
-        },
-        {
-            "index": 505,
-            "title": "Kabupaten Pegunungan Bintang",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/505/200"
-        },
-        {
-            "index": 506,
-            "title": "Kabupaten Puncak",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/506/200"
-        },
-        {
-            "index": 507,
-            "title": "Kabupaten Puncak Jaya",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/507/200"
-        },
-        {
-            "index": 508,
-            "title": "Kabupaten Sarmi",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/508/200"
-        },
-        {
-            "index": 509,
-            "title": "Kabupaten Supiori",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/509/200"
-        },
-        {
-            "index": 510,
-            "title": "Kabupaten Tolikara",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/510/200"
-        },
-        {
-            "index": 511,
-            "title": "Kabupaten Waropen",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/511/200"
-        },
-        {
-            "index": 512,
-            "title": "Kabupaten Yahukimo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/512/200"
-        },
-        {
-            "index": 513,
-            "title": "Kabupaten Yalimo",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/513/200"
-        },
-        {
-            "index": 514,
-            "title": "Kota Jayapura",
-            "url": "https://feriirawan-api.herokuapp.com/list/symbols/regency/514/200"
-        }
-    ]
+  {
+    "index": 1,
+    "soal": "Kabupaten yang terkenal dengan julukan Kota Ukir di Jawa Tengah adalah...",
+    "jawaban": "Jepara"
+  },
+  {
+    "index": 2,
+    "soal": "Kabupaten di Bali yang terkenal dengan keindahan terasering sawah Jatiluwih adalah...",
+    "jawaban": "Tabanan"
+  },
+  {
+    "index": 3,
+    "soal": "Kabupaten yang menjadi lokasi Candi Borobudur adalah...",
+    "jawaban": "Magelang"
+  },
+  {
+    "index": 4,
+    "soal": "Kabupaten di Jawa Timur yang memiliki fenomena api abadi dan karapan sapi adalah...",
+    "jawaban": "Pamekasan"
+  },
+  {
+    "index": 5,
+    "soal": "Kabupaten yang terkenal sebagai penghasil apel terbesar di Jawa Timur adalah...",
+    "jawaban": "Malang"
+  },
+  {
+    "index": 6,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan tradisi pemakaman di tebing batu adalah...",
+    "jawaban": "Tana Toraja"
+  },
+  {
+    "index": 7,
+    "soal": "Kabupaten penghasil telur asin dan bawang merah di Jawa Tengah adalah...",
+    "jawaban": "Brebes"
+  },
+  {
+    "index": 8,
+    "soal": "Kabupaten yang merupakan titik paling barat Indonesia (Pulau Weh) adalah...",
+    "jawaban": "Sabang"
+  },
+  {
+    "index": 9,
+    "soal": "Kabupaten di NTT yang memiliki Danau Tiga Warna Kelimutu adalah...",
+    "jawaban": "Ende"
+  },
+  {
+    "index": 10,
+    "soal": "Kabupaten yang terkenal dengan tambang timahnya di Kepulauan Bangka Belitung adalah...",
+    "jawaban": "Bangka"
+  },
+  {
+    "index": 11,
+    "soal": "Kabupaten di Kalimantan Timur yang menjadi lokasi Ibu Kota Nusantara (IKN) adalah...",
+    "jawaban": "Penajam Paser Utara"
+  },
+  {
+    "index": 12,
+    "soal": "Kabupaten yang terkenal dengan kuliner dodol di Jawa Barat adalah...",
+    "jawaban": "Garut"
+  },
+  {
+    "index": 13,
+    "soal": "Kabupaten di Sumatera Utara yang mengelilingi Danau Toba dan terkenal dengan kain Ulos adalah...",
+    "jawaban": "Samosir"
+  },
+  {
+    "index": 14,
+    "soal": "Kabupaten yang memiliki Taman Nasional Komodo adalah...",
+    "jawaban": "Manggarai Barat"
+  },
+  {
+    "index": 15,
+    "soal": "Kabupaten yang dikenal sebagai 'Kota Intan' di Kalimantan Selatan adalah...",
+    "jawaban": "Banjar"
+  },
+  {
+    "index": 16,
+    "soal": "Kabupaten di Yogyakarta yang terkenal dengan pantai pasir putih dan gunung kidulnya adalah...",
+    "jawaban": "Gunungkidul"
+  },
+  {
+    "index": 17,
+    "soal": "Kabupaten di Jawa Timur yang dijuluki 'The Sunrise of Java' adalah...",
+    "jawaban": "Banyuwangi"
+  },
+  {
+    "index": 18,
+    "soal": "Kabupaten yang menjadi pusat industri batik di Jawa Tengah selain Solo adalah...",
+    "jawaban": "Pekalongan"
+  },
+  {
+    "index": 19,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan Jam Gadang-nya adalah...",
+    "jawaban": "Agam"
+  },
+  {
+    "index": 20,
+    "soal": "Kabupaten yang terkenal dengan kerajinan perak di Bali adalah...",
+    "jawaban": "Gianyar"
+  },
+  {
+    "index": 21,
+    "soal": "Kabupaten penghasil susu sapi terbesar di Jawa Barat adalah...",
+    "jawaban": "Bandung Barat"
+  },
+  {
+    "index": 22,
+    "soal": "Kabupaten di Papua yang terkenal dengan keindahan Raja Ampat adalah...",
+    "jawaban": "Raja Ampat"
+  },
+  {
+    "index": 23,
+    "soal": "Kabupaten yang memiliki situs purbakala Sangiran di Jawa Tengah adalah...",
+    "jawaban": "Sragen"
+  },
+  {
+    "index": 24,
+    "soal": "Kabupaten di Jambi yang terkenal dengan Gunung Kerinci adalah...",
+    "jawaban": "Kerinci"
+  },
+  {
+    "index": 25,
+    "soal": "Kabupaten di Lampung yang terkenal dengan sekolah gajahnya (Way Kambas) adalah...",
+    "jawaban": "Lampung Timur"
+  },
+  {
+    "index": 26,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan keindahan bawah laut Bunaken (wilayah administratif) adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 27,
+    "soal": "Kabupaten penghasil beras terbesar di Sulawesi Selatan adalah...",
+    "jawaban": "Sidrap"
+  },
+  {
+    "index": 28,
+    "soal": "Kabupaten yang terkenal dengan tauco dan Gunung Gede Pangrango di Jawa Barat adalah...",
+    "jawaban": "Cianjur"
+  },
+  {
+    "index": 29,
+    "soal": "Kabupaten yang memiliki wisata dataran tinggi Dieng di Jawa Tengah (sebagian besar) adalah...",
+    "jawaban": "Banjarnegara"
+  },
+  {
+    "index": 30,
+    "soal": "Kabupaten di Maluku yang terkenal sebagai penghasil pala dan cengkih sejak zaman penjajahan adalah...",
+    "jawaban": "Maluku Tengah"
+  },
+  {
+    "index": 31,
+    "soal": "Kabupaten yang terkenal dengan produksi Tahu dan berada di Jawa Barat adalah...",
+    "jawaban": "Sumedang"
+  },
+  {
+    "index": 32,
+    "soal": "Kabupaten di Kalimantan Tengah yang memiliki Taman Nasional Tanjung Puting (pusat rehabilitasi Orangutan) adalah...",
+    "jawaban": "Kotawaringin Barat"
+  },
+  {
+    "index": 33,
+    "soal": "Kabupaten di Sumatera Selatan yang terkenal sebagai penghasil kopi dan berada di dataran tinggi adalah...",
+    "jawaban": "Lahat"
+  },
+  {
+    "index": 34,
+    "soal": "Kabupaten di Banten yang menjadi tempat tinggal suku asli Baduy adalah...",
+    "jawaban": "Lebak"
+  },
+  {
+    "index": 35,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan julukan Kota Kretek adalah...",
+    "jawaban": "Kudus"
+  },
+  {
+    "index": 36,
+    "soal": "Kabupaten di Riau yang terkenal dengan Istana Siak Sri Indrapura adalah...",
+    "jawaban": "Siak"
+  },
+  {
+    "index": 37,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki Taman Nasional Lore Lindu adalah...",
+    "jawaban": "Poso"
+  },
+  {
+    "index": 38,
+    "soal": "Kabupaten di Kepulauan Riau yang terkenal dengan wisata pantai dan resort internasional adalah...",
+    "jawaban": "Bintan"
+  },
+  {
+    "index": 39,
+    "soal": "Kabupaten di Jawa Timur yang merupakan titik paling timur pulau Jawa (Taman Nasional Alas Purwo) adalah...",
+    "jawaban": "Banyuwangi"
+  },
+  {
+    "index": 40,
+    "soal": "Kabupaten di Maluku Utara yang merupakan pusat sejarah perdagangan rempah (Kesultanan) adalah...",
+    "jawaban": "Halmahera Barat"
+  },
+  {
+    "index": 41,
+    "soal": "Kabupaten di NTT yang terkenal dengan alat musik Sasando di Pulau Rote adalah...",
+    "jawaban": "Rote Ndao"
+  },
+  {
+    "index": 42,
+    "soal": "Kabupaten di Kalimantan Selatan yang terkenal dengan pasar terapung Lok Baintan adalah...",
+    "jawaban": "Banjar"
+  },
+  {
+    "index": 43,
+    "soal": "Kabupaten di Bangka Belitung yang menjadi latar film Laskar Pelangi adalah...",
+    "jawaban": "Belitung Timur"
+  },
+  {
+    "index": 44,
+    "soal": "Kabupaten di Jawa Barat yang memiliki Pelabuhan Ratu adalah...",
+    "jawaban": "Sukabumi"
+  },
+  {
+    "index": 45,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan keindahan bawah laut Wakatobi adalah...",
+    "jawaban": "Wakatobi"
+  },
+  {
+    "index": 46,
+    "soal": "Kabupaten di Kalimantan Barat yang dijuluki Kota Khatulistiwa adalah...",
+    "jawaban": "Kubu Raya"
+  },
+  {
+    "index": 47,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan Danau Lau Kawar di kaki Gunung Sinabung adalah...",
+    "jawaban": "Karo"
+  },
+  {
+    "index": 48,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner sate ambal dan pantai logending adalah...",
+    "jawaban": "Kebumen"
+  },
+  {
+    "index": 49,
+    "soal": "Kabupaten di NTB yang memiliki Gunung Rinjani adalah...",
+    "jawaban": "Lombok Utara"
+  },
+  {
+    "index": 50,
+    "soal": "Kabupaten di Papua Pegunungan yang berada di Lembah Baliem adalah...",
+    "jawaban": "Jayawijaya"
+  },
+  {
+    "index": 51,
+    "soal": "Kabupaten penghasil beras terbesar di Jawa Barat adalah...",
+    "jawaban": "Indramayu"
+  },
+  {
+    "index": 52,
+    "soal": "Kabupaten di Kalimantan Timur yang terkenal dengan budaya Dayak Kenyah dan Sungai Mahakam adalah...",
+    "jawaban": "Kutai Barat"
+  },
+  {
+    "index": 53,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki Lembah Harau adalah...",
+    "jawaban": "Lima Puluh Kota"
+  },
+  {
+    "index": 54,
+    "soal": "Kabupaten di Jawa Timur yang menjadi lokasi Gunung Kelud adalah...",
+    "jawaban": "Kediri"
+  },
+  {
+    "index": 55,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan pembuatan kapal Pinisi adalah...",
+    "jawaban": "Bulukumba"
+  },
+  {
+    "index": 56,
+    "soal": "Kabupaten di Aceh yang terkenal sebagai penghasil kopi Gayo terbaik adalah...",
+    "jawaban": "Aceh Tengah"
+  },
+  {
+    "index": 57,
+    "soal": "Kabupaten di Lampung yang merupakan pintu gerbang pulau Sumatera dari Jawa adalah...",
+    "jawaban": "Lampung Selatan"
+  },
+  {
+    "index": 58,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan penghasil kacang kelinci dan sentra kuningan adalah...",
+    "jawaban": "Pati"
+  },
+  {
+    "index": 59,
+    "soal": "Kabupaten di Bali yang merupakan pusat seni lukis dan tari (Ubud) adalah...",
+    "jawaban": "Gianyar"
+  },
+  {
+    "index": 60,
+    "soal": "Kabupaten di Bengkulu yang terkenal dengan bunga Rafflesia Arnoldii adalah...",
+    "jawaban": "Kepahiang"
+  },
+  {
+    "index": 61,
+    "soal": "Kabupaten di Kalimantan Selatan yang dijuluki Kota Barabai adalah...",
+    "jawaban": "Hulu Sungai Tengah"
+  },
+  {
+    "index": 62,
+    "soal": "Kabupaten di Maluku yang terdiri dari gugusan kepulauan Banda adalah...",
+    "jawaban": "Maluku Tengah"
+  },
+  {
+    "index": 63,
+    "soal": "Kabupaten di Jawa Timur yang memiliki Gunung Bromo (selain Malang & Probolinggo) adalah...",
+    "jawaban": "Pasuruan"
+  },
+  {
+    "index": 64,
+    "soal": "Kabupaten di Sulawesi Tengah yang terkenal dengan produksi bawang gorengnya adalah...",
+    "jawaban": "Sigi"
+  },
+  {
+    "index": 65,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan objek wisata Tangkahan (Gajah) adalah...",
+    "jawaban": "Langkat"
+  },
+  {
+    "index": 66,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan Bendungan Jatiluhur adalah...",
+    "jawaban": "Purwakarta"
+  },
+  {
+    "index": 67,
+    "soal": "Kabupaten di Kalimantan Utara yang berbatasan langsung dengan Malaysia adalah...",
+    "jawaban": "Nunukan"
+  },
+  {
+    "index": 68,
+    "soal": "Kabupaten di Gorontalo yang memiliki wisata hiu paus adalah...",
+    "jawaban": "Bone Bolango"
+  },
+  {
+    "index": 69,
+    "soal": "Kabupaten di Papua Barat yang terkenal dengan Teluk Cendrawasih adalah...",
+    "jawaban": "Teluk Wondama"
+  },
+  {
+    "index": 70,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki Danau Singkarak adalah...",
+    "jawaban": "Solok"
+  },
+  {
+    "index": 71,
+    "soal": "Kabupaten di Jawa Tengah yang merupakan daerah terkecil namun padat (sekitar Solo) adalah...",
+    "jawaban": "Sukoharjo"
+  },
+  {
+    "index": 72,
+    "soal": "Kabupaten di NTT yang memiliki tradisi perburuan paus di Lamalera adalah...",
+    "jawaban": "Lembata"
+  },
+  {
+    "index": 73,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan pemekaran dari Barito Utara adalah...",
+    "jawaban": "Murung Raya"
+  },
+  {
+    "index": 74,
+    "soal": "Kabupaten di Jawa Timur yang dijuluki Kota Reog adalah...",
+    "jawaban": "Ponorogo"
+  },
+  {
+    "index": 75,
+    "soal": "Kabupaten di Sulawesi Barat yang terkenal dengan tenun Sekomandi adalah...",
+    "jawaban": "Mamuju"
+  },
+  {
+    "index": 76,
+    "soal": "Kabupaten di Aceh yang berada di ujung paling timur provinsi tersebut adalah...",
+    "jawaban": "Aceh Tamiang"
+  },
+  {
+    "index": 77,
+    "soal": "Kabupaten di Jambi yang memiliki Candi Muaro Jambi adalah...",
+    "jawaban": "Muaro Jambi"
+  },
+  {
+    "index": 78,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan pantai Pangandaran adalah...",
+    "jawaban": "Pangandaran"
+  },
+  {
+    "index": 79,
+    "soal": "Kabupaten di Kepulauan Riau yang berada di Laut Natuna Utara adalah...",
+    "jawaban": "Natuna"
+  },
+  {
+    "index": 80,
+    "soal": "Kabupaten di Sumatera Selatan yang memiliki Danau Ranau adalah...",
+    "jawaban": "Ogan Komering Ulu Selatan"
+  },
+  {
+    "index": 81,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan industri semen dan pantai teluk penyu adalah...",
+    "jawaban": "Cilacap"
+  },
+  {
+    "index": 82,
+    "soal": "Kabupaten di Bali yang terkenal dengan Pantai Lovina (lumba-lumba) adalah...",
+    "jawaban": "Buleleng"
+  },
+  {
+    "index": 83,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki Kepulauan Derawan adalah...",
+    "jawaban": "Berau"
+  },
+  {
+    "index": 84,
+    "soal": "Kabupaten di Sulawesi Utara yang berada di kepulauan paling utara (perbatasan Filipina) adalah...",
+    "jawaban": "Kepulauan Talaud"
+  },
+  {
+    "index": 85,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan wisata kulinernya (Lemang) adalah...",
+    "jawaban": "Tebing Tinggi"
+  },
+  {
+    "index": 86,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan sate lalat dan batik tulisnya adalah...",
+    "jawaban": "Pamekasan"
+  },
+  {
+    "index": 87,
+    "soal": "Kabupaten di Papua yang berbatasan langsung dengan negara Papua Nugini adalah...",
+    "jawaban": "Keerom"
+  },
+  {
+    "index": 88,
+    "soal": "Kabupaten di NTB yang terkenal dengan pacuan kuda dan susu kuda liar adalah...",
+    "jawaban": "Sumbawa"
+  },
+  {
+    "index": 89,
+    "soal": "Kabupaten di Jawa Tengah yang dijuluki Kota Tembakau (di lereng Sumbing-Sindoro) adalah...",
+    "jawaban": "Temanggung"
+  },
+  {
+    "index": 90,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan tambang batubara tertua (Sawahlunto) adalah...",
+    "jawaban": "Sijunjung"
+  },
+  {
+    "index": 91,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan kerajinan tenun ikatnya adalah...",
+    "jawaban": "Sintang"
+  },
+  {
+    "index": 92,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan julukan 'Bumi Panrita Lopi' adalah...",
+    "jawaban": "Bulukumba"
+  },
+  {
+    "index": 93,
+    "soal": "Kabupaten di Jawa Barat yang memiliki sentra industri sepatu Cibaduyut adalah...",
+    "jawaban": "Bandung"
+  },
+  {
+    "index": 94,
+    "soal": "Kabupaten di Maluku Tenggara yang terkenal dengan Pantai Ngurbloat (pasir terhalus) adalah...",
+    "jawaban": "Maluku Tenggara"
+  },
+  {
+    "index": 95,
+    "soal": "Kabupaten di Gorontalo yang merupakan pusat pertanian jagung adalah...",
+    "jawaban": "Pohuwato"
+  },
+  {
+    "index": 96,
+    "soal": "Kabupaten di Jawa Timur yang memiliki jembatan Suramadu (sisi Madura) adalah...",
+    "jawaban": "Bangkalan"
+  },
+  {
+    "index": 97,
+    "soal": "Kabupaten di Bengkulu yang terkenal dengan pertambangan emasnya adalah...",
+    "jawaban": "Lebong"
+  },
+  {
+    "index": 98,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki Kepulauan Togian adalah...",
+    "jawaban": "Tojo Una-Una"
+  },
+  {
+    "index": 99,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan perkebunan sawit terbesar adalah...",
+    "jawaban": "Asahan"
+  },
+  {
+    "index": 100,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner Nasi Gandul adalah...",
+    "jawaban": "Pati"
+  },
+  {
+    "index": 101,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan kacang garing dan pemandangan Salib Kasih adalah...",
+    "jawaban": "Tapanuli Utara"
+  },
+  {
+    "index": 102,
+    "soal": "Kabupaten di Jawa Barat yang memiliki situs megalitikum Gunung Padang adalah...",
+    "jawaban": "Cianjur"
+  },
+  {
+    "index": 103,
+    "soal": "Kabupaten di Sulawesi Selatan yang dijuluki sebagai 'Bumi Arung Palakka' adalah...",
+    "jawaban": "Bone"
+  },
+  {
+    "index": 104,
+    "soal": "Kabupaten di Bali yang merupakan satu-satunya kabupaten tidak memiliki pantai adalah...",
+    "jawaban": "Bangli"
+  },
+  {
+    "index": 105,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan perayaan Cap Go Meh di kota Singkawang (sebelum jadi kota otonom) adalah...",
+    "jawaban": "Bengkayang"
+  },
+  {
+    "index": 106,
+    "soal": "Kabupaten di Aceh yang berada di wilayah paling selatan dan berbatasan dengan Sumut adalah...",
+    "jawaban": "Aceh Singkil"
+  },
+  {
+    "index": 107,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan julukan 'Kota Marmer' adalah...",
+    "jawaban": "Tulungagung"
+  },
+  {
+    "index": 108,
+    "soal": "Kabupaten di Papua Selatan yang terkenal dengan julukan 'Kota Rusa' adalah...",
+    "jawaban": "Merauke"
+  },
+  {
+    "index": 109,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan tambang emas dan budaya Minang-nya adalah...",
+    "jawaban": "Dharmasraya"
+  },
+  {
+    "index": 110,
+    "soal": "Kabupaten di Maluku yang terkenal dengan kerajinan kain tenun Tanimbar adalah...",
+    "jawaban": "Kepulauan Tanimbar"
+  },
+  {
+    "index": 111,
+    "soal": "Kabupaten di Sulawesi Tenggara yang merupakan penghasil aspal alam terbesar adalah...",
+    "jawaban": "Buton"
+  },
+  {
+    "index": 112,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner carica dan negeri di atas awan adalah...",
+    "jawaban": "Wonosobo"
+  },
+  {
+    "index": 113,
+    "soal": "Kabupaten di Kalimantan Tengah yang dialiri Sungai Barito dan pusat batubara adalah...",
+    "jawaban": "Barito Utara"
+  },
+  {
+    "index": 114,
+    "soal": "Kabupaten di NTT yang berada di Pulau Sumba dan terkenal dengan Bukit Tenau adalah...",
+    "jawaban": "Sumba Timur"
+  },
+  {
+    "index": 115,
+    "soal": "Kabupaten di Lampung yang terkenal dengan wisata Pantai Gigi Hiu adalah...",
+    "jawaban": "Tanggamus"
+  },
+  {
+    "index": 116,
+    "soal": "Kabupaten di Jawa Timur yang memiliki ikon wisata Telaga Sarangan adalah...",
+    "jawaban": "Magetan"
+  },
+  {
+    "index": 117,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki garis pantai terpanjang dan wisata bahari adalah...",
+    "jawaban": "Banggai"
+  },
+  {
+    "index": 118,
+    "soal": "Kabupaten di Sumatera Selatan yang merupakan penghasil duku paling manis adalah...",
+    "jawaban": "Ogan Komering Ilir"
+  },
+  {
+    "index": 119,
+    "soal": "Kabupaten di Kepulauan Riau yang terkenal sebagai penghasil gas alam terbesar adalah...",
+    "jawaban": "Kepulauan Anambas"
+  },
+  {
+    "index": 120,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan objek wisata Negeri di Atas Awan Lolai adalah...",
+    "jawaban": "Toraja Utara"
+  },
+  {
+    "index": 121,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan kerajinan anyaman bambu dan tasnya adalah...",
+    "jawaban": "Tasikmalaya"
+  },
+  {
+    "index": 122,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki museum Mulawarman adalah...",
+    "jawaban": "Kutai Kartanegara"
+  },
+  {
+    "index": 123,
+    "soal": "Kabupaten di Bangka Belitung yang berada di ujung selatan pulau Bangka adalah...",
+    "jawaban": "Bangka Selatan"
+  },
+  {
+    "index": 124,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil intan di pendulangan Cempaka adalah...",
+    "jawaban": "Banjar"
+  },
+  {
+    "index": 125,
+    "soal": "Kabupaten di Nusa Tenggara Barat yang memiliki Pulau Kenawa adalah...",
+    "jawaban": "Sumbawa Barat"
+  },
+  {
+    "index": 126,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal sebagai penghasil beras merah organik di kaki Gunung Lawu adalah...",
+    "jawaban": "Karanganyar"
+  },
+  {
+    "index": 127,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan pemandian air panas Sidebuk-debuk adalah...",
+    "jawaban": "Karo"
+  },
+  {
+    "index": 128,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan kerajinan rumah panggung Woloan adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 129,
+    "soal": "Kabupaten di Papua yang terkenal dengan sejarah penyebaran agama Kristen di Pulau Mansinam adalah...",
+    "jawaban": "Manokwari"
+  },
+  {
+    "index": 130,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan pantai Pasir Putih Situbondo adalah...",
+    "jawaban": "Situbondo"
+  },
+  {
+    "index": 131,
+    "soal": "Kabupaten di Kalimantan Barat yang berbatasan dengan Sarawak dan terkenal dengan Danau Sentarum adalah...",
+    "jawaban": "Kapuas Hulu"
+  },
+  {
+    "index": 132,
+    "soal": "Kabupaten di Jambi yang memiliki wilayah pegunungan dan penghasil kayu manis adalah...",
+    "jawaban": "Kerinci"
+  },
+  {
+    "index": 133,
+    "soal": "Kabupaten di Banten yang memiliki pelabuhan penyeberangan utama ke Sumatera adalah...",
+    "jawaban": "Serang"
+  },
+  {
+    "index": 134,
+    "soal": "Kabupaten di Maluku Utara yang terkenal dengan Gunung Api Gamalama (wilayah administrasi) adalah...",
+    "jawaban": "Halmahera Barat"
+  },
+  {
+    "index": 135,
+    "soal": "Kabupaten di Sulawesi Barat yang terkenal dengan tarian Sayyang Pattu'du adalah...",
+    "jawaban": "Polewali Mandar"
+  },
+  {
+    "index": 136,
+    "soal": "Kabupaten di Riau yang merupakan daerah penghasil minyak bumi terbesar (Blok Rokan) adalah...",
+    "jawaban": "Bengkalis"
+  },
+  {
+    "index": 137,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner mendoan adalah...",
+    "jawaban": "Banyumas"
+  },
+  {
+    "index": 138,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki Istano Basa Pagaruyung adalah...",
+    "jawaban": "Tanah Datar"
+  },
+  {
+    "index": 139,
+    "soal": "Kabupaten di NTT yang memiliki tradisi cium hidung adalah...",
+    "jawaban": "Sumba Tengah"
+  },
+  {
+    "index": 140,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan Pulau Labengki (Mini Raja Ampat) adalah...",
+    "jawaban": "Konawe Utara"
+  },
+  {
+    "index": 141,
+    "soal": "Kabupaten di Kalimantan Timur yang merupakan pusat industri gas dan pupuk adalah...",
+    "jawaban": "Kutai Timur"
+  },
+  {
+    "index": 142,
+    "soal": "Kabupaten di Jawa Barat yang memiliki destinasi wisata Gunung Tangkuban Parahu adalah...",
+    "jawaban": "Subang"
+  },
+  {
+    "index": 143,
+    "soal": "Kabupaten di Sumatera Utara yang merupakan penghasil jeruk Medan (sebenarnya dari sini) adalah...",
+    "jawaban": "Karo"
+  },
+  {
+    "index": 144,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal sebagai Kota Sutera adalah...",
+    "jawaban": "Wajo"
+  },
+  {
+    "index": 145,
+    "soal": "Kabupaten di Bali yang memiliki pura Besakih (Pura terbesar di Bali) adalah...",
+    "jawaban": "Karangasem"
+  },
+  {
+    "index": 146,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kerajinan gerabah Kasongan adalah...",
+    "jawaban": "Bantul"
+  },
+  {
+    "index": 147,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan lokasi dari Pegunungan Meratus adalah...",
+    "jawaban": "Hulu Sungai Tengah"
+  },
+  {
+    "index": 148,
+    "soal": "Kabupaten di Bengkulu yang terkenal dengan benteng peninggalan Inggris adalah...",
+    "jawaban": "Bengkulu Utara"
+  },
+  {
+    "index": 149,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki teluk terbesar di Indonesia adalah...",
+    "jawaban": "Tojo Una-Una"
+  },
+  {
+    "index": 150,
+    "soal": "Kabupaten di Papua yang memiliki kekayaan alam emas di Grasberg adalah...",
+    "jawaban": "Mimika"
+  },
+  {
+    "index": 151,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan produksi tebu dan pabrik gula adalah...",
+    "jawaban": "Sidoarjo"
+  },
+  {
+    "index": 152,
+    "soal": "Kabupaten di Lampung yang terkenal dengan wisata Pantai Mutun adalah...",
+    "jawaban": "Pesawaran"
+  },
+  {
+    "index": 153,
+    "soal": "Kabupaten di Aceh yang terletak di dataran tinggi Gayo dan memiliki Danau Laut Tawar adalah...",
+    "jawaban": "Aceh Tengah"
+  },
+  {
+    "index": 154,
+    "soal": "Kabupaten di Sumatera Selatan yang wilayahnya mengelilingi kota Palembang adalah...",
+    "jawaban": "Banyuasin"
+  },
+  {
+    "index": 155,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan kerajinan lidah buaya adalah...",
+    "jawaban": "Mempawah"
+  },
+  {
+    "index": 156,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan Taman Nasional Bogani Nani Wartabone adalah...",
+    "jawaban": "Bolaang Mongondow"
+  },
+  {
+    "index": 157,
+    "soal": "Kabupaten di NTT yang berada di pulau Flores dan memiliki kampung adat Waerebo adalah...",
+    "jawaban": "Manggarai"
+  },
+  {
+    "index": 158,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan tahu putih dan industri tekstil adalah...",
+    "jawaban": "Majalengka"
+  },
+  {
+    "index": 159,
+    "soal": "Kabupaten di Kalimantan Tengah yang dijuluki sebagai Kota Air adalah...",
+    "jawaban": "Kapuas"
+  },
+  {
+    "index": 160,
+    "soal": "Kabupaten di NTB yang terkenal dengan tambang emas Batu Hijau adalah...",
+    "jawaban": "Sumbawa Barat"
+  },
+  {
+    "index": 161,
+    "soal": "Kabupaten di Jawa Timur yang memiliki julukan 'Kota Santri' dan pelabuhan feri ke Madura adalah...",
+    "jawaban": "Gresik"
+  },
+  {
+    "index": 162,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki kepulauan penghasil ombak selancar terbaik di dunia adalah...",
+    "jawaban": "Kepulauan Mentawai"
+  },
+  {
+    "index": 163,
+    "soal": "Kabupaten di Sulawesi Selatan yang merupakan penghasil garam terbesar di provinsi tersebut adalah...",
+    "jawaban": "Jeneponto"
+  },
+  {
+    "index": 164,
+    "soal": "Kabupaten di Maluku yang berbatasan dengan negara Australia di wilayah laut adalah...",
+    "jawaban": "Maluku Barat Daya"
+  },
+  {
+    "index": 165,
+    "soal": "Kabupaten di Kalimantan Utara yang memiliki pelabuhan internasional Malundung adalah...",
+    "jawaban": "Bulungan"
+  },
+  {
+    "index": 166,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan Benteng Keraton Buton adalah...",
+    "jawaban": "Buton"
+  },
+  {
+    "index": 167,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner Soto Tauco (Sauto) adalah...",
+    "jawaban": "Tegal"
+  },
+  {
+    "index": 168,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan industri kelapa sawit di daerah Labuhanbatu adalah...",
+    "jawaban": "Labuhanbatu"
+  },
+  {
+    "index": 169,
+    "soal": "Kabupaten di Papua yang terkenal dengan produksi kayu gaharu dan sagu adalah...",
+    "jawaban": "Asmat"
+  },
+  {
+    "index": 170,
+    "soal": "Kabupaten di Lampung yang merupakan pemekaran dari Lampung Utara dan terkenal dengan kebun lada adalah...",
+    "jawaban": "Way Kanan"
+  },
+  {
+    "index": 171,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan produksi garam terbesar di Indonesia adalah...",
+    "jawaban": "Sampang"
+  },
+  {
+    "index": 172,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan jalur trans-Kalimantan menuju Kaltim adalah...",
+    "jawaban": "Tabalong"
+  },
+  {
+    "index": 173,
+    "soal": "Kabupaten di Bali yang terkenal dengan objek wisata Tanah Lot adalah...",
+    "jawaban": "Tabanan"
+  },
+  {
+    "index": 174,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki cadangan nikel terbesar (daerah Morowali) adalah...",
+    "jawaban": "Morowali"
+  },
+  {
+    "index": 175,
+    "soal": "Kabupaten di NTT yang memiliki tradisi tinju adat Etu adalah...",
+    "jawaban": "Nagekeo"
+  },
+  {
+    "index": 176,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan objek wisata Waduk Darma adalah...",
+    "jawaban": "Kuningan"
+  },
+  {
+    "index": 177,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan pesona Puncak Lawang adalah...",
+    "jawaban": "Agam"
+  },
+  {
+    "index": 178,
+    "soal": "Kabupaten di Aceh yang merupakan titik paling barat Pulau Jawa-Sumatera di daratan utama adalah...",
+    "jawaban": "Aceh Jaya"
+  },
+  {
+    "index": 179,
+    "soal": "Kabupaten di Kalimantan Tengah yang memiliki wilayah pesisir dengan potensi udang windu adalah...",
+    "jawaban": "Sukamara"
+  },
+  {
+    "index": 180,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan keindahan bunga di kaki Gunung Lokon adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 181,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan industri jamu dan pantai widarapayung adalah...",
+    "jawaban": "Cilacap"
+  },
+  {
+    "index": 182,
+    "soal": "Kabupaten di Sumatera Selatan yang memiliki wilayah perairan sungai Musi sangat luas adalah...",
+    "jawaban": "Musi Banyuasin"
+  },
+  {
+    "index": 183,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki keindahan Kepulauan Maratua adalah...",
+    "jawaban": "Berau"
+  },
+  {
+    "index": 184,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan produsen kopi Kalosi adalah...",
+    "jawaban": "Enrekang"
+  },
+  {
+    "index": 185,
+    "soal": "Kabupaten di NTB yang berada di Pulau Sumbawa dan memiliki Gunung Tambora adalah...",
+    "jawaban": "Dompu"
+  },
+  {
+    "index": 186,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan jajanan Wingko (asal daerah sebenarnya) adalah...",
+    "jawaban": "Lamongan"
+  },
+  {
+    "index": 187,
+    "soal": "Kabupaten di Bengkulu yang terkenal dengan produksi aren dan kopi adalah...",
+    "jawaban": "Rejang Lebong"
+  },
+  {
+    "index": 188,
+    "soal": "Kabupaten di Maluku yang merupakan wilayah kepulauan rempah-rempah Banda adalah...",
+    "jawaban": "Maluku Tengah"
+  },
+  {
+    "index": 189,
+    "soal": "Kabupaten di Kalimantan Barat yang memiliki garis pantai panjang dan wisata Pasir Panjang adalah...",
+    "jawaban": "Bengkayang"
+  },
+  {
+    "index": 190,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan perkebunan teh Malabar dan Pangalengan adalah...",
+    "jawaban": "Bandung"
+  },
+  {
+    "index": 191,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan kerajinan perak di daerah Kendari (wilayah administratif) adalah...",
+    "jawaban": "Konawe"
+  },
+  {
+    "index": 192,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan keindahan Pulau Nias bagian selatan adalah...",
+    "jawaban": "Nias Selatan"
+  },
+  {
+    "index": 193,
+    "soal": "Kabupaten di Kalimantan Utara yang memiliki wilayah pegunungan dan berbatasan dengan Malaysia adalah...",
+    "jawaban": "Malinau"
+  },
+  {
+    "index": 194,
+    "soal": "Kabupaten di Sulawesi Barat yang merupakan pusat pengembangan kakao adalah...",
+    "jawaban": "Mamuju Utara"
+  },
+  {
+    "index": 195,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan julukan 'Kota Samin' adalah...",
+    "jawaban": "Blora"
+  },
+  {
+    "index": 196,
+    "soal": "Kabupaten di Riau yang memiliki objek wisata gelombang Bono di Sungai Kampar adalah...",
+    "jawaban": "Pelalawan"
+  },
+  {
+    "index": 197,
+    "soal": "Kabupaten di NTT yang memiliki pelabuhan feri utama di ujung timur Flores adalah...",
+    "jawaban": "Flores Timur"
+  },
+  {
+    "index": 198,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil batubara terbesar di provinsi tersebut adalah...",
+    "jawaban": "Tanah Bumbu"
+  },
+  {
+    "index": 199,
+    "soal": "Kabupaten di Papua Pegunungan yang terkenal dengan mumi purba adalah...",
+    "jawaban": "Jayawijaya"
+  },
+  {
+    "index": 200,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan jembatan Suramadu dan bebek sinjay adalah...",
+    "jawaban": "Bangkalan"
+  },
+  {
+    "index": 201,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan keindahan Danau Maninjau adalah...",
+    "jawaban": "Agam"
+  },
+  {
+    "index": 202,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan produksi telur itik dan bawang merah adalah...",
+    "jawaban": "Brebes"
+  },
+  {
+    "index": 203,
+    "soal": "Kabupaten di Sulawesi Selatan yang merupakan penghasil jagung terbesar dan memiliki benteng Somba Opu adalah...",
+    "jawaban": "Gowa"
+  },
+  {
+    "index": 204,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan Keraton Amantubillah adalah...",
+    "jawaban": "Mempawah"
+  },
+  {
+    "index": 205,
+    "soal": "Kabupaten di Aceh yang terkenal dengan keindahan pantai Lampuuk adalah...",
+    "jawaban": "Aceh Besar"
+  },
+  {
+    "index": 206,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan julukan 'Kota Angin' adalah...",
+    "jawaban": "Nganjuk"
+  },
+  {
+    "index": 207,
+    "soal": "Kabupaten di Papua Barat Daya yang merupakan pintu masuk utama menuju Raja Ampat adalah...",
+    "jawaban": "Sorong"
+  },
+  {
+    "index": 208,
+    "soal": "Kabupaten di Lampung yang terkenal dengan sentra industri tapioka adalah...",
+    "jawaban": "Lampung Tengah"
+  },
+  {
+    "index": 209,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan produksi mete terbaik adalah...",
+    "jawaban": "Muna"
+  },
+  {
+    "index": 210,
+    "soal": "Kabupaten di Maluku Utara yang terkenal sebagai penghasil kelapa terbesar adalah...",
+    "jawaban": "Halmahera Utara"
+  },
+  {
+    "index": 211,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan objek wisata Bukit Lawang (Orangutan) adalah...",
+    "jawaban": "Langkat"
+  },
+  {
+    "index": 212,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan industri karoseri bus dan soto khasnya adalah...",
+    "jawaban": "Magelang"
+  },
+  {
+    "index": 213,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan pusat industri penggergajian kayu adalah...",
+    "jawaban": "Barito Kuala"
+  },
+  {
+    "index": 214,
+    "soal": "Kabupaten di NTT yang memiliki tradisi perburuan paus secara tradisional di Lamalera adalah...",
+    "jawaban": "Lembata"
+  },
+  {
+    "index": 215,
+    "soal": "Kabupaten di Jambi yang memiliki wilayah terluas dan kaya akan cadangan batubara adalah...",
+    "jawaban": "Sarolangun"
+  },
+  {
+    "index": 216,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan kerajinan kain batik Trusmi adalah...",
+    "jawaban": "Cirebon"
+  },
+  {
+    "index": 217,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki garis pantai di Teluk Tomini adalah...",
+    "jawaban": "Parigi Moutong"
+  },
+  {
+    "index": 218,
+    "soal": "Kabupaten di Sumatera Selatan yang terkenal dengan julukan 'Bumi Serepat Serasan' adalah...",
+    "jawaban": "Penukal Abab Lematang Ilir"
+  },
+  {
+    "index": 219,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki pusat penelitian orangutan di Samboja adalah...",
+    "jawaban": "Kutai Kartanegara"
+  },
+  {
+    "index": 220,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan perkebunan cengkih dan kakao adalah...",
+    "jawaban": "Luwu"
+  },
+  {
+    "index": 221,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan sebutan 'Kota Tape' adalah...",
+    "jawaban": "Bondowoso"
+  },
+  {
+    "index": 222,
+    "soal": "Kabupaten di Bali yang terkenal dengan objek wisata pura Ulun Danu Bratan adalah...",
+    "jawaban": "Tabanan"
+  },
+  {
+    "index": 223,
+    "soal": "Kabupaten di Kalimantan Barat yang berbatasan dengan Sarawak dan memiliki PLBN Entikong adalah...",
+    "jawaban": "Sanggau"
+  },
+  {
+    "index": 224,
+    "soal": "Kabupaten di Riau yang memiliki wilayah kepulauan dan terkenal dengan sagunya adalah...",
+    "jawaban": "Kepulauan Meranti"
+  },
+  {
+    "index": 225,
+    "soal": "Kabupaten di Nusa Tenggara Barat yang berada di kaki Gunung Tambora adalah...",
+    "jawaban": "Bima"
+  },
+  {
+    "index": 226,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan produsen mebel rotan terbesar adalah...",
+    "jawaban": "Sukoharjo"
+  },
+  {
+    "index": 227,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan ekspor karet dan kelapa sawit adalah...",
+    "jawaban": "Serdang Bedagai"
+  },
+  {
+    "index": 228,
+    "soal": "Kabupaten di Sulawesi Utara yang memiliki pelabuhan Bitung (sebelum jadi kota) berada di wilayah...",
+    "jawaban": "Minahasa Utara"
+  },
+  {
+    "index": 229,
+    "soal": "Kabupaten di Papua Tengah yang memiliki tambang emas terbesar di dunia adalah...",
+    "jawaban": "Mimika"
+  },
+  {
+    "index": 230,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan kuliner tahu kuning dan waduk Jatigede adalah...",
+    "jawaban": "Sumedang"
+  },
+  {
+    "index": 231,
+    "soal": "Kabupaten di Kalimantan Tengah yang memiliki wilayah pesisir dengan potensi taman laut adalah...",
+    "jawaban": "Seruyan"
+  },
+  {
+    "index": 232,
+    "soal": "Kabupaten di Bengkulu yang terkenal dengan nama 'Bumi Sekundang Setungguan' adalah...",
+    "jawaban": "Bengkulu Selatan"
+  },
+  {
+    "index": 233,
+    "soal": "Kabupaten di Sulawesi Barat yang merupakan wilayah pesisir penghasil ikan terbang adalah...",
+    "jawaban": "Majene"
+  },
+  {
+    "index": 234,
+    "soal": "Kabupaten di Sumatera Barat yang terkenal dengan kawasan wisata Mandeh adalah...",
+    "jawaban": "Pesisir Selatan"
+  },
+  {
+    "index": 235,
+    "soal": "Kabupaten di Jawa Tengah yang merupakan penghasil tembakau kualitas dunia di lereng Gunung Prau adalah...",
+    "jawaban": "Temanggung"
+  },
+  {
+    "index": 236,
+    "soal": "Kabupaten di NTT yang berada di Pulau Sumba bagian barat daya adalah...",
+    "jawaban": "Sumba Barat Daya"
+  },
+  {
+    "index": 237,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil karet alam terbesar adalah...",
+    "jawaban": "Balangan"
+  },
+  {
+    "index": 238,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan produksi beras 'Cisadane' adalah...",
+    "jawaban": "Sidrap"
+  },
+  {
+    "index": 239,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan kerajinan alat musik gamelan di Desa Laban adalah...",
+    "jawaban": "Magetan"
+  },
+  {
+    "index": 240,
+    "soal": "Kabupaten di Lampung yang merupakan penghasil cokelat atau kakao adalah...",
+    "jawaban": "Pesawaran"
+  },
+  {
+    "index": 241,
+    "soal": "Kabupaten di Aceh yang terletak di semenanjung utara dan terkenal dengan pelabuhan Krueng Geukueh adalah...",
+    "jawaban": "Aceh Utara"
+  },
+  {
+    "index": 242,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki keindahan Pulau Nias bagian utara adalah...",
+    "jawaban": "Nias Utara"
+  },
+  {
+    "index": 243,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan pulau kabaena adalah...",
+    "jawaban": "Bombana"
+  },
+  {
+    "index": 244,
+    "soal": "Kabupaten di Papua Pegunungan yang merupakan pemekaran dari Jayawijaya dan terkenal dengan kopi adalah...",
+    "jawaban": "Tolikara"
+  },
+  {
+    "index": 245,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kerajinan kuningan di Juwana adalah...",
+    "jawaban": "Pati"
+  },
+  {
+    "index": 246,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan pantai Pulau Datok adalah...",
+    "jawaban": "Kayong Utara"
+  },
+  {
+    "index": 247,
+    "soal": "Kabupaten di Maluku yang berada di Kepulauan Aru adalah...",
+    "jawaban": "Kepulauan Aru"
+  },
+  {
+    "index": 248,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki wilayah pesisir di semenanjung timur adalah...",
+    "jawaban": "Banggai Laut"
+  },
+  {
+    "index": 249,
+    "soal": "Kabupaten di Sumatera Selatan yang memiliki wilayah perairan pasang surut adalah...",
+    "jawaban": "Ogan Ilir"
+  },
+  {
+    "index": 250,
+    "soal": "Kabupaten di Jawa Barat yang merupakan pusat industri otomotif dan manufaktur terbesar adalah...",
+    "jawaban": "Bekasi"
+  },
+  {
+    "index": 251,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki bandara internasional APT Pranoto (wilayah sekitar) adalah...",
+    "jawaban": "Kutai Kartanegara"
+  },
+  {
+    "index": 252,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan wisata permandian air panas Lejja adalah...",
+    "jawaban": "Soppeng"
+  },
+  {
+    "index": 253,
+    "soal": "Kabupaten di Bali yang terkenal dengan desa wisata Penglipuran adalah...",
+    "jawaban": "Bangli"
+  },
+  {
+    "index": 254,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan produksi bawang putih di lereng Gunung Ijen adalah...",
+    "jawaban": "Bondowoso"
+  },
+  {
+    "index": 255,
+    "soal": "Kabupaten di Lampung yang terkenal dengan wilayah pesisir Barat dan spot selancar Krui adalah...",
+    "jawaban": "Pesisir Barat"
+  },
+  {
+    "index": 256,
+    "soal": "Kabupaten di Aceh yang merupakan penghasil cengkih di kepulauan adalah...",
+    "jawaban": "Simeulue"
+  },
+  {
+    "index": 257,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki garis pantai di Selat Malaka dan terkenal dengan ikan parangnya adalah...",
+    "jawaban": "Batu Bara"
+  },
+  {
+    "index": 258,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan produksi kelapa dan kerajinan tangan adalah...",
+    "jawaban": "Minahasa Selatan"
+  },
+  {
+    "index": 259,
+    "soal": "Kabupaten di NTT yang memiliki wilayah di Pulau Flores bagian timur adalah...",
+    "jawaban": "Sikka"
+  },
+  {
+    "index": 260,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan julukan 'Kota Perwira' adalah...",
+    "jawaban": "Purbalingga"
+  },
+  {
+    "index": 261,
+    "soal": "Kabupaten di Kalimantan Tengah yang memiliki wilayah taman nasional sebangau adalah...",
+    "jawaban": "Pulang Pisau"
+  },
+  {
+    "index": 262,
+    "soal": "Kabupaten di Riau yang terkenal dengan tambang minyak di daerah Duri adalah...",
+    "jawaban": "Bengkalis"
+  },
+  {
+    "index": 263,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan tambang nikel di Pomalaa adalah...",
+    "jawaban": "Kolaka"
+  },
+  {
+    "index": 264,
+    "soal": "Kabupaten di Jawa Timur yang merupakan penghasil tembakau Sruntul adalah...",
+    "jawaban": "Probolinggo"
+  },
+  {
+    "index": 265,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki danau kembar (Diatas dan Dibawah) adalah...",
+    "jawaban": "Solok"
+  },
+  {
+    "index": 266,
+    "soal": "Kabupaten di Gorontalo yang merupakan daerah pemekaran dan penghasil kelapa adalah...",
+    "jawaban": "Gorontalo Utara"
+  },
+  {
+    "index": 267,
+    "soal": "Kabupaten di Papua yang terkenal dengan keindahan Danau Sentani adalah...",
+    "jawaban": "Jayapura"
+  },
+  {
+    "index": 268,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan produksi susu murni dan objek wisata De'Ranch adalah...",
+    "jawaban": "Bandung Barat"
+  },
+  {
+    "index": 269,
+    "soal": "Kabupaten di Kalimantan Barat yang merupakan daerah perbukitan dan penghasil lada adalah...",
+    "jawaban": "Landak"
+  },
+  {
+    "index": 270,
+    "soal": "Kabupaten di Sulawesi Selatan yang terletak di ujung selatan dan memiliki pantai Bira adalah...",
+    "jawaban": "Bulukumba"
+  },
+  {
+    "index": 271,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner nasi liwet asli (wilayah sekitar) adalah...",
+    "jawaban": "Sukoharjo"
+  },
+  {
+    "index": 272,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan pusat industri ekspor di daerah Kuala Tanjung adalah...",
+    "jawaban": "Batu Bara"
+  },
+  {
+    "index": 273,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki potensi wisata bahari di Sangalaki adalah...",
+    "jawaban": "Berau"
+  },
+  {
+    "index": 274,
+    "soal": "Kabupaten di Sulawesi Utara yang berada di daratan utama dan terkenal dengan danau Tondano adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 275,
+    "soal": "Kabupaten di NTT yang memiliki kampung adat Bena di pegunungan adalah...",
+    "jawaban": "Ngada"
+  },
+  {
+    "index": 276,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan produsen marmer kualitas ekspor di Campurdarat adalah...",
+    "jawaban": "Tulungagung"
+  },
+  {
+    "index": 277,
+    "soal": "Kabupaten di Lampung yang terkenal dengan produksi lada hitam adalah...",
+    "jawaban": "Lampung Utara"
+  },
+  {
+    "index": 278,
+    "soal": "Kabupaten di Aceh yang terkenal dengan kekayaan tambang emas dan kopi Gayo adalah...",
+    "jawaban": "Bener Meriah"
+  },
+  {
+    "index": 279,
+    "soal": "Kabupaten di Sumatera Selatan yang memiliki wilayah hutan suaka margasatwa Dangku adalah...",
+    "jawaban": "Musi Banyuasin"
+  },
+  {
+    "index": 280,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil intan terbesar di kecamatan Cempaka adalah...",
+    "jawaban": "Banjar"
+  },
+  {
+    "index": 281,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan museum kereta api Ambarawa adalah...",
+    "jawaban": "Semarang"
+  },
+  {
+    "index": 282,
+    "soal": "Kabupaten di Sulawesi Tengah yang terkenal dengan perkebunan kelapa sawit di daerah Mamuju (dulu) adalah...",
+    "jawaban": "Pasangkayu"
+  },
+  {
+    "index": 283,
+    "soal": "Kabupaten di Bali yang memiliki pelabuhan Gilimanuk adalah...",
+    "jawaban": "Jembrana"
+  },
+  {
+    "index": 284,
+    "soal": "Kabupaten di Papua Selatan yang terkenal dengan kerajinan ukiran kayu yang khas adalah...",
+    "jawaban": "Asmat"
+  },
+  {
+    "index": 285,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan pusat pengrajin senapan angin di Cipacing adalah...",
+    "jawaban": "Sumedang"
+  },
+  {
+    "index": 286,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki wilayah kepulauan Mentawai adalah...",
+    "jawaban": "Kepulauan Mentawai"
+  },
+  {
+    "index": 287,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan penghasil rotan mentah terbesar adalah...",
+    "jawaban": "Katingan"
+  },
+  {
+    "index": 288,
+    "soal": "Kabupaten di Sulawesi Tenggara yang merupakan pusat budaya kesultanan Buton adalah...",
+    "jawaban": "Buton"
+  },
+  {
+    "index": 289,
+    "soal": "Kabupaten di NTB yang berada di Pulau Lombok bagian tengah adalah...",
+    "jawaban": "Lombok Tengah"
+  },
+  {
+    "index": 290,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan air terjun Sedudo adalah...",
+    "jawaban": "Nganjuk"
+  },
+  {
+    "index": 291,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan daerah penghasil salak Sibakua adalah...",
+    "jawaban": "Tapanuli Selatan"
+  },
+  {
+    "index": 292,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan keindahan taman laut Bunaken (wilayah administrasi) adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 293,
+    "soal": "Kabupaten di Maluku yang merupakan penghasil mutiara laut terbaik adalah...",
+    "jawaban": "Kepulauan Aru"
+  },
+  {
+    "index": 294,
+    "soal": "Kabupaten di Papua Pegunungan yang terkenal dengan jalur pendakian Puncak Jaya adalah...",
+    "jawaban": "Puncak Jaya"
+  },
+  {
+    "index": 295,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kerajinan kain tenun ikat Troso adalah...",
+    "jawaban": "Jepara"
+  },
+  {
+    "index": 296,
+    "soal": "Kabupaten di Kalimantan Barat yang memiliki wilayah taman nasional gunung palung adalah...",
+    "jawaban": "Kayong Utara"
+  },
+  {
+    "index": 297,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan situs sejarah peninggalan kerajaan Luwu adalah...",
+    "jawaban": "Luwu Timur"
+  },
+  {
+    "index": 298,
+    "soal": "Kabupaten di Jambi yang memiliki wilayah pelabuhan ekspor di Kuala Tungkal adalah...",
+    "jawaban": "Tanjung Jabung Barat"
+  },
+  {
+    "index": 299,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan kerajinan tas bambu di daerah Ringinanom adalah...",
+    "jawaban": "Magetan"
+  },
+  {
+    "index": 300,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki keindahan Pulau Nias bagian barat adalah...",
+    "jawaban": "Nias Barat"
+  },
+  {
+    "index": 301,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan Danau Toba bagian selatan adalah...",
+    "jawaban": "Toba"
+  },
+  {
+    "index": 302,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kuliner sate bebek di Tambak adalah...",
+    "jawaban": "Banyumas"
+  },
+  {
+    "index": 303,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan penghasil markisa adalah...",
+    "jawaban": "Gowa"
+  },
+  {
+    "index": 304,
+    "soal": "Kabupaten di Kalimantan Barat yang terkenal dengan potensi bauksitnya adalah...",
+    "jawaban": "Sanggau"
+  },
+  {
+    "index": 305,
+    "soal": "Kabupaten di Aceh yang berada di wilayah pegunungan dan terkenal dengan lumbung padinya adalah...",
+    "jawaban": "Pidie"
+  },
+  {
+    "index": 306,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan pantai Pulau Merah adalah...",
+    "jawaban": "Banyuwangi"
+  },
+  {
+    "index": 307,
+    "soal": "Kabupaten di Papua Barat Daya yang merupakan pusat industri minyak dan gas adalah...",
+    "jawaban": "Sorong"
+  },
+  {
+    "index": 308,
+    "soal": "Kabupaten di Lampung yang terkenal dengan wilayah pesisir di teluk Semangka adalah...",
+    "jawaban": "Tanggamus"
+  },
+  {
+    "index": 309,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan budaya masyarakat bajo adalah...",
+    "jawaban": "Wakatobi"
+  },
+  {
+    "index": 310,
+    "soal": "Kabupaten di Maluku Utara yang merupakan pulau penghasil emas adalah...",
+    "jawaban": "Halmahera Selatan"
+  },
+  {
+    "index": 311,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan daerah pesisir pantai cermin adalah...",
+    "jawaban": "Serdang Bedagai"
+  },
+  {
+    "index": 312,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan objek wisata Gua Jatijajar adalah...",
+    "jawaban": "Kebumen"
+  },
+  {
+    "index": 313,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil karet di Barabai adalah...",
+    "jawaban": "Hulu Sungai Tengah"
+  },
+  {
+    "index": 314,
+    "soal": "Kabupaten di NTT yang berada di Pulau Sumba bagian tengah adalah...",
+    "jawaban": "Sumba Tengah"
+  },
+  {
+    "index": 315,
+    "soal": "Kabupaten di Jambi yang memiliki wilayah taman nasional berbak adalah...",
+    "jawaban": "Tanjung Jabung Timur"
+  },
+  {
+    "index": 316,
+    "soal": "Kabupaten di Jawa Barat yang memiliki waduk Cirata adalah...",
+    "jawaban": "Cianjur"
+  },
+  {
+    "index": 317,
+    "soal": "Kabupaten di Sulawesi Tengah yang terkenal dengan tambang nikel di daerah Bahodopi adalah...",
+    "jawaban": "Morowali"
+  },
+  {
+    "index": 318,
+    "soal": "Kabupaten di Sumatera Selatan yang merupakan penghasil nenas terbesar di Sumsel adalah...",
+    "jawaban": "Ogan Ilir"
+  },
+  {
+    "index": 319,
+    "soal": "Kabupaten di Kalimantan Timur yang berada di perbatasan negara (Long Apari) adalah...",
+    "jawaban": "Mahakam Ulu"
+  },
+  {
+    "index": 320,
+    "soal": "Kabupaten di Sulawesi Selatan yang dijuluki 'Bumi Massenrempulu' adalah...",
+    "jawaban": "Enrekang"
+  },
+  {
+    "index": 321,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan kerajinan kuningan di Kecer adalah...",
+    "jawaban": "Bondowoso"
+  },
+  {
+    "index": 322,
+    "soal": "Kabupaten di Bali yang memiliki pura Lempuyang (Gate of Heaven) adalah...",
+    "jawaban": "Karangasem"
+  },
+  {
+    "index": 323,
+    "soal": "Kabupaten di Kalimantan Barat yang memiliki garis pantai terpanjang di utara adalah...",
+    "jawaban": "Sambas"
+  },
+  {
+    "index": 324,
+    "soal": "Kabupaten di Riau yang terkenal dengan pusat industri kertas di Pangkalan Kerinci adalah...",
+    "jawaban": "Pelalawan"
+  },
+  {
+    "index": 325,
+    "soal": "Kabupaten di Nusa Tenggara Barat yang memiliki sirkuit internasional Mandalika adalah...",
+    "jawaban": "Lombok Tengah"
+  },
+  {
+    "index": 326,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan produksi krupuk rambak di Pegandon adalah...",
+    "jawaban": "Kendal"
+  },
+  {
+    "index": 327,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan situs sejarah benteng Huraba adalah...",
+    "jawaban": "Tapanuli Selatan"
+  },
+  {
+    "index": 328,
+    "soal": "Kabupaten di Sulawesi Utara yang merupakan wilayah paling timur di daratan Minahasa adalah...",
+    "jawaban": "Minahasa Tenggara"
+  },
+  {
+    "index": 329,
+    "soal": "Kabupaten di Papua Pegunungan yang merupakan wilayah Yalimo adalah...",
+    "jawaban": "Yalimo"
+  },
+  {
+    "index": 330,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan objek wisata kawah putih adalah...",
+    "jawaban": "Bandung"
+  },
+  {
+    "index": 331,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan penghasil nikel dan emas di Puruk Cahu adalah...",
+    "jawaban": "Murung Raya"
+  },
+  {
+    "index": 332,
+    "soal": "Kabupaten di Bengkulu yang merupakan pintu masuk dari arah Sumatera Barat adalah...",
+    "jawaban": "Mukomuko"
+  },
+  {
+    "index": 333,
+    "soal": "Kabupaten di Sulawesi Barat yang terkenal dengan budidaya udang adalah...",
+    "jawaban": "Pasangkayu"
+  },
+  {
+    "index": 334,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki objek wisata Lobang Jepang (wilayah sekitar) adalah...",
+    "jawaban": "Agam"
+  },
+  {
+    "index": 335,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan industri logistik karena berada di jalur pantura timur adalah...",
+    "jawaban": "Rembang"
+  },
+  {
+    "index": 336,
+    "soal": "Kabupaten di NTT yang berada di Pulau Alor adalah...",
+    "jawaban": "Alor"
+  },
+  {
+    "index": 337,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan penghasil batubara di Rantau adalah...",
+    "jawaban": "Tapin"
+  },
+  {
+    "index": 338,
+    "soal": "Kabupaten di Sulawesi Selatan yang merupakan penghasil udang sitto di pesisir adalah...",
+    "jawaban": "Pinrang"
+  },
+  {
+    "index": 339,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan produksi kedelai untuk tempe adalah...",
+    "jawaban": "Lamongan"
+  },
+  {
+    "index": 340,
+    "soal": "Kabupaten di Lampung yang merupakan kabupaten paling ujung utara adalah...",
+    "jawaban": "Mesuji"
+  },
+  {
+    "index": 341,
+    "soal": "Kabupaten di Aceh yang terkenal dengan wisata bahari pulau banyak adalah...",
+    "jawaban": "Aceh Singkil"
+  },
+  {
+    "index": 342,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki wilayah pantai di Labuhanbatu Selatan adalah...",
+    "jawaban": "Labuhanbatu Selatan"
+  },
+  {
+    "index": 343,
+    "soal": "Kabupaten di Sulawesi Tenggara yang terkenal dengan kerajinan kain tenun Masalili adalah...",
+    "jawaban": "Muna"
+  },
+  {
+    "index": 344,
+    "soal": "Kabupaten di Papua yang merupakan wilayah Kepulauan Yapen adalah...",
+    "jawaban": "Kepulauan Yapen"
+  },
+  {
+    "index": 345,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan hasil bumi sayur-mayur di lereng Merbabu adalah...",
+    "jawaban": "Boyolali"
+  },
+  {
+    "index": 346,
+    "soal": "Kabupaten di Kalimantan Barat yang merupakan wilayah otonom di selatan Kalimantan Barat adalah...",
+    "jawaban": "Ketapang"
+  },
+  {
+    "index": 347,
+    "soal": "Kabupaten di Maluku yang berada di wilayah Maluku Barat Daya adalah...",
+    "jawaban": "Maluku Barat Daya"
+  },
+  {
+    "index": 348,
+    "soal": "Kabupaten di Sulawesi Tengah yang memiliki wilayah pesisir di teluk Tolo adalah...",
+    "jawaban": "Morowali Utara"
+  },
+  {
+    "index": 349,
+    "soal": "Kabupaten di Sumatera Selatan yang merupakan wilayah otonom baru di sekitar Muara Enim adalah...",
+    "jawaban": "Penukal Abab Lematang Ilir"
+  },
+  {
+    "index": 350,
+    "soal": "Kabupaten di Jawa Barat yang memiliki bandara internasional Kertajati adalah...",
+    "jawaban": "Majalengka"
+  },
+  {
+    "index": 351,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki keindahan danau Jempang adalah...",
+    "jawaban": "Kutai Barat"
+  },
+  {
+    "index": 352,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan tradisi berburu di padang sabana adalah...",
+    "jawaban": "Barru"
+  },
+  {
+    "index": 353,
+    "soal": "Kabupaten di Bali yang memiliki kawasan wisata Nusa Penida adalah...",
+    "jawaban": "Klungkung"
+  },
+  {
+    "index": 354,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan pantai Klayar dan gua Gong adalah...",
+    "jawaban": "Pacitan"
+  },
+  {
+    "index": 355,
+    "soal": "Kabupaten di Lampung yang terkenal dengan wilayah perkebunan tebu terbesar (Sugar Group) adalah...",
+    "jawaban": "Lampung Tengah"
+  },
+  {
+    "index": 356,
+    "soal": "Kabupaten di Aceh yang terkenal dengan masjid tua Indrapuri adalah...",
+    "jawaban": "Aceh Besar"
+  },
+  {
+    "index": 357,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki potensi tambang emas di Martabe adalah...",
+    "jawaban": "Tapanuli Selatan"
+  },
+  {
+    "index": 358,
+    "soal": "Kabupaten di Sulawesi Utara yang berada di wilayah kepulauan Sangihe adalah...",
+    "jawaban": "Kepulauan Sangihe"
+  },
+  {
+    "index": 359,
+    "soal": "Kabupaten di NTT yang memiliki wilayah di pulau Flores bagian barat adalah...",
+    "jawaban": "Manggarai Barat"
+  },
+  {
+    "index": 360,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan objek wisata waduk Gajah Mungkur adalah...",
+    "jawaban": "Wonogiri"
+  },
+  {
+    "index": 361,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan wilayah pesisir di Teluk Kumai adalah...",
+    "jawaban": "Kotawaringin Barat"
+  },
+  {
+    "index": 362,
+    "soal": "Kabupaten di Riau yang memiliki potensi perkebunan kelapa terbesar di Indragiri Hilir adalah...",
+    "jawaban": "Indragiri Hilir"
+  },
+  {
+    "index": 363,
+    "soal": "Kabupaten di Sulawesi Tenggara yang merupakan wilayah kepulauan di Buton Utara adalah...",
+    "jawaban": "Buton Utara"
+  },
+  {
+    "index": 364,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan situs Trowulan (ibu kota Majapahit) adalah...",
+    "jawaban": "Mojokerto"
+  },
+  {
+    "index": 365,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki wilayah lembah Anai adalah...",
+    "jawaban": "Tanah Datar"
+  },
+  {
+    "index": 366,
+    "soal": "Kabupaten di Gorontalo yang memiliki kawasan hutan Nani Wartabone adalah...",
+    "jawaban": "Bone Bolango"
+  },
+  {
+    "index": 367,
+    "soal": "Kabupaten di Papua yang terkenal dengan wilayah Biak Numfor adalah...",
+    "jawaban": "Biak Numfor"
+  },
+  {
+    "index": 368,
+    "soal": "Kabupaten di Jawa Barat yang memiliki sentra industri rotan di Weru adalah...",
+    "jawaban": "Cirebon"
+  },
+  {
+    "index": 369,
+    "soal": "Kabupaten di Kalimantan Barat yang merupakan wilayah pegunungan di utara adalah...",
+    "jawaban": "Melawi"
+  },
+  {
+    "index": 370,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan produksi jagung di Takalar adalah...",
+    "jawaban": "Takalar"
+  },
+  {
+    "index": 371,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan produsen teh kemasan terbesar adalah...",
+    "jawaban": "Slawi (Tegal)"
+  },
+  {
+    "index": 372,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan daerah penghasil karet di kisaran adalah...",
+    "jawaban": "Asahan"
+  },
+  {
+    "index": 373,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki potensi tambang batubara di Sangatta adalah...",
+    "jawaban": "Kutai Timur"
+  },
+  {
+    "index": 374,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan produksi kacang garing di Kawangkoan adalah...",
+    "jawaban": "Minahasa"
+  },
+  {
+    "index": 375,
+    "soal": "Kabupaten di NTT yang memiliki wilayah di pulau Flores bagian tengah adalah...",
+    "jawaban": "Ende"
+  },
+  {
+    "index": 376,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan pantai Bentar dan Gunung Argopuro adalah...",
+    "jawaban": "Probolinggo"
+  },
+  {
+    "index": 377,
+    "soal": "Kabupaten di Lampung yang merupakan wilayah pesisir di Labuhan Maringgai adalah...",
+    "jawaban": "Lampung Timur"
+  },
+  {
+    "index": 378,
+    "soal": "Kabupaten di Aceh yang terkenal dengan hasil hutan kayu dan kelapa sawit adalah...",
+    "jawaban": "Aceh Timur"
+  },
+  {
+    "index": 379,
+    "soal": "Kabupaten di Sumatera Selatan yang memiliki wilayah perbukitan di Empat Lawang adalah...",
+    "jawaban": "Empat Lawang"
+  },
+  {
+    "index": 380,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan wilayah pesisir di Kotabaru adalah...",
+    "jawaban": "Kotabaru"
+  },
+  {
+    "index": 381,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan objek wisata Baturraden adalah...",
+    "jawaban": "Banyumas"
+  },
+  {
+    "index": 382,
+    "soal": "Kabupaten di Sulawesi Tengah yang merupakan wilayah kepulauan di Banggai Kepulauan adalah...",
+    "jawaban": "Banggai Kepulauan"
+  },
+  {
+    "index": 383,
+    "soal": "Kabupaten di Bali yang terkenal dengan objek wisata pura Uluwatu adalah...",
+    "jawaban": "Badung"
+  },
+  {
+    "index": 384,
+    "soal": "Kabupaten di Papua yang merupakan wilayah pegunungan bintang adalah...",
+    "jawaban": "Pegunungan Bintang"
+  },
+  {
+    "index": 385,
+    "soal": "Kabupaten di Jawa Barat yang terkenal dengan kerajinan bordir di Kawalu adalah...",
+    "jawaban": "Tasikmalaya"
+  },
+  {
+    "index": 386,
+    "soal": "Kabupaten di Sumatera Barat yang memiliki wilayah pesisir dengan pulau-pulau kecil adalah...",
+    "jawaban": "Pesisir Selatan"
+  },
+  {
+    "index": 387,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan wilayah lumbung pangan nasional (Food Estate) adalah...",
+    "jawaban": "Kapuas"
+  },
+  {
+    "index": 388,
+    "soal": "Kabupaten di Sulawesi Tenggara yang merupakan wilayah daratan penghasil kelapa sawit adalah...",
+    "jawaban": "Konawe Selatan"
+  },
+  {
+    "index": 389,
+    "soal": "Kabupaten di NTB yang berada di Pulau Lombok bagian timur adalah...",
+    "jawaban": "Lombok Timur"
+  },
+  {
+    "index": 390,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan air terjun Madakaripura adalah...",
+    "jawaban": "Probolinggo"
+  },
+  {
+    "index": 391,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan daerah pesisir pantai barat (Sibolga sekitarnya) adalah...",
+    "jawaban": "Tapanuli Tengah"
+  },
+  {
+    "index": 392,
+    "soal": "Kabupaten di Sulawesi Utara yang terkenal dengan daerah penghasil cengkih di Minahasa Selatan adalah...",
+    "jawaban": "Minahasa Selatan"
+  },
+  {
+    "index": 393,
+    "soal": "Kabupaten di Maluku yang merupakan wilayah kepulauan di Maluku Tengah adalah...",
+    "jawaban": "Maluku Tengah"
+  },
+  {
+    "index": 394,
+    "soal": "Kabupaten di Papua yang merupakan wilayah Mamberamo Raya adalah...",
+    "jawaban": "Mamberamo Raya"
+  },
+  {
+    "index": 395,
+    "soal": "Kabupaten di Jawa Tengah yang terkenal dengan kerajinan batik bakaran di Juwana adalah...",
+    "jawaban": "Pati"
+  },
+  {
+    "index": 396,
+    "soal": "Kabupaten di Kalimantan Barat yang memiliki wilayah perbatasan di Jagoi Babang adalah...",
+    "jawaban": "Bengkayang"
+  },
+  {
+    "index": 397,
+    "soal": "Kabupaten di Sulawesi Selatan yang terkenal dengan situs megalitikum di lembah Bada adalah...",
+    "jawaban": "Poso (Sulawesi Tengah - revisi konteks)"
+  },
+  {
+    "index": 398,
+    "soal": "Kabupaten di Jambi yang memiliki wilayah perbukitan di Merangin adalah...",
+    "jawaban": "Merangin"
+  },
+  {
+    "index": 399,
+    "soal": "Kabupaten di Jawa Timur yang terkenal dengan kerajinan anyaman pandan di daerah Dongko adalah...",
+    "jawaban": "Trenggalek"
+  },
+  {
+    "index": 400,
+    "soal": "Kabupaten di Sumatera Utara yang memiliki keindahan Pulau Nias bagian pusat adalah...",
+    "jawaban": "Nias"
+  },
+  {
+    "index": 401,
+    "soal": "Kabupaten di Banten yang terkenal dengan kawasan industri petrokimia di Anyer adalah...",
+    "jawaban": "Serang"
+  },
+  {
+    "index": 402,
+    "soal": "Kabupaten di Bangka Belitung yang berada di bagian barat pulau Bangka adalah...",
+    "jawaban": "Bangka Barat"
+  },
+  {
+    "index": 403,
+    "soal": "Kabupaten di Kalimantan Tengah yang merupakan wilayah baru pemekaran dengan potensi tambang adalah...",
+    "jawaban": "Gunung Mas"
+  },
+  {
+    "index": 404,
+    "soal": "Kabupaten di Sulawesi Barat yang merupakan wilayah pegunungan di Mamasa adalah...",
+    "jawaban": "Mamasa"
+  },
+  {
+    "index": 405,
+    "soal": "Kabupaten di Sumatera Selatan yang merupakan wilayah pemekaran dari Musi Rawas adalah...",
+    "jawaban": "Musi Rawas Utara"
+  },
+  {
+    "index": 406,
+    "soal": "Kabupaten di Kalimantan Timur yang memiliki wilayah di teluk Balikpapan adalah...",
+    "jawaban": "Penajam Paser Utara"
+  },
+  {
+    "index": 407,
+    "soal": "Kabupaten di Sulawesi Utara yang merupakan wilayah baru di Bolaang Mongondow Utara adalah...",
+    "jawaban": "Bolaang Mongondow Utara"
+  },
+  {
+    "index": 408,
+    "soal": "Kabupaten di NTT yang merupakan wilayah daratan di Timor Tengah Utara adalah...",
+    "jawaban": "Timor Tengah Utara"
+  },
+  {
+    "index": 409,
+    "soal": "Kabupaten di Jawa Barat yang merupakan kabupaten paling timur di Jabar adalah...",
+    "jawaban": "Ciamis"
+  },
+  {
+    "index": 410,
+    "soal": "Kabupaten di Sumatera Utara yang terkenal dengan daerah penghasil kopi Mandheling adalah...",
+    "jawaban": "Mandailing Natal"
+  },
+  {
+    "index": 411,
+    "soal": "Kabupaten di Kalimantan Selatan yang merupakan wilayah di hulu sungai barito adalah...",
+    "jawaban": "Hulu Sungai Utara"
+  },
+  {
+    "index": 412,
+    "soal": "Kabupaten di Sulawesi Tenggara yang merupakan wilayah baru di Kolaka Timur adalah...",
+    "jawaban": "Kolaka Timur"
+  },
+  {
+    "index": 413,
+    "soal": "Kabupaten di Papua Tengah yang merupakan wilayah Puncak adalah...",
+    "jawaban": "Puncak"
+  },
+  {
+    "index": 414,
+    "soal": "Kabupaten di Maluku Utara yang berada di pulau Morotai adalah...",
+    "jawaban": "Pulau Morotai"
+  },
+  {
+    "index": 415,
+    "soal": "Kabupaten di Kalimantan Utara yang merupakan wilayah termuda di Kaltara adalah...",
+    "jawaban": "Tana Tidung"
+  },
+  {
+    "index": 416,
+    "soal": "Kabupaten di Papua Barat yang merupakan wilayah pesisir di Kaimana adalah...",
+    "jawaban": "Kaimana"
+  }
+]
