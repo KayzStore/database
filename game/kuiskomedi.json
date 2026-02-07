@@ -1,82 +1,3007 @@
 [
- {
- index: 0,
- soal: "Penyanyi luar negeri yang suka naik sepeda?",
- jawaban: "Selena Gowes"
- },
- {
- index: 1,
- soal: "Penyanyi luar negeri yang susah menelan?",
- jawaban: "Ed sered"
- }, 
- {
- index: 2,
- soal: "Kenapa Superman poni keritingnya cuma satu?",
- jawaban: "Kalau banyak namanya Supermie"
- },
- {
- index: 3,
- soal: "Kenapa dalang membawa keris ketika pertunjukan wayang?",
- jawaban: "Karena kalau bawa kompor, istrinya nggak bisa masak"
- },
- {
- index: 4,
- soal: "Piring apa yang rame?",
- jawaban: "Piringatan 17 agustus"
- },
- {
- index: 5,
- soal: "Artis apa yang bisa angkat kuda sama benteng?",
- jawaban: "Deni catur"
- },
- {
- index: 6,
- soal: "Bapak budi punya 3 anak, anak pertama bernama Eka,anak kedua bernama Tri,pertanyaannya siapa nama anak ketiga nya?",
- jawaban: "Budi"
- },
- {
- index: 7,
- soal: "Aku ada di tangan,kaki,mata,dan telinga tapi tidak ada di hidung, Apakah aku?",
- jawaban: "Huruf a"
- },
- {
- index: 8,
- soal: "Tiang,tiang apa yang nyegerin?",
- jawaban: "Tiang tiang minum es"
- },
- {
- index: 9,
- soal: "Artis apa yang suka berpikir?",
- jawaban: "Ayu thinking"
- },
- {
- index: 10,
- soal: "Aku ada di depan ibu,di belakang televisi,dan di tengah adik,ketika ayah datang aku tidak ada, Apakah aku?",
- jawaban: "Huruf i"
- },
- {
- index: 11,
- soal: "Hewan apa yang punya banyak uang",
- jawaban: "Ber uang"
- },
- {
- index: 12,
- soal: "Nama penyakit paling populer di China?",
- jawaban: "Kung Flu"
- },
- {
- index: 13,
- soal: "Kenapa ayam kalau berkokok matanya merem alias tutup mata?",
- jawaban: "Karena sudah hafal liriknya"
- },
- {
- index: 14,
- soal: "Hewan apa yang nggak pernah salah?",
- jawaban: "Kucing ga wrong"
- },
- {
- index: 15,
- soal: "Buah apa yang paling durhaka?",
- jawaban: "Melon kundang"
- }
+  {
+    "index": 0,
+    "soal": "Penyanyi luar negeri yang suka naik sepeda?",
+    "jawaban": "Selena Gowes"
+  },
+  {
+    "index": 1,
+    "soal": "Penyanyi luar negeri yang susah menelan?",
+    "jawaban": "Ed Sered"
+  },
+  {
+    "index": 2,
+    "soal": "Kenapa Superman poni keritingnya cuma satu?",
+    "jawaban": "Kalau banyak namanya Supermie"
+  },
+  {
+    "index": 3,
+    "soal": "Kenapa dalang membawa keris ketika pertunjukan wayang?",
+    "jawaban": "Karena kalau bawa kompor, istrinya nggak bisa masak"
+  },
+  {
+    "index": 4,
+    "soal": "Piring apa yang rame?",
+    "jawaban": "Piringatan 17 Agustus"
+  },
+  {
+    "index": 5,
+    "soal": "Artis apa yang bisa angkat kuda sama benteng?",
+    "jawaban": "Deni Catur"
+  },
+  {
+    "index": 6,
+    "soal": "Bapak Budi punya 3 anak, anak pertama bernama Eka, anak kedua bernama Tri, pertanyaannya siapa nama anak ketiga nya?",
+    "jawaban": "Budi"
+  },
+  {
+    "index": 7,
+    "soal": "Aku ada di tangan, kaki, mata, dan telinga tapi tidak ada di hidung, Apakah aku?",
+    "jawaban": "Huruf A"
+  },
+  {
+    "index": 8,
+    "soal": "Tiang, tiang apa yang nyegerin?",
+    "jawaban": "Tiang tiang minum es"
+  },
+  {
+    "index": 9,
+    "soal": "Artis apa yang suka berpikir?",
+    "jawaban": "Ayu Thinking"
+  },
+  {
+    "index": 10,
+    "soal": "Aku ada di depan ibu, di belakang televisi, dan di tengah adik, ketika ayah datang aku tidak ada, Apakah aku?",
+    "jawaban": "Huruf I"
+  },
+  {
+    "index": 11,
+    "soal": "Hewan apa yang punya banyak uang?",
+    "jawaban": "Ber-uang"
+  },
+  {
+    "index": 12,
+    "soal": "Nama penyakit paling populer di China?",
+    "jawaban": "Kung Flu"
+  },
+  {
+    "index": 13,
+    "soal": "Kenapa ayam kalau berkokok matanya merem alias tutup mata?",
+    "jawaban": "Karena sudah hafal liriknya"
+  },
+  {
+    "index": 14,
+    "soal": "Hewan apa yang nggak pernah salah?",
+    "jawaban": "Kucing ga wrong"
+  },
+  {
+    "index": 15,
+    "soal": "Buah apa yang paling durhaka?",
+    "jawaban": "Melon Kundang"
+  },
+  {
+    "index": 16,
+    "soal": "Telor apa yang sangar?",
+    "jawaban": "Telor asin, soalnya ada tatonya"
+  },
+  {
+    "index": 17,
+    "soal": "Pak polisi yang paling jago masak?",
+    "jawaban": "Brigadir Jendral"
+  },
+  {
+    "index": 18,
+    "soal": "Ayam apa yang besar?",
+    "jawaban": "Ayam-azing"
+  },
+  {
+    "index": 19,
+    "soal": "Ikan apa yang nggak bisa berenang?",
+    "jawaban": "Ikan goring"
+  },
+  {
+    "index": 20,
+    "soal": "Bebek apa yang jalannya muter-muter?",
+    "jawaban": "Bebek arus"
+  },
+  {
+    "index": 21,
+    "soal": "Kenapa tembok rumah dicat?",
+    "jawaban": "Karena kalau disikat sakit"
+  },
+  {
+    "index": 22,
+    "soal": "Monyet apa yang rambutnya panjang?",
+    "jawaban": "Monyet Rapunzel"
+  },
+  {
+    "index": 23,
+    "soal": "Pohon apa yang paling sering dipegang?",
+    "jawaban": "Pohon pintu"
+  },
+  {
+    "index": 24,
+    "soal": "Sendal apa yang enak?",
+    "jawaban": "Sendal tape"
+  },
+  {
+    "index": 25,
+    "soal": "Tahu nggak bedanya sekretaris sama selingkuhan?",
+    "jawaban": "Kalau sekretaris bilang 'Selamat pagi pak', kalau selingkuhan 'Pagi-pagi udah selamat pak'"
+  },
+  {
+    "index": 26,
+    "soal": "Gajah apa yang pendek?",
+    "jawaban": "Ga-jah-uh"
+  },
+  {
+    "index": 27,
+    "soal": "Kentang apa yang paling mengerikan?",
+    "jawaban": "Kentang jiwa"
+  },
+  {
+    "index": 28,
+    "soal": "Bis apa yang ada di laut?",
+    "jawaban": "Bis-a berenang"
+  },
+  {
+    "index": 29,
+    "soal": "Apa perbedaan aksi dengan demo?",
+    "jawaban": "Kalau aksi rodanya empat, kalau demo rodanya tiga"
+  },
+  {
+    "index": 30,
+    "soal": "Ban apa yang bisa dimakan?",
+    "jawaban": "Ban-ana"
+  },
+  {
+    "index": 31,
+    "soal": "Sate apa yang bikin takut?",
+    "jawaban": "Sate-an"
+  },
+  {
+    "index": 32,
+    "soal": "Ular apa yang paling pendek?",
+    "jawaban": "Ular bulu mata"
+  },
+  {
+    "index": 33,
+    "soal": "Sepatu apa yang paling enak?",
+    "jawaban": "Sepatu jang"
+  },
+  {
+    "index": 34,
+    "soal": "Nasi apa yang berbahaya?",
+    "jawaban": "Nasi onalisme"
+  },
+  {
+    "index": 35,
+    "soal": "Apa bahasa Indiannya bumbu dapur?",
+    "jawaban": "Tumbar mireek"
+  },
+  {
+    "index": 36,
+    "soal": "Mata apa yang ngeri?",
+    "jawaban": "Mata elang lapar"
+  },
+  {
+    "index": 37,
+    "soal": "Roti apa yang paling bahaya?",
+    "jawaban": "Roti-ga"
+  },
+  {
+    "index": 38,
+    "soal": "Tank apa yang moncongnya ke bawah?",
+    "jawaban": "Tankurep"
+  },
+  {
+    "index": 39,
+    "soal": "Kalau dipukul yang mukul malah kesakitan, apakah itu?",
+    "jawaban": "Nyamuk yang lagi hinggap di hidung"
+  },
+  {
+    "index": 40,
+    "soal": "Kebo apa yang bikin kita lelah?",
+    "jawaban": "Kebo-goran"
+  },
+  {
+    "index": 41,
+    "soal": "Siapa wanita Indonesia yang paling kuat?",
+    "jawaban": "Nyonya Meneer, berdiri sejak tahun 1918"
+  },
+  {
+    "index": 42,
+    "soal": "Apa bedanya kucing sama kopi?",
+    "jawaban": "Kalau kucing kakinya empat, kalau kopi kakinya belum mandi"
+  },
+  {
+    "index": 43,
+    "soal": "Hewan apa yang namanya dua huruf?",
+    "jawaban": "U dan G"
+  },
+  {
+    "index": 44,
+    "soal": "Gimana caranya bilang 'I love you' tanpa bilang 'I love you'?",
+    "jawaban": "Bilang aja 'Aku Windows kamu'"
+  },
+  {
+    "index": 45,
+    "soal": "Sayur apa yang dingin?",
+    "jawaban": "Sayur-bringin"
+  },
+  {
+    "index": 46,
+    "soal": "Lemari apa yang bisa masuk kantong?",
+    "jawaban": "Lemari-ah rupiah"
+  },
+  {
+    "index": 47,
+    "soal": "Kenapa anak kodok suka loncat-loncat?",
+    "jawaban": "Karena senang ibunya belum jadi pepes"
+  },
+  {
+    "index": 48,
+    "soal": "Uang apa yang tidak bisa dibelanjakan?",
+    "jawaban": "Uang-sa"
+  },
+  {
+    "index": 49,
+    "soal": "Mengapa batu kalau dimasukkan ke air tenggelam?",
+    "jawaban": "Karena batu tidak bisa berenang"
+  },
+  {
+    "index": 50,
+    "soal": "Jam apa yang bisa dimakan?",
+    "jawaban": "Jam-bu"
+  },
+  {
+    "index": 51,
+    "soal": "Pintu apa yang didorong sama sepuluh orang nggak bakal terbuka?",
+    "jawaban": "Pintu yang ada tulisannya 'TARIK'"
+  },
+  {
+    "index": 52,
+    "soal": "Olahraga apa yang paling berat?",
+    "jawaban": "Olah raga gajah"
+  },
+  {
+    "index": 53,
+    "soal": "Binatang apa yang paling panjang?",
+    "jawaban": "Ular ngantre beras"
+  },
+  {
+    "index": 54,
+    "soal": "Kenapa baju superman ada huruf S nya?",
+    "jawaban": "Karena kalau M namanya Mperman"
+  },
+  {
+    "index": 55,
+    "soal": "Apa persamaan uang sama rahasia?",
+    "jawaban": "Sama-sama susah dipegang"
+  },
+  {
+    "index": 56,
+    "soal": "Buah apa yang nggak pernah sendirian?",
+    "jawaban": "Buah duren (berdua terus)"
+  },
+  {
+    "index": 57,
+    "soal": "Kayu apa yang bisa terbang?",
+    "jawaban": "Kayu bilang 'terbang yuk!'"
+  },
+  {
+    "index": 58,
+    "soal": "Sampe kapan kamu tunggu aku?",
+    "jawaban": "Sampe-an"
+  },
+  {
+    "index": 59,
+    "soal": "Buah apa yang bikin orang nangis?",
+    "jawaban": "Buah peci sama pacar orang"
+  },
+  {
+    "index": 60,
+    "soal": "Kenapa di keyboard komputer ada tulisan 'ENTER'?",
+    "jawaban": "Karena kalau 'ENTAR' programnya nggak jalan-jalan"
+  },
+  {
+    "index": 61,
+    "soal": "Polisi apa yang paling kecil?",
+    "jawaban": "Polis-ilindir"
+  },
+  {
+    "index": 62,
+    "soal": "Apa bedanya jatuh dari lantai 1 sama jatuh dari lantai 10?",
+    "jawaban": "Kalau dari lantai 1: GUBRAK! Aaa... Kalau dari lantai 10: Aaa... GUBRAK!"
+  },
+  {
+    "index": 63,
+    "soal": "Apa bahasa Jepangnya nangkring di atas genteng?",
+    "jawaban": "Atap-atap takada isi"
+  },
+  {
+    "index": 64,
+    "soal": "Supaya enak tidur kita harus ke mana?",
+    "jawaban": "Ke kasur"
+  },
+  {
+    "index": 65,
+    "soal": "Kenapa cicak di dinding nggak pernah jatuh?",
+    "jawaban": "Karena pakai lem Aibon"
+  },
+  {
+    "index": 66,
+    "soal": "Apa bedanya sekretaris cantik sama sekretaris nggak cantik?",
+    "jawaban": "Bedanya... cantik banget!"
+  },
+  {
+    "index": 67,
+    "soal": "Bis apa yang ada di Arab?",
+    "jawaban": "Bis-millah"
+  },
+  {
+    "index": 68,
+    "soal": "Mie apa yang paling enak?",
+    "jawaban": "Mie-kirin kamu tersenyum"
+  },
+  {
+    "index": 69,
+    "soal": "Kenapa Bob Sadino nggak pernah pakai sepatu?",
+    "jawaban": "Karena nggak punya kaos kaki"
+  },
+  {
+    "index": 70,
+    "soal": "Apa bedanya aku sama kamu?",
+    "jawaban": "Kalau aku ganteng, kalau kamu... salah baca"
+  },
+  {
+    "index": 71,
+    "soal": "Nabi apa yang suka bawa pisang?",
+    "jawaban": "Nabi-i nanam pisang"
+  },
+  {
+    "index": 72,
+    "soal": "Monyet apa yang bikin kesal?",
+    "jawaban": "Monyeting terus"
+  },
+  {
+    "index": 73,
+    "soal": "Gimana caranya tidur di atas air?",
+    "jawaban": "Tunggu sampai airnya jadi es"
+  },
+  {
+    "index": 74,
+    "soal": "Kenapa hantu takut sama orang kaya?",
+    "jawaban": "Karena hantu mati miskin"
+  },
+  {
+    "index": 75,
+    "soal": "Siapa nama pacar nyi roro kidul?",
+    "jawaban": "Nyi ganteng-ganteng gelap"
+  },
+  {
+    "index": 76,
+    "soal": "Apa bedanya apel sama apel?",
+    "jawaban": "Kalau apel ya apel, kalau apel ya... apel juga"
+  },
+  {
+    "index": 77,
+    "soal": "Soto apa yang romantis?",
+    "jawaban": "Soto-pi kamu tetap di hatiku"
+  },
+  {
+    "index": 78,
+    "soal": "Kenapa singa disebut raja hutan?",
+    "jawaban": "Karena kalau ratu nanti melahirkan"
+  },
+  {
+    "index": 79,
+    "soal": "Istri nabi yang paling cerewet siapa?",
+    "jawaban": "Nyai-yai"
+  },
+  {
+    "index": 80,
+    "soal": "Balon apa yang enak?",
+    "jawaban": "Balon-do"
+  },
+  {
+    "index": 81,
+    "soal": "Kalau hitam dibilang bersih, kalau putih dibilang kotor?",
+    "jawaban": "Papan tulis"
+  },
+  {
+    "index": 82,
+    "soal": "Kenapa matahari terbit dari timur?",
+    "jawaban": "Karena kalau terbit dari barat namanya mataberhasil"
+  },
+  {
+    "index": 83,
+    "soal": "Daun apa yang tidak bisa dijadikan sayur?",
+    "jawaban": "Daun taun kemarin"
+  },
+  {
+    "index": 84,
+    "soal": "Orang apa yang paling doyan makan?",
+    "jawaban": "Orang-utan"
+  },
+  {
+    "index": 85,
+    "soal": "Kenapa lampu merah dipasang di perempatan?",
+    "jawaban": "Karena kalau dipasang di saku bisa dicuri"
+  },
+  {
+    "index": 86,
+    "soal": "Ayam jantan apa yang selalu merasa benar?",
+    "jawaban": "Ayam jantan pinter ngeles"
+  },
+  {
+    "index": 87,
+    "soal": "Apa bedanya unta sama kangkung?",
+    "jawaban": "Kalau unta di Arab, kalau kangkung di-arab asin"
+  },
+  {
+    "index": 88,
+    "soal": "Gimana cara menghilangkan noda di baju?",
+    "jawaban": "Matikan lampunya"
+  },
+  {
+    "index": 89,
+    "soal": "Kenapa besi kalau dipanaskan memuai?",
+    "jawaban": "Karena kalau menyusut namanya bisa basi"
+  },
+  {
+    "index": 90,
+    "soal": "Apa pekerjaan terpendek di dunia?",
+    "jawaban": "Jadi tukang parkir, kan kalau ada yang mau parkir tinggal bilang 'ndak'"
+  },
+  {
+    "index": 91,
+    "soal": "Kenapa di komputer ada mouse?",
+    "jawaban": "Karena kucing nggak bisa dicolok ke USB"
+  },
+  {
+    "index": 92,
+    "soal": "Saya punya 5 ekor ayam, 3 ekor bebek, 2 ekor kambing. Berapa jumlah kaki saya?",
+    "jawaban": "Dua kaki lah, masa punya lima"
+  },
+  {
+    "index": 93,
+    "soal": "Kenapa Facebook warnanya biru?",
+    "jawaban": "Karena kalau merah namanya Redbook"
+  },
+  {
+    "index": 94,
+    "soal": "Makanan apa yang bikin galau?",
+    "jawaban": "Mi-kirin kamu terus"
+  },
+  {
+    "index": 95,
+    "soal": "Apa persamaan gajah sama tiang listrik?",
+    "jawaban": "Sama-sama nggak bisa ngomong"
+  },
+  {
+    "index": 96,
+    "soal": "Film apa yang paling seram?",
+    "jawaban": "Film-pin gigi tanpa bius"
+  },
+  {
+    "index": 97,
+    "soal": "Siapa nama asli Batman?",
+    "jawaban": "Bat-man Arkawi bin Bat-man Adami"
+  },
+  {
+    "index": 98,
+    "soal": "Kenapa ninja ada di atas menara?",
+    "jawaban": "Karena ninjauan dari atas lebih jelas"
+  },
+  {
+    "index": 99,
+    "soal": "Burung apa yang nempel di tembok?",
+    "jawaban": "Burung-kas"
+  },
+  {
+    "index": 100,
+    "soal": "Apa bedanya kulkas sama lemari es?",
+    "jawaban": "Nggak ada bedanya, sama-sama dingin hatinya kayak kamu"
+  },
+  {
+    "index": 101,
+    "soal": "Binatang apa yang bisa nulis?",
+    "jawaban": "Ke-KUDA"
+  },
+  {
+    "index": 102,
+    "soal": "Kenapa ninja makan pake sendok?",
+    "jawaban": "Karena kalau pakai garpu namanya ninjarpu"
+  },
+  {
+    "index": 103,
+    "soal": "Raja apa yang ngeselin?",
+    "jawaban": "Raja-jin"
+  },
+  {
+    "index": 104,
+    "soal": "Apa bedanya jeruk sama jerapah?",
+    "jawaban": "Kalau jeruk warnanya oranye, kalau jerapah... bukan jeruk"
+  },
+  {
+    "index": 105,
+    "soal": "Mobil apa yang bisa terbang?",
+    "jawaban": "Mobilang 'aku bisa terbang'"
+  },
+  {
+    "index": 106,
+    "soal": "Apa bahasa Inggrisnya nasi uduk?",
+    "jawaban": "Rice to sit"
+  },
+  {
+    "index": 107,
+    "soal": "Ikan apa yang suka nyanyi?",
+    "jawaban": "Ikan-nyanyiin lagu"
+  },
+  {
+    "index": 108,
+    "soal": "Kenapa kucing kalau jatuh kakinya selalu duluan?",
+    "jawaban": "Karena kalau kepalanya duluan kasian"
+  },
+  {
+    "index": 109,
+    "soal": "Minuman apa yang paling tua?",
+    "jawaban": "Tea-tua"
+  },
+  {
+    "index": 110,
+    "soal": "Bunga apa yang paling romantis?",
+    "jawaban": "Bunga-in aku jalan-jalan"
+  },
+  {
+    "index": 111,
+    "soal": "Kenapa ikan hiu nggak makan ikan badut?",
+    "jawaban": "Karena rasanya lucu"
+  },
+  {
+    "index": 112,
+    "soal": "Dokter apa yang suka tipu-tipu?",
+    "jawaban": "Dokter-pusin orang"
+  },
+  {
+    "index": 113,
+    "soal": "Apa persamaan anteng sama anteng?",
+    "jawaban": "Sama-sama anteng"
+  },
+  {
+    "index": 114,
+    "soal": "Kunci apa yang bisa lari?",
+    "jawaban": "Kunci-lari"
+  },
+  {
+    "index": 115,
+    "soal": "Buah apa yang sakti?",
+    "jawaban": "Naga-saki"
+  },
+  {
+    "index": 116,
+    "soal": "Kenapa Batman pake baju item?",
+    "jawaban": "Karena kalau pake baju putih namanya Putman"
+  },
+  {
+    "index": 117,
+    "soal": "Benda apa yang paling demokratis?",
+    "jawaban": "Gunting, karena bisa memotong tanpa pandang bulu"
+  },
+  {
+    "index": 118,
+    "soal": "Apa bahasa Jepangnya sombong?",
+    "jawaban": "Takagingging"
+  },
+  {
+    "index": 119,
+    "soal": "Nasi apa yang lucu?",
+    "jawaban": "Nasi-bi orang ketawa"
+  },
+  {
+    "index": 120,
+    "soal": "Kalau ada serigala di hutan, kamu ngapain?",
+    "jawaban": "Nggak ngapa-ngapain, emang gue kenal sama dia?"
+  },
+  {
+    "index": 121,
+    "soal": "Sekolah apa yang bikin ngantuk?",
+    "jawaban": "Sekolah-lullaby"
+  },
+  {
+    "index": 122,
+    "soal": "Kenapa elang rajawali terbangnya tinggi?",
+    "jawaban": "Karena kalau terbang rendah nabrak rumah"
+  },
+  {
+    "index": 123,
+    "soal": "Apa bahasa Arabnya pria sejati?",
+    "jawaban": "Halal bihalal"
+  },
+  {
+    "index": 124,
+    "soal": "Film India apa yang paling sedih?",
+    "jawaban": "Kabulkanlah Doa Hambamu"
+  },
+  {
+    "index": 125,
+    "soal": "Kenapa kuda nil namanya kuda nil?",
+    "jawaban": "Karena kalau dikasih nama kuda satu nanti banyakan"
+  },
+  {
+    "index": 126,
+    "soal": "Buah apa yang penuh luka?",
+    "jawaban": "Strawberry-tato"
+  },
+  {
+    "index": 127,
+    "soal": "Sopir apa yang baik hati?",
+    "jawaban": "Sopir-tamu dengan ramah"
+  },
+  {
+    "index": 128,
+    "soal": "Kenapa pesawat bisa terbang?",
+    "jawaban": "Karena ada sayapnya, kalau nggak ada sayapnya namanya bis"
+  },
+  {
+    "index": 129,
+    "soal": "Tumbuhan apa yang paling males?",
+    "jawaban": "Kangkung, soalnya dia cuma bisa go-ring"
+  },
+  {
+    "index": 130,
+    "soal": "Mengapa air laut asin?",
+    "jawaban": "Karena ikannya pada keringetan"
+  },
+  {
+    "index": 131,
+    "soal": "Bank apa yang paling seru?",
+    "jawaban": "Bank-et tiap malam minggu"
+  },
+  {
+    "index": 132,
+    "soal": "Apa bahasa Sundanya cuma kamu?",
+    "jawaban": "Ngan-sia wae"
+  },
+  {
+    "index": 133,
+    "soal": "Rumah apa yang bisa terbang?",
+    "jawaban": "Rumah bilang 'aku terbang yuk'"
+  },
+  {
+    "index": 134,
+    "soal": "Kenapa anak kecil nggak boleh makan es batu?",
+    "jawaban": "Karena belum tanggal"
+  },
+  {
+    "index": 135,
+    "soal": "Siapa orang paling sibuk di dunia?",
+    "jawaban": "Tukang bakso, soalnya kerjaannya bikin bola terus"
+  },
+  {
+    "index": 136,
+    "soal": "Kenapa monyet nggak pernah kena tilang?",
+    "jawaban": "Karena nggak punya SIM"
+  },
+  {
+    "index": 137,
+    "soal": "Susu apa yang menyebalkan?",
+    "jawaban": "Susu-ah ditanya terus"
+  },
+  {
+    "index": 138,
+    "soal": "Hantu apa yang baik hati?",
+    "jawaban": "Hantu-in orang nyeberang"
+  },
+  {
+    "index": 139,
+    "soal": "Kenapa di Indonesia jalannya sebelah kiri?",
+    "jawaban": "Karena kalau di tengah bahaya"
+  },
+  {
+    "index": 140,
+    "soal": "Hewan apa yang paling jujur?",
+    "jawaban": "Kura-kura, karena nggak bisa boong"
+  },
+  {
+    "index": 141,
+    "soal": "Apa pekerjaan orang Arab?",
+    "jawaban": "Arab-akin barang bekas"
+  },
+  {
+    "index": 142,
+    "soal": "Kenapa harimau belang?",
+    "jawaban": "Karena kalau putih polos namanya kucing"
+  },
+  {
+    "index": 143,
+    "soal": "Apa bahasa Inggrisnya jatuh dari lantai 10?",
+    "jawaban": "Sorry sorry sorry sorry sorry sorry sorry sorry sorry goodbye"
+  },
+  {
+    "index": 144,
+    "soal": "Kucing apa yang paling ngeselin?",
+    "jawaban": "Kucing-galan nonton film"
+  },
+  {
+    "index": 145,
+    "soal": "Kenapa bebek jalannya loncat-loncat?",
+    "jawaban": "Karena kakinya pendek jadi harus lompat"
+  },
+  {
+    "index": 146,
+    "soal": "Sayur apa yang paling jujur?",
+    "jawaban": "Jujur saja, saya bukan sayur"
+  },
+  {
+    "index": 147,
+    "soal": "Teh apa yang paling enak?",
+    "jawaban": "Teh-rima kasih sudah mampir"
+  },
+  {
+    "index": 148,
+    "soal": "Kenapa nenek nenek rambutnya putih?",
+    "jawaban": "Karena nggak ada yang jual shampoo pewarna rambut hitam"
+  },
+  {
+    "index": 149,
+    "soal": "Mana yang lebih berat, kapas 1 kg atau besi 1 kg?",
+    "jawaban": "Sama aja berat, 1 kg ya 1 kg"
+  },
+  {
+    "index": 150,
+    "soal": "Binatang apa yang hurufnya cuma satu?",
+    "jawaban": "Cccing (kucing)"
+  },
+  {
+    "index": 151,
+    "soal": "Kenapa google itu keren?",
+    "jawaban": "Karena dia bisa jawab pertanyaan tanpa nanya ke orang tua"
+  },
+  {
+    "index": 152,
+    "soal": "Apa persamaan jemuran dengan kamu?",
+    "jawaban": "Sama-sama dijemur matahari, bedanya jemuran nggak ngeluh panas"
+  },
+  {
+    "index": 153,
+    "soal": "Apa bahasa Jepangnya tempat parkir?",
+    "jawaban": "Taro kendaraan dimana"
+  },
+  {
+    "index": 154,
+    "soal": "Kenapa pocong melompat-lompat?",
+    "jawaban": "Karena kakinya diiket, kalau nggak diiket namanya hantu biasa"
+  },
+  {
+    "index": 155,
+    "soal": "Kopi apa yang paling mahal?",
+    "jawaban": "Kopi-n gedung"
+  },
+  {
+    "index": 156,
+    "soal": "Tikus apa yang paling bersih?",
+    "jawaban": "Tikus-mandi tiap hari"
+  },
+  {
+    "index": 157,
+    "soal": "Kenapa Batman takut sama Superman?",
+    "jawaban": "Karena Superman bisa terbang, Batman cuma bisa kebang"
+  },
+  {
+    "index": 158,
+    "soal": "Apa bahasa Inggrisnya nasi goreng?",
+    "jawaban": "Fried... yaudah goreng aja"
+  },
+  {
+    "index": 159,
+    "soal": "Siapa presiden Indonesia yang paling bersih?",
+    "jawaban": "BJ Habibie (Biasanya Jogging Habis Bikin Bersih-bersih Istana Emang)"
+  },
+  {
+    "index": 160,
+    "soal": "Kenapa jerapah lehernya panjang?",
+    "jawaban": "Karena kepalanya jauh dari badannya"
+  },
+  {
+    "index": 161,
+    "soal": "Anak apa yang ngeselin?",
+    "jawaban": "Anak-nya nanya terus"
+  },
+  {
+    "index": 162,
+    "soal": "Apa persamaan kucing sama handphone?",
+    "jawaban": "Sama-sama suka nge-charge"
+  },
+  {
+    "index": 163,
+    "soal": "Pohon apa yang bisa jalan?",
+    "jawaban": "Pohon-bilang 'aku mau jalan'"
+  },
+  {
+    "index": 164,
+    "soal": "Kenapa laba-laba jago bikin jaring?",
+    "jawaban": "Karena udah ikut kursus dari kecil"
+  },
+  {
+    "index": 165,
+    "soal": "Apa bahasa Inggrisnya nangka?",
+    "jawaban": "Jack fruit, soalnya namanya Jack"
+  },
+  {
+    "index": 166,
+    "soal": "Bis apa yang bikin deg-degan?",
+    "jawaban": "Bis-ikan kabar sama gebetan"
+  },
+  {
+    "index": 167,
+    "soal": "Kenapa buaya takut sama kucing?",
+    "jawaban": "Siapa bilang? Emang lo pernah lihat?"
+  },
+  {
+    "index": 168,
+    "soal": "Apa perbedaan GPS sama kompas?",
+    "jawaban": "Kalau GPS pake satelit, kalau kompas pake jarum yang nyasar terus"
+  },
+  {
+    "index": 169,
+    "soal": "Makanan apa yang anti mainstream?",
+    "jawaban": "Nasi uduk, karena dia memilih duduk bukan ikut arus"
+  },
+  {
+    "index": 170,
+    "soal": "Kenapa dinosaurus punah?",
+    "jawaban": "Karena nggak ada yang ngajarin cara selfie"
+  },
+  {
+    "index": 171,
+    "soal": "Apa bahasa Sundanya kangen?",
+    "jawaban": "Hayang papanggih"
+  },
+  {
+    "index": 172,
+    "soal": "Tas apa yang bisa terbang?",
+    "jawaban": "Tas-bih ke langit"
+  },
+  {
+    "index": 173,
+    "soal": "Kenapa ninja jarang kelihatan?",
+    "jawaban": "Karena dia lagi ninjauhan mata-mata musuh"
+  },
+  {
+    "index": 174,
+    "soal": "Apa persamaan kulkas sama AC?",
+    "jawaban": "Sama-sama bikin tagihan listrik bengkak"
+  },
+  {
+    "index": 175,
+    "soal": "Nabi apa yang suka jajan?",
+    "jawaban": "Nabi-l cilok di kantin"
+  },
+  {
+    "index": 176,
+    "soal": "Kenapa jalanan di Indonesia banyak lubang?",
+    "jawaban": "Supaya sopir nggak ngantuk"
+  },
+  {
+    "index": 177,
+    "soal": "Apa bahasa Inggrisnya takut ketinggian?",
+    "jawaban": "Acrophobia (eh serius nih)"
+  },
+  {
+    "index": 178,
+    "soal": "Kue apa yang paling bijak?",
+    "jawaban": "Kue-lakukan yang terbaik"
+  },
+  {
+    "index": 179,
+    "soal": "Kenapa ikan mas mahal?",
+    "jawaban": "Karena ikan-nya dari emas"
+  },
+  {
+    "index": 180,
+    "soal": "Apa perbedaan sarjana sama sarjana?",
+    "jawaban": "Yang satu kerja, yang satu nganggur"
+  },
+  {
+    "index": 181,
+    "soal": "Mobil apa yang paling ngaco?",
+    "jawaban": "Mobil-putar balik sembarangan"
+  },
+  {
+    "index": 182,
+    "soal": "Kenapa gajah hidungnya panjang?",
+    "jawaban": "Supaya bisa ngambil kacang dari kejauhan"
+  },
+  {
+    "index": 183,
+    "soal": "Apa bahasa Jepangnya anak durhaka?",
+    "jawaban": "Anakata-kata orangtuanya"
+  },
+  {
+    "index": 184,
+    "soal": "Sate apa yang paling romantis?",
+    "jawaban": "Sate-lah aku bersamamu"
+  },
+  {
+    "index": 185,
+    "soal": "Kenapa landak tubuhnya penuh duri?",
+    "jawaban": "Biar nggak ada yang peluk, dia mau sendiri aja"
+  },
+  {
+    "index": 186,
+    "soal": "Apa persamaan laptop sama sepatu?",
+    "jawaban": "Sama-sama kalau rusak bikin pusing"
+  },
+  {
+    "index": 187,
+    "soal": "Raja apa yang suka makan?",
+    "jawaban": "Raja-pel makanan"
+  },
+  {
+    "index": 188,
+    "soal": "Kenapa burung bisa terbang?",
+    "jawaban": "Karena punya tiket pesawat... eh sayap maksudnya"
+  },
+  {
+    "index": 189,
+    "soal": "Apa bahasa Arabnya takut hujan?",
+    "jawaban": "Takutbasah"
+  },
+  {
+    "index": 190,
+    "soal": "Ikan apa yang bau?",
+    "jawaban": "Ikan-kaporit habis berenang"
+  },
+  {
+    "index": 191,
+    "soal": "Kenapa orang Jepang matanya sipit?",
+    "jawaban": "Karena mereka selalu senyum liat harga elektronik murah"
+  },
+  {
+    "index": 192,
+    "soal": "Apa perbedaan motor sama mobil?",
+    "jawaban": "Motor rodanya dua, mobil rodanya empat, sama-sama bikin kantong kering"
+  },
+  {
+    "index": 193,
+    "soal": "Buah apa yang paling hits?",
+    "jawaban": "Buah-tter jadi trending topic"
+  },
+  {
+    "index": 194,
+    "soal": "Kenapa kentang goreng enak banget?",
+    "jawaban": "Karena dia rela digoreng demi kebahagiaan kita"
+  },
+  {
+    "index": 195,
+    "soal": "Apa bahasa Jepangnya terserah kamu?",
+    "jawaban": "Yamete kudasai... eh salah"
+  },
+  {
+    "index": 196,
+    "soal": "Jam apa yang nggak bisa dipake?",
+    "jawaban": "Jam-anan kaum rebahan"
+  },
+  {
+    "index": 197,
+    "soal": "Kenapa zombie suka jalan kaki?",
+    "jawaban": "Karena SIMnya udah expired"
+  },
+  {
+    "index": 198,
+    "soal": "Apa persamaan dompet sama hati?",
+    "jawaban": "Sama-sama sakit kalau kosong"
+  },
+  {
+    "index": 199,
+    "soal": "Nasi apa yang paling kaya?",
+    "jawaban": "Nasi-onal, punya perusahaan besar"
+  },
+  {
+    "index": 200,
+    "soal": "Kenapa ninja pakai baju hitam?",
+    "jawaban": "Biar nggak keliatan kalau lagi ngumpet di malam hari"
+  },
+  {
+    "index": 201,
+    "soal": "Apa bahasa Inggrisnya makan nasi pakai tangan?",
+    "jawaban": "Eat rice use hand... yaudah pakai sendok aja"
+  },
+  {
+    "index": 202,
+    "soal": "Binatang apa yang paling setia?",
+    "jawaban": "Kutu rambut, nempel terus nggak mau lepas"
+  },
+  {
+    "index": 203,
+    "soal": "Kenapa buku tulis ada garisnya?",
+    "jawaban": "Biar tulisannya nggak miring-miring kayak hidup kita"
+  },
+  {
+    "index": 204,
+    "soal": "Apa persamaan cinta sama WiFi?",
+    "jawaban": "Sama-sama bikin galau kalau sinyalnya lemah"
+  },
+  {
+    "index": 205,
+    "soal": "Olahraga apa yang paling males?",
+    "jawaban": "Olah-rasa doang nggak jadi-jadi"
+  },
+  {
+    "index": 206,
+    "soal": "Kenapa ular nggak punya kaki?",
+    "jawaban": "Karena kalau punya kaki susah masuk celana"
+  },
+  {
+    "index": 207,
+    "soal": "Apa bahasa Sundanya kecewa?",
+    "jawaban": "Kesel pisan euy"
+  },
+  {
+    "index": 208,
+    "soal": "Buah apa yang suka ngatur-ngatur?",
+    "jawaban": "Mangga-nggap dirinya bos"
+  },
+  {
+    "index": 209,
+    "soal": "Kenapa tikus takut kucing?",
+    "jawaban": "Karena kucing nggak takut tikus"
+  },
+  {
+    "index": 210,
+    "soal": "Apa perbedaan semangka sama melon?",
+    "jawaban": "Semangka biji item, melon biji putih, sama-sama enak"
+  },
+  {
+    "index": 211,
+    "soal": "Pintu apa yang nggak bisa ditutup?",
+    "jawaban": "Pintu-san, soalnya udah lewat"
+  },
+  {
+    "index": 212,
+    "soal": "Kenapa monyet suka ngupil?",
+    "jawaban": "Karena tangannya pas buat masuk hidung"
+  },
+  {
+    "index": 213,
+    "soal": "Apa bahasa Jepangnya uang habis?",
+    "jawaban": "Okane ga nai desu"
+  },
+  {
+    "index": 214,
+    "soal": "Mie apa yang paling sabar?",
+    "jawaban": "Mie-nunggu air mendidih"
+  },
+  {
+    "index": 215,
+    "soal": "Kenapa kucing suka makan ikan?",
+    "jawaban": "Karena ikan nggak bisa lari di darat"
+  },
+  {
+    "index": 216,
+    "soal": "Apa persamaan hujan sama air mata?",
+    "jawaban": "Sama-sama bikin basah"
+  },
+  {
+    "index": 217,
+    "soal": "Hewan apa yang paling kaya?",
+    "jawaban": "Kucing garong, soalnya suka nyolong"
+  },
+  {
+    "index": 218,
+    "soal": "Kenapa belalang suka loncat?",
+    "jawaban": "Karena dia nggak punya motor"
+  },
+  {
+    "index": 219,
+    "soal": "Apa bahasa Arabnya lagi ngantuk?",
+    "jawaban": "Pengennye bobo"
+  },
+  {
+    "index": 220,
+    "soal": "Kue apa yang paling sedih?",
+    "jawaban": "Kue-cewa sama kamu"
+  },
+  {
+    "index": 221,
+    "soal": "Kenapa harimau belang?",
+    "jawaban": "Supaya fashionable"
+  },
+  {
+    "index": 222,
+    "soal": "Apa perbedaan sendok sama garpu?",
+    "jawaban": "Sendok buat kuah, garpu buat nusuk... eh buat ambil lauk"
+  },
+  {
+    "index": 223,
+    "soal": "Nasi apa yang paling takut?",
+    "jawaban": "Nasi-run dari kucing"
+  },
+  {
+    "index": 224,
+    "soal": "Kenapa singa disebut raja hutan padahal tinggal di savana?",
+    "jawaban": "Karena dia pindahan dari hutan"
+  },
+  {
+    "index": 225,
+    "soal": "Apa bahasa Inggrisnya tukang bakso?",
+    "jawaban": "Meatball seller... ribet, tukang bakso aja"
+  },
+  {
+    "index": 226,
+    "soal": "Sayur apa yang lucu?",
+    "jawaban": "Sayur-an komedi"
+  },
+  {
+    "index": 227,
+    "soal": "Kenapa kelelawar tidurnya terbalik?",
+    "jawaban": "Biar dunia keliatan beda dari biasanya"
+  },
+  {
+    "index": 228,
+    "soal": "Apa persamaan tas sama hati?",
+    "jawaban": "Sama-sama berat kalau isinya banyak"
+  },
+  {
+    "index": 229,
+    "soal": "Bis apa yang paling lucu?",
+    "jawaban": "Bis-anya ketawa terus"
+  },
+  {
+    "index": 230,
+    "soal": "Kenapa zombie jalannya lambat?",
+    "jawaban": "Karena nggak ada yang kejar-kejar"
+  },
+  {
+    "index": 231,
+    "soal": "Apa bahasa Jepangnya lagi ngambek?",
+    "jawaban": "Mushimushi shiteru"
+  },
+  {
+    "index": 232,
+    "soal": "Teh apa yang paling susah?",
+    "jawaban": "Teh-riak di dasar laut"
+  },
+  {
+    "index": 233,
+    "soal": "Kenapa burung hantu matanya besar?",
+    "jawaban": "Supaya bisa lihat di malam hari, kalau kecil nggak keliatan"
+  },
+  {
+    "index": 234,
+    "soal": "Apa perbedaan buaya sama bajigur?",
+    "jawaban": "Buaya ada di sungai, bajigur diminum pas hujan"
+  },
+  {
+    "index": 235,
+    "soal": "Soto apa yang paling dingin?",
+    "jawaban": "Soto-p kipas angin"
+  },
+  {
+    "index": 236,
+    "soal": "Kenapa ayam nggak bisa terbang tinggi?",
+    "jawaban": "Karena takut ketinggian"
+  },
+  {
+    "index": 237,
+    "soal": "Apa bahasa Sundanya susah move on?",
+    "jawaban": "Hese hilap ka manehna"
+  },
+  {
+    "index": 238,
+    "soal": "Ikan apa yang paling sombong?",
+    "jawaban": "Ikan-gakbau orang"
+  },
+  {
+    "index": 239,
+    "soal": "Kenapa gigi harus disikat?",
+    "jawaban": "Karena kalau dicuci nanti lepas semua"
+  },
+  {
+    "index": 240,
+    "soal": "Apa persamaan kulkas sama pacar?",
+    "jawaban": "Sama-sama dingin kalau lagi marah"
+  },
+  {
+    "index": 241,
+    "soal": "Raja apa yang paling galau?",
+    "jawaban": "Raja-sa nggak punya pacar"
+  },
+  {
+    "index": 242,
+    "soal": "Kenapa cicak suka di tembok?",
+    "jawaban": "Karena di lantai licin, susah jalan"
+  },
+  {
+    "index": 243,
+    "soal": "Apa bahasa Inggrisnya ketahuan nyontek?",
+    "jawaban": "Caught red handed... tangan merahnya dari mana?"
+  },
+  {
+    "index": 244,
+    "soal": "Buah apa yang paling bingung?",
+    "jawaban": "Buah-gaimana ya"
+  },
+  {
+    "index": 245,
+    "soal": "Kenapa kura-kura lambat?",
+    "jawaban": "Karena bawa rumah sendiri, capek"
+  },
+  {
+    "index": 246,
+    "soal": "Apa perbedaan siang sama malam?",
+    "jawaban": "Siang terang, malam gelap, sama-sama 12 jam"
+  },
+  {
+    "index": 247,
+    "soal": "Sendal apa yang paling setia?",
+    "jawaban": "Sendal jepit, selalu nempel sama kaki"
+  },
+  {
+    "index": 248,
+    "soal": "Kenapa lele suka di lumpur?",
+    "jawaban": "Karena lele-nya nyaman di sana"
+  },
+  {
+    "index": 249,
+    "soal": "Apa bahasa Jepangnya capek banget?",
+    "jawaban": "Tsukareta yo"
+  },
+  {
+    "index": 250,
+    "soal": "Nasi apa yang paling penakut?",
+    "jawaban": "Nasi-put gelap"
+  },
+  {
+    "index": 251,
+    "soal": "Kenapa semut suka manis?",
+    "jawaban": "Karena hidup udah pahit, butuh yang manis"
+  },
+  {
+    "index": 252,
+    "soal": "Apa persamaan wifi sama mantan?",
+    "jawaban": "Sama-sama susah dilupain"
+  },
+  {
+    "index": 253,
+    "soal": "Mobil apa yang paling pelit?",
+    "jawaban": "Mobil-ong minta bensin terus"
+  },
+  {
+    "index": 254,
+    "soal": "Kenapa panda warnanya hitam putih?",
+    "jawaban": "Karena TV jaman dulu masih hitam putih"
+  },
+  {
+    "index": 255,
+    "soal": "Apa bahasa Arabnya makan kenyang?",
+    "jawaban": "Alhamdulillah syibak"
+  },
+  {
+    "index": 256,
+    "soal": "Ikan apa yang paling pintar?",
+    "jawaban": "Ikan-terus belajar"
+  },
+  {
+    "index": 257,
+    "soal": "Kenapa bunga mawar ada durinya?",
+    "jawaban": "Biar nggak sembarang orang bisa petik"
+  },
+  {
+    "index": 258,
+    "soal": "Apa perbedaan tikus sama mouse komputer?",
+    "jawaban": "Tikus makan keju, mouse makan listrik"
+  },
+  {
+    "index": 259,
+    "soal": "Kue apa yang paling galau?",
+    "jawaban": "Kue-rasa ditinggal pergi"
+  },
+  {
+    "index": 260,
+    "soal": "Kenapa buaya nggak bisa keluar dari air?",
+    "jawaban": "Siapa bilang? Emang lo pernah cegat?"
+  },
+  {
+    "index": 261,
+    "soal": "Apa bahasa Inggrisnya malu-maluin?",
+    "jawaban": "Embar-rasing banget"
+  },
+  {
+    "index": 262,
+    "soal": "Sayur apa yang paling keren?",
+    "jawaban": "Sayur-nye gaya banget"
+  },
+  {
+    "index": 263,
+    "soal": "Kenapa kecoa susah mati?",
+    "jawaban": "Karena dia punya skill survival tingkat dewa"
+  },
+  {
+    "index": 264,
+    "soal": "Apa persamaan coding sama masak?",
+    "jawaban": "Sama-sama kalau salah langkah jadi error"
+  },
+  {
+    "index": 265,
+    "soal": "Bis apa yang paling mahal?",
+    "jawaban": "Bis-nis properti"
+  },
+  {
+    "index": 266,
+    "soal": "Kenapa bebek suka berenang?",
+    "jawaban": "Karena nggak punya kolam renang pribadi"
+  },
+  {
+    "index": 267,
+    "soal": "Apa bahasa Sundanya lagi bokek?",
+    "jawaban": "Moal gaduh duit"
+  },
+  {
+    "index": 268,
+    "soal": "Sate apa yang paling pedih?",
+    "jawaban": "Sate-kit hati ini"
+  },
+  {
+    "index": 269,
+    "soal": "Kenapa unta punya punuk?",
+    "jawaban": "Buat simpen air, kalau simpen uang nanti dirampok"
+  },
+  {
+    "index": 270,
+    "soal": "Apa perbedaan kopi sama teh?",
+    "jawaban": "Kopi item bikin melek, teh manis bikin diabetes"
+  },
+  {
+    "index": 271,
+    "soal": "Jam apa yang paling romantis?",
+    "jawaban": "Jam-an pacaran"
+  },
+  {
+    "index": 272,
+    "soal": "Kenapa pinguin nggak bisa terbang?",
+    "jawaban": "Karena sayapnya buat renang, bukan buat terbang"
+  },
+  {
+    "index": 273,
+    "soal": "Apa bahasa Jepangnya laper banget?",
+    "jawaban": "Onaka ga peko peko"
+  },
+  {
+    "index": 274,
+    "soal": "Buah apa yang paling narsis?",
+    "jawaban": "Buah-lihat cermin terus"
+  },
+  {
+    "index": 275,
+    "soal": "Kenapa nyamuk suka gigit orang?",
+    "jawaban": "Karena nggak suka darah nyamuk lain"
+  },
+  {
+    "index": 276,
+    "soal": "Apa persamaan sampo sama sabun?",
+    "jawaban": "Sama-sama licin kalau kena mata"
+  },
+  {
+    "index": 277,
+    "soal": "Nasi apa yang paling percaya diri?",
+    "jawaban": "Nasi-yakin bisa"
+  },
+  {
+    "index": 278,
+    "soal": "Kenapa kupu-kupu cantik?",
+    "jawaban": "Karena rajin dandan sebelum keluar kepompong"
+  },
+  {
+    "index": 279,
+    "soal": "Apa bahasa Inggrisnya jatuh cinta?",
+    "jawaban": "Fall in love... emang cinta ada di lubang?"
+  },
+  {
+    "index": 280,
+    "soal": "Teh apa yang paling mahal?",
+    "jawaban": "Teh-mpat tinggal di Jakarta"
+  },
+  {
+    "index": 281,
+    "soal": "Kenapa katak suka bunyi malam hari?",
+    "jawaban": "Karena siang hari lagi ngadem"
+  },
+  {
+    "index": 282,
+    "soal": "Apa perbedaan sapi sama kerbau?",
+    "jawaban": "Sapi susunya banyak, kerbau tanduknya gede"
+  },
+  {
+    "index": 283,
+    "soal": "Soto apa yang paling hits?",
+    "jawaban": "Soto-ri viral di TikTok"
+  },
+  {
+    "index": 284,
+    "soal": "Kenapa flamingo kakinya panjang?",
+    "jawaban": "Supaya nggak basah kalau banjir"
+  },
+  {
+    "index": 285,
+    "soal": "Apa bahasa Sundanya galau berat?",
+    "jawaban": "Nyeri haté pisan"
+  },
+  {
+    "index": 286,
+    "soal": "Ikan apa yang paling rajin?",
+    "jawaban": "Ikan-terus bekerja"
+  },
+  {
+    "index": 287,
+    "soal": "Kenapa ular kobra kepalanya besar?",
+    "jawaban": "Karena otaknya encer... eh salah"
+  },
+  {
+    "index": 288,
+    "soal": "Apa persamaan motor sama cinta?",
+    "jawaban": "Sama-sama butuh perawatan, kalau nggak diurus mogok"
+  },
+  {
+    "index": 289,
+    "soal": "Raja apa yang paling pelit?",
+    "jawaban": "Raja-in duit terus"
+  },
+  {
+    "index": 290,
+    "soal": "Kenapa cacing nggak punya mata?",
+    "jawaban": "Karena hidupnya di tanah, gelap juga"
+  },
+  {
+    "index": 291,
+    "soal": "Apa bahasa Arabnya lagi senang?",
+    "jawaban": "Alhamdulillah sa'id"
+  },
+  {
+    "index": 292,
+    "soal": "Buah apa yang paling dewasa?",
+    "jawaban": "Buah-t keputusan sendiri"
+  },
+  {
+    "index": 293,
+    "soal": "Kenapa kelinci suka loncat?",
+    "jawaban": "Karena kakinya udah didesain buat lompat"
+  },
+  {
+    "index": 294,
+    "soal": "Apa perbedaan kacamata sama cermin?",
+    "jawaban": "Kacamata buat lihat jelas, cermin buat lihat ganteng"
+  },
+  {
+    "index": 295,
+    "soal": "Sendal apa yang paling mahal?",
+    "jawaban": "Sendal jepit emas 24 karat"
+  },
+  {
+    "index": 296,
+    "soal": "Kenapa kangkung nggak boleh dimakan malam hari?",
+    "jawaban": "Kata siapa? Emang kangkung punya jam malam?"
+  },
+  {
+    "index": 297,
+    "soal": "Apa bahasa Jepangnya mau pulang?",
+    "jawaban": "Kaeritai yo"
+  },
+  {
+    "index": 298,
+    "soal": "Nasi apa yang paling mystery?",
+    "jawaban": "Nasi-onal Geographic"
+  },
+  {
+    "index": 299,
+    "soal": "Kenapa tupai suka nyimpen makanan?",
+    "jawaban": "Buat jaga-jaga kalau lagi bokek"
+  },
+  {
+    "index": 300,
+    "soal": "Apa persamaan HP sama jodoh?",
+    "jawaban": "Sama-sama susah dicari yang cocok"
+  },
+  {
+    "index": 301,
+    "soal": "Bis apa yang paling romantis?",
+    "jawaban": "Bis-ikan bunga setiap hari"
+  },
+  {
+    "index": 302,
+    "soal": "Kenapa lebah suka madu?",
+    "jawaban": "Karena dia yang bikin, masa nggak suka hasil karyanya sendiri"
+  },
+  {
+    "index": 303,
+    "soal": "Apa bahasa Inggrisnya jomblo berkepanjangan?",
+    "jawaban": "Single for life... sad"
+  },
+  {
+    "index": 304,
+    "soal": "Sayur apa yang paling pemberani?",
+    "jawaban": "Sayur-berani menghadapi tantangan"
+  },
+  {
+    "index": 305,
+    "soal": "Kenapa gurita punya 8 kaki?",
+    "jawaban": "Supaya bisa multitasking"
+  },
+  {
+    "index": 306,
+    "soal": "Apa perbedaan sabun mandi sama sabun cuci?",
+    "jawaban": "Sabun mandi buat badan, sabun cuci buat baju, sama-sama bikin bersih"
+  },
+  {
+    "index": 307,
+    "soal": "Kue apa yang paling sabar?",
+    "jawaban": "Kue-tunggu adonan mengembang"
+  },
+  {
+    "index": 308,
+    "soal": "Kenapa kambing suka makan rumput?",
+    "jawaban": "Karena nggak punya uang buat beli nasi padang"
+  },
+  {
+    "index": 309,
+    "soal": "Apa bahasa Sundanya sakit hati?",
+    "jawaban": "Nyeri dada ieu mah"
+  },
+  {
+    "index": 310,
+    "soal": "Ikan apa yang paling romantis?",
+    "jawaban": "Ikan-girim bunga setiap hari"
+  },
+  {
+    "index": 311,
+    "soal": "Kenapa zebra belang hitam putih?",
+    "jawaban": "Karena dia nggak tau mau pilih warna apa"
+  },
+  {
+    "index": 312,
+    "soal": "Apa persamaan payung sama sahabat?",
+    "jawaban": "Sama-sama ada saat kita butuh"
+  },
+  {
+    "index": 313,
+    "soal": "Teh apa yang paling sakit?",
+    "jawaban": "Teh-rasa dikhianati"
+  },
+  {
+    "index": 314,
+    "soal": "Kenapa kuda bisa lari kencang?",
+    "jawaban": "Karena kakinya empat, kalau dua namanya manusia"
+  },
+  {
+    "index": 315,
+    "soal": "Apa bahasa Jepangnya lagi galau?",
+    "jawaban": "Kokoro ga itai"
+  },
+  {
+    "index": 316,
+    "soal": "Buah apa yang paling jujur?",
+    "jawaban": "Buah-ngirim pesan seadanya"
+  },
+  {
+    "index": 317,
+    "soal": "Kenapa capung matanya besar?",
+    "jawaban": "Supaya bisa lihat 360 derajat, kayak kamera CCTV"
+  },
+  {
+    "index": 318,
+    "soal": "Apa perbedaan nasi sama roti?",
+    "jawaban": "Nasi dari beras, roti dari tepung, sama-sama bikin kenyang"
+  },
+  {
+    "index": 319,
+    "soal": "Soto apa yang paling jauh?",
+    "jawaban": "Soto-dek ke bulan"
+  },
+  {
+    "index": 320,
+    "soal": "Kenapa burung elang terbang tinggi?",
+    "jawaban": "Supaya sinyal 5G nya kenceng"
+  },
+  {
+    "index": 321,
+    "soal": "Apa bahasa Arabnya ngantuk berat?",
+    "jawaban": "Na'asanu jiddan"
+  },
+  {
+    "index": 322,
+    "soal": "Nasi apa yang paling artistik?",
+    "jawaban": "Nasi-kir gambar di dinding"
+  },
+  {
+    "index": 323,
+    "soal": "Kenapa kunang-kunang berbinar?",
+    "jawaban": "Karena udah install lampu LED dalam tubuhnya"
+  },
+  {
+    "index": 324,
+    "soal": "Apa persamaan matematika sama kehidupan?",
+    "jawaban": "Sama-sama penuh masalah yang harus dipecahkan"
+  },
+  {
+    "index": 325,
+    "soal": "Raja apa yang paling sibuk?",
+    "jawaban": "Raja-knya kerja rodi"
+  },
+  {
+    "index": 326,
+    "soal": "Kenapa kepiting jalannya miring?",
+    "jawaban": "Karena kalau lurus dia nggak bisa belok"
+  },
+  {
+    "index": 327,
+    "soal": "Apa bahasa Inggrisnya jatuh dari motor?",
+    "jawaban": "Fall from motorcycle... aduh sakit"
+  },
+  {
+    "index": 328,
+    "soal": "Sayur apa yang paling mystery?",
+    "jawaban": "Sayur-apa isi kuahnya"
+  },
+  {
+    "index": 329,
+    "soal": "Kenapa salmon suka berenang melawan arus?",
+    "jawaban": "Karena dia anti mainstream"
+  },
+  {
+    "index": 330,
+    "soal": "Apa perbedaan bantal sama guling?",
+    "jawaban": "Bantal buat kepala, guling buat dipeluk pas lagi jomblo"
+  },
+  {
+    "index": 331,
+    "soal": "Bis apa yang paling sehat?",
+    "jawaban": "Bis-a jogging setiap hari"
+  },
+  {
+    "index": 332,
+    "soal": "Kenapa bunglon bisa ganti warna?",
+    "jawaban": "Karena dia punya wardrobe warna lengkap di kulitnya"
+  },
+  {
+    "index": 333,
+    "soal": "Apa bahasa Sundanya kangen berat?",
+    "jawaban": "Sono pisan ka anjeun"
+  },
+  {
+    "index": 334,
+    "soal": "Ikan apa yang paling kreatif?",
+    "jawaban": "Ikan-bikin karya seni"
+  },
+  {
+    "index": 335,
+    "soal": "Kenapa landak berduri?",
+    "jawaban": "Biar kelihatan punk rock"
+  },
+  {
+    "index": 336,
+    "soal": "Apa persamaan dasi sama tali sepatu?",
+    "jawaban": "Sama-sama susah diiket kalau lagi buru-buru"
+  },
+  {
+    "index": 337,
+    "soal": "Kue apa yang paling keren?",
+    "jawaban": "Kue-ren banget gayanya"
+  },
+  {
+    "index": 338,
+    "soal": "Kenapa hamster suka lari di roda?",
+    "jawaban": "Karena dia lagi olahraga cardio"
+  },
+  {
+    "index": 339,
+    "soal": "Apa bahasa Jepangnya sedih banget?",
+    "jawaban": "Kanashii sugiru"
+  },
+  {
+    "index": 340,
+    "soal": "Buah apa yang paling taat?",
+    "jawaban": "Buah-t apa kata orang tua"
+  },
+  {
+    "index": 341,
+    "soal": "Kenapa burung hantu aktif malam hari?",
+    "jawaban": "Karena dia shift malam"
+  },
+  {
+    "index": 342,
+    "soal": "Apa perbedaan sepeda sama motor?",
+    "jawaban": "Sepeda pakai tenaga kaki, motor pakai bensin, sama-sama bikin capek"
+  },
+  {
+    "index": 343,
+    "soal": "Soto apa yang paling misterius?",
+    "jawaban": "Soto-p rahasia perusahaan"
+  },
+  {
+    "index": 344,
+    "soal": "Kenapa kura-kura hidup lama?",
+    "jawaban": "Karena hidupnya slow dan santai"
+  },
+  {
+    "index": 345,
+    "soal": "Apa bahasa Arabnya bahagia?",
+    "jawaban": "Sa'id wa mabsut"
+  },
+  {
+    "index": 346,
+    "soal": "Nasi apa yang paling berani?",
+    "jawaban": "Nasi-kat nyawa buat keluarga"
+  },
+  {
+    "index": 347,
+    "soal": "Kenapa cumi-cumi punya tinta?",
+    "jawaban": "Buat nulis diary rahasia di bawah laut"
+  },
+  {
+    "index": 348,
+    "soal": "Apa persamaan cinta sama wifi?",
+    "jawaban": "Sama-sama butuh password yang tepat"
+  },
+  {
+    "index": 349,
+    "soal": "Jam apa yang paling berharga?",
+    "jawaban": "Jam-an bersama orang terkasih"
+  },
+  {
+    "index": 350,
+    "soal": "Kenapa koala tidur 20 jam sehari?",
+    "jawaban": "Karena dia goals kita semua"
+  },
+  {
+    "index": 351,
+    "soal": "Apa bahasa Inggrisnya lagi bokek?",
+    "jawaban": "Broke as a joke"
+  },
+  {
+    "index": 352,
+    "soal": "Sayur apa yang paling humble?",
+    "jawaban": "Sayur-aku ini nggak ada apa-apanya"
+  },
+  {
+    "index": 353,
+    "soal": "Kenapa siput lambat?",
+    "jawaban": "Karena rumahnya dibawa kemana-mana, berat"
+  },
+  {
+    "index": 354,
+    "soal": "Apa perbedaan kue sama roti?",
+    "jawaban": "Kue manis, roti tawar, sama-sama enak"
+  },
+  {
+    "index": 355,
+    "soal": "Bis apa yang paling pintar?",
+    "jawaban": "Bis-a jawab semua soal ujian"
+  },
+  {
+    "index": 356,
+    "soal": "Kenapa semut bisa angkat beban berat?",
+    "jawaban": "Karena dia rajin gym dari kecil"
+  },
+  {
+    "index": 357,
+    "soal": "Apa bahasa Sundanya marah besar?",
+    "jawaban": "Ambek gedena mah"
+  },
+  {
+    "index": 358,
+    "soal": "Ikan apa yang paling setia?",
+    "jawaban": "Ikan-terus setia sama pacar"
+  },
+  {
+    "index": 359,
+    "soal": "Kenapa jerapah nggak bisa pakai kalung?",
+    "jawaban": "Karena ukuran lehernya XXL"
+  },
+  {
+    "index": 360,
+    "soal": "Apa persamaan laptop sama pacar?",
+    "jawaban": "Sama-sama nge-hang kalau kepanasan"
+  },
+  {
+    "index": 361,
+    "soal": "Teh apa yang paling kuat?",
+    "jawaban": "Teh-han godaan"
+  },
+  {
+    "index": 362,
+    "soal": "Kenapa gajah takut tikus?",
+    "jawaban": "Itu mitos, sebenarnya gajah cuma kaget aja"
+  },
+  {
+    "index": 363,
+    "soal": "Apa bahasa Jepangnya lapar mata?",
+    "jawaban": "Me ga takai"
+  },
+  {
+    "index": 364,
+    "soal": "Buah apa yang paling pemaaf?",
+    "jawaban": "Buah-at kesalahan dan move on"
+  },
+  {
+    "index": 365,
+    "soal": "Kenapa kucing takut air?",
+    "jawaban": "Karena bulunya jadi jelek kalau basah"
+  },
+  {
+    "index": 366,
+    "soal": "Apa perbedaan tas ransel sama tas selempang?",
+    "jawaban": "Ransel di punggung, selempang di bahu, sama-sama buat bawa barang"
+  },
+  {
+    "index": 367,
+    "soal": "Soto apa yang paling fancy?",
+    "jawaban": "Soto-re branded edition"
+  },
+  {
+    "index": 368,
+    "soal": "Kenapa ayam jago suka berkokok pagi hari?",
+    "jawaban": "Karena dia alarm alami sebelum ada smartphone"
+  },
+  {
+    "index": 369,
+    "soal": "Apa bahasa Arabnya cape banget?",
+    "jawaban": "Ta'iban jiddan"
+  },
+  {
+    "index": 370,
+    "soal": "Nasi apa yang paling royal?",
+    "jawaban": "Nasi-hatin uang sama teman"
+  },
+  {
+    "index": 371,
+    "soal": "Kenapa kadal bisa putus ekor?",
+    "jawaban": "Itu skill ultimate buat kabur dari bahaya"
+  },
+  {
+    "index": 372,
+    "soal": "Apa persamaan charger sama pacar?",
+    "jawaban": "Sama-sama bikin hidup penuh energi"
+  },
+  {
+    "index": 373,
+    "soal": "Raja apa yang paling humble?",
+    "jawaban": "Raja-pin kesederhanaan"
+  },
+  {
+    "index": 374,
+    "soal": "Kenapa ikan paus besar banget?",
+    "jawaban": "Karena makan terus nggak pernah diet"
+  },
+  {
+    "index": 375,
+    "soal": "Apa bahasa Inggrisnya lagi galau berat?",
+    "jawaban": "Having a mental breakdown"
+  },
+  {
+    "index": 376,
+    "soal": "Sayur apa yang paling optimis?",
+    "jawaban": "Sayur-aku pasti bisa"
+  },
+  {
+    "index": 377,
+    "soal": "Kenapa domba bulunya tebal?",
+    "jawaban": "Karena dia nggak punya jaket"
+  },
+  {
+    "index": 378,
+    "soal": "Apa perbedaan kopi hitam sama kopi susu?",
+    "jawaban": "Kopi hitam pahit, kopi susu manis, sama-sama bikin melek"
+  },
+  {
+    "index": 379,
+    "soal": "Bis apa yang paling menyeramkan?",
+    "jawaban": "Bis-ik-bisik hantu lewat"
+  },
+  {
+    "index": 380,
+    "soal": "Kenapa lalat susah ditangkap?",
+    "jawaban": "Karena refleksnya kayak pemain game pro"
+  },
+  {
+    "index": 381,
+    "soal": "Apa bahasa Sundanya senang sekali?",
+    "jawaban": "Bungah pisan euy"
+  },
+  {
+    "index": 382,
+    "soal": "Ikan apa yang paling ambisius?",
+    "jawaban": "Ikan-gin jadi CEO"
+  },
+  {
+    "index": 383,
+    "soal": "Kenapa kelabang punya banyak kaki?",
+    "jawaban": "Supaya bisa jalan cepet tanpa sepatu roda"
+  },
+  {
+    "index": 384,
+    "soal": "Apa persamaan hp sama diri sendiri?",
+    "jawaban": "Sama-sama butuh di-charge setiap hari"
+  },
+  {
+    "index": 385,
+    "soal": "Kue apa yang paling peduli?",
+    "jawaban": "Kue-aware sama lingkungan"
+  },
+  {
+    "index": 386,
+    "soal": "Kenapa merpati suka dibawa balap?",
+    "jawaban": "Karena GPS alaminya akurat banget"
+  },
+  {
+    "index": 387,
+    "soal": "Apa bahasa Jepangnya mau istirahat?",
+    "jawaban": "Yasumitai desu"
+  },
+  {
+    "index": 388,
+    "soal": "Buah apa yang paling mandiri?",
+    "jawaban": "Buah-t semuanya sendiri"
+  },
+  {
+    "index": 389,
+    "soal": "Kenapa anjing suka gonggong?",
+    "jawaban": "Karena nggak bisa ngomong bahasa manusia"
+  },
+  {
+    "index": 390,
+    "soal": "Apa perbedaan es krim sama es lilin?",
+    "jawaban": "Es krim creamy, es lilin beku keras, sama-sama dingin"
+  },
+  {
+    "index": 391,
+    "soal": "Soto apa yang paling manis?",
+    "jawaban": "Soto-p nanya kabar kamu"
+  },
+  {
+    "index": 392,
+    "soal": "Kenapa rubah licik?",
+    "jawaban": "Karena dia IQ tinggi, bukan licik tapi cerdik"
+  },
+  {
+    "index": 393,
+    "soal": "Apa bahasa Arabnya sayang banget?",
+    "jawaban": "Uhibbuka katsiiran"
+  },
+  {
+    "index": 394,
+    "soal": "Nasi apa yang paling cool?",
+    "jawaban": "Nasi-onal anthem pas upacara"
+  },
+  {
+    "index": 395,
+    "soal": "Kenapa paus menyanyi?",
+    "jawaban": "Karena dia lagi rekaman album underwater"
+  },
+  {
+    "index": 396,
+    "soal": "Apa persamaan sepatu sama sandal?",
+    "jawaban": "Sama-sama alas kaki, tapi sepatu lebih formal"
+  },
+  {
+    "index": 397,
+    "soal": "Jam apa yang paling ribet?",
+    "jawaban": "Jam-an sekarang, banyak drama"
+  },
+  {
+    "index": 398,
+    "soal": "Kenapa kakatua bisa bicara?",
+    "jawaban": "Karena dia peniru suara profesional"
+  },
+  {
+    "index": 399,
+    "soal": "Apa bahasa Inggrisnya rindu berat?",
+    "jawaban": "Missing you so badly"
+  },
+  {
+    "index": 400,
+    "soal": "Sayur apa yang paling rajin?",
+    "jawaban": "Sayur-ang bangun pagi"
+  },
+  {
+    "index": 401,
+    "soal": "Kenapa hiu gigi nya banyak?",
+    "jawaban": "Supaya nggak perlu ke dokter gigi kalau ada yang copot"
+  },
+  {
+    "index": 402,
+    "soal": "Apa perbedaan gula sama garam?",
+    "jawaban": "Gula manis, garam asin, sama-sama bikin makanan enak"
+  },
+  {
+    "index": 403,
+    "soal": "Bis apa yang paling sedih?",
+    "jawaban": "Bis-a nangis lihat drama korea"
+  },
+  {
+    "index": 404,
+    "soal": "Kenapa babi suka kubangan lumpur?",
+    "jawaban": "Karena dia lagi spa alami gratis"
+  },
+  {
+    "index": 405,
+    "soal": "Apa bahasa Sundanya malu-malu?",
+    "jawaban": "Isin-isin heula"
+  },
+  {
+    "index": 406,
+    "soal": "Ikan apa yang paling kaya raya?",
+    "jawaban": "Ikan-vestasi saham sejak muda"
+  },
+  {
+    "index": 407,
+    "soal": "Kenapa serigala melolong malam hari?",
+    "jawaban": "Karena dia lagi karaoke sama kawanan"
+  },
+  {
+    "index": 408,
+    "soal": "Apa persamaan ember sama hati?",
+    "jawaban": "Sama-sama sakit kalau diisi air mata"
+  },
+  {
+    "index": 409,
+    "soal": "Teh apa yang paling baper?",
+    "jawaban": "Teh-rlalu sensitif"
+  },
+  {
+    "index": 410,
+    "soal": "Kenapa sapi nggak bisa loncat tinggi?",
+    "jawaban": "Karena badannya berat, lompat dikit aja udah capek"
+  },
+  {
+    "index": 411,
+    "soal": "Apa bahasa Jepangnya kangen pacar?",
+    "jawaban": "Koibito ni aitai"
+  },
+  {
+    "index": 412,
+    "soal": "Buah apa yang paling pemalu?",
+    "jawaban": "Buah-lang muka kalau ketemu orang"
+  },
+  {
+    "index": 413,
+    "soal": "Kenapa dinosaurus T-Rex tangannya kecil?",
+    "jawaban": "Karena semua budget nya buat badan sama kaki"
+  },
+  {
+    "index": 414,
+    "soal": "Apa perbedaan tempe sama tahu?",
+    "jawaban": "Tempe dari kedelai difermentasi, tahu nggak, sama-sama protein tinggi"
+  },
+  {
+    "index": 415,
+    "soal": "Soto apa yang paling bijak?",
+    "jawaban": "Soto-p berpikir sebelum bertindak"
+  },
+  {
+    "index": 416,
+    "soal": "Kenapa kelelawar tidur terbalik?",
+    "jawaban": "Karena dia suka sudut pandang yang berbeda"
+  },
+  {
+    "index": 417,
+    "soal": "Apa bahasa Arabnya semangat?",
+    "jawaban": "Hamasah wa nasyat"
+  },
+  {
+    "index": 418,
+    "soal": "Nasi apa yang paling hits di sosmed?",
+    "jawaban": "Nasi-onal trending topic"
+  },
+  {
+    "index": 419,
+    "soal": "Kenapa ikan badut lucu?",
+    "jawaban": "Karena dia stand up comedian di dunia bawah laut"
+  },
+  {
+    "index": 420,
+    "soal": "Apa persamaan kunci sama cinta?",
+    "jawaban": "Sama-sama bisa buka dan tutup hati"
+  },
+  {
+    "index": 421,
+    "soal": "Raja apa yang paling kreatif?",
+    "jawaban": "Raja-ng karya seni setiap hari"
+  },
+  {
+    "index": 422,
+    "soal": "Kenapa platipus aneh?",
+    "jawaban": "Karena dia gabungan bebek, berang-berang, sama venomous"
+  },
+  {
+    "index": 423,
+    "soal": "Apa bahasa Inggrisnya mager tingkat dewa?",
+    "jawaban": "Ultimate laziness mode"
+  },
+  {
+    "index": 424,
+    "soal": "Sayur apa yang paling loyal?",
+    "jawaban": "Sayur-etia menemani nasi"
+  },
+  {
+    "index": 425,
+    "soal": "Kenapa burung merak berbulu indah?",
+    "jawaban": "Karena dia fashionista dunia burung"
+  },
+  {
+    "index": 426,
+    "soal": "Apa perbedaan ketan sama beras?",
+    "jawaban": "Ketan lengket, beras biasa, sama-sama dari padi"
+  },
+  {
+    "index": 427,
+    "soal": "Bis apa yang paling misterius?",
+    "jawaban": "Bis-ik rahasia perusahaan"
+  },
+  {
+    "index": 428,
+    "soal": "Kenapa beruang tidur saat musim dingin?",
+    "jawaban": "Karena nggak ada Netflix jadi mending tidur aja"
+  },
+  {
+    "index": 429,
+    "soal": "Apa bahasa Sundanya sakit perut?",
+    "jawaban": "Nyeri beuteung"
+  },
+  {
+    "index": 430,
+    "soal": "Ikan apa yang paling filosofis?",
+    "jawaban": "Ikan-gin tahu makna kehidupan"
+  },
+  {
+    "index": 431,
+    "soal": "Kenapa elang botak kepalanya gundul?",
+    "jawaban": "Karena stress mikirin anak-anaknya"
+  },
+  {
+    "index": 432,
+    "soal": "Apa persamaan awan sama pikiran?",
+    "jawaban": "Sama-sama suka melayang kemana-mana"
+  },
+  {
+    "index": 433,
+    "soal": "Kue apa yang paling mysterious?",
+    "jawaban": "Kue-sioner yang nggak dijawab"
+  },
+  {
+    "index": 434,
+    "soal": "Kenapa rusa punya tanduk?",
+    "jawaban": "Buat aksesoris kepala sekaligus senjata"
+  },
+  {
+    "index": 435,
+    "soal": "Apa bahasa Jepangnya lagi males?",
+    "jawaban": "Mendokusai na"
+  },
+  {
+    "index": 436,
+    "soal": "Buah apa yang paling produktif?",
+    "jawaban": "Buah-t karya setiap hari"
+  },
+  {
+    "index": 437,
+    "soal": "Kenapa cheetah lari cepat?",
+    "jawaban": "Karena dia atlet olimpiade dunia hewan"
+  },
+  {
+    "index": 438,
+    "soal": "Apa perbedaan mie goreng sama mie rebus?",
+    "jawaban": "Mie goreng kering, mie rebus berkuah, sama-sama enak"
+  },
+  {
+    "index": 439,
+    "soal": "Soto apa yang paling update?",
+    "jawaban": "Soto-p follow trend terbaru"
+  },
+  {
+    "index": 440,
+    "soal": "Kenapa kepompong berubah jadi kupu-kupu?",
+    "jawaban": "Karena dia lagi glow up transformation"
+  },
+  {
+    "index": 441,
+    "soal": "Apa bahasa Arabnya lagi happy?",
+    "jawaban": "Ana sa'id jiddan"
+  },
+  {
+    "index": 442,
+    "soal": "Nasi apa yang paling fashionable?",
+    "jawaban": "Nasi-onel fashion week"
+  },
+  {
+    "index": 443,
+    "soal": "Kenapa komodo bisa kebal racun?",
+    "jawaban": "Karena sistem imunnya level maksimal"
+  },
+  {
+    "index": 444,
+    "soal": "Apa persamaan lilin sama harapan?",
+    "jawaban": "Sama-sama bisa menerangi kegelapan"
+  },
+  {
+    "index": 445,
+    "soal": "Jam apa yang paling berharga di dunia?",
+    "jawaban": "Jam-an kecil yang nggak bisa diulang"
+  },
+  {
+    "index": 446,
+    "soal": "Kenapa kupu-kupu cantik?",
+    "jawaban": "Karena effort transformasinya nggak main-main"
+  },
+  {
+    "index": 447,
+    "soal": "Apa bahasa Inggrisnya makan kenyang?",
+    "jawaban": "Eat until full... very full"
+  },
+  {
+    "index": 448,
+    "soal": "Sayur apa yang paling cerdas?",
+    "jawaban": "Sayur-an hidangan yang sehat"
+  },
+  {
+    "index": 449,
+    "soal": "Kenapa udang melengkung?",
+    "jawaban": "Karena dia yoga pose permanent"
+  },
+  {
+    "index": 450,
+    "soal": "Apa perbedaan bakwan sama gorengan?",
+    "jawaban": "Bakwan isi sayur, gorengan istilah umum, sama-sama gurih"
+  },
+  {
+    "index": 451,
+    "soal": "Bis apa yang paling sayang keluarga?",
+    "jawaban": "Bis-a luangkan waktu berkualitas"
+  },
+  {
+    "index": 452,
+    "soal": "Kenapa penyu hidup lama?",
+    "jawaban": "Karena dia low stress lifestyle"
+  },
+  {
+    "index": 453,
+    "soal": "Apa bahasa Sundanya capek banget?",
+    "jawaban": "Butuh pisan euy"
+  },
+  {
+    "index": 454,
+    "soal": "Ikan apa yang paling ambisius?",
+    "jawaban": "Ikan-car target tahun ini"
+  },
+  {
+    "index": 455,
+    "soal": "Kenapa kelinci telinganya panjang?",
+    "jawaban": "Supaya bisa denger predator dari jauh"
+  },
+  {
+    "index": 456,
+    "soal": "Apa persamaan buku sama pikiran?",
+    "jawaban": "Sama-sama penuh cerita dan pengetahuan"
+  },
+  {
+    "index": 457,
+    "soal": "Teh apa yang paling viral?",
+    "jawaban": "Teh-rlalu heboh sampai trending"
+  },
+  {
+    "index": 458,
+    "soal": "Kenapa anoa langka?",
+    "jawaban": "Karena habitatnya makin sempit"
+  },
+  {
+    "index": 459,
+    "soal": "Apa bahasa Jepangnya terima kasih banyak?",
+    "jawaban": "Honto ni arigato gozaimasu"
+  },
+  {
+    "index": 460,
+    "soal": "Buah apa yang paling konsisten?",
+    "jawaban": "Buah-t usaha setiap hari"
+  },
+  {
+    "index": 461,
+    "soal": "Kenapa kuda laut jantan yang hamil?",
+    "jawaban": "Karena equality di dunia bawah laut next level"
+  },
+  {
+    "index": 462,
+    "soal": "Apa perbedaan keju sama mentega?",
+    "jawaban": "Keju padat, mentega lembek, sama-sama dari susu"
+  },
+  {
+    "index": 463,
+    "soal": "Soto apa yang paling ambisius?",
+    "jawaban": "Soto-p kejar mimpi tertinggi"
+  },
+  {
+    "index": 464,
+    "soal": "Kenapa berang-berang bikin bendungan?",
+    "jawaban": "Karena dia insinyur sipil alami"
+  },
+  {
+    "index": 465,
+    "soal": "Apa bahasa Arabnya semoga sukses?",
+    "jawaban": "Rabba yuwaffiquka"
+  },
+  {
+    "index": 466,
+    "soal": "Nasi apa yang paling humble?",
+    "jawaban": "Nasi-h ati tetap rendah hati"
+  },
+  {
+    "index": 467,
+    "soal": "Kenapa jangkrik bunyi malam hari?",
+    "jawaban": "Karena dia DJ malam alam"
+  },
+  {
+    "index": 468,
+    "soal": "Apa persamaan jam sama waktu?",
+    "jawaban": "Sama-sama nggak bisa diulang kalau udah lewat"
+  },
+  {
+    "index": 469,
+    "soal": "Raja apa yang paling bijaksana?",
+    "jawaban": "Raja-ga alam yang adil"
+  },
+  {
+    "index": 470,
+    "soal": "Kenapa macan tutul berbintik?",
+    "jawaban": "Karena dia limited edition design"
+  },
+  {
+    "index": 471,
+    "soal": "Apa bahasa Inggrisnya lagi BT?",
+    "jawaban": "Bad mood... very bad mood"
+  },
+  {
+    "index": 472,
+    "soal": "Sayur apa yang paling inspiratif?",
+    "jawaban": "Sayur-an motivator kehidupan"
+  },
+  {
+    "index": 473,
+    "soal": "Kenapa laba-laba bikin jaring geometris?",
+    "jawaban": "Karena dia arsitek berpengalaman"
+  },
+  {
+    "index": 474,
+    "soal": "Apa perbedaan waffle sama pancake?",
+    "jawaban": "Waffle ada kotak-kotak, pancake bulat polos, sama-sama enak"
+  },
+  {
+    "index": 475,
+    "soal": "Bis apa yang paling inspiring?",
+    "jawaban": "Bis-a jadi motivasi orang"
+  },
+  {
+    "index": 476,
+    "soal": "Kenapa ikan pari ekornya menyengat?",
+    "jawaban": "Karena self defense mechanism nya canggih"
+  },
+  {
+    "index": 477,
+    "soal": "Apa bahasa Sundanya rindu berat?",
+    "jawaban": "Hayang papanggih pisan"
+  },
+  {
+    "index": 478,
+    "soal": "Ikan apa yang paling spiritual?",
+    "jawaban": "Ikan-terus beribadah"
+  },
+  {
+    "index": 479,
+    "soal": "Kenapa iguana hijau?",
+    "jawaban": "Biar kamuflase sempurna di pohon"
+  },
+  {
+    "index": 480,
+    "soal": "Apa persamaan kopi sama semangat?",
+    "jawaban": "Sama-sama bikin melek dan produktif"
+  },
+  {
+    "index": 481,
+    "soal": "Kue apa yang paling wise?",
+    "jawaban": "Kue-bijak mengambil keputusan"
+  },
+  {
+    "index": 482,
+    "soal": "Kenapa kura-kura laut bisa navigasi ribuan kilometer?",
+    "jawaban": "Karena GPS alaminya akurat banget"
+  },
+  {
+    "index": 483,
+    "soal": "Apa bahasa Jepangnya minta maaf?",
+    "jawaban": "Gomen nasai"
+  },
+  {
+    "index": 484,
+    "soal": "Buah apa yang paling sabar?",
+    "jawaban": "Buah-ngun dari proses panjang"
+  },
+  {
+    "index": 485,
+    "soal": "Kenapa kanguru lompat-lompat?",
+    "jawaban": "Karena kaki belakangnya powerful banget"
+  },
+  {
+    "index": 486,
+    "soal": "Apa perbedaan coklat hitam sama coklat putih?",
+    "jawaban": "Coklat hitam pahit, coklat putih manis, beda kandungan kakao"
+  },
+  {
+    "index": 487,
+    "soal": "Soto apa yang paling caring?",
+    "jawaban": "Soto-long orang yang butuh bantuan"
+  },
+  {
+    "index": 488,
+    "soal": "Kenapa lumba-lumba cerdas?",
+    "jawaban": "Karena otaknya besar dan kompleks"
+  },
+  {
+    "index": 489,
+    "soal": "Apa bahasa Arabnya maaf ya?",
+    "jawaban": "Aafwan ya akhi"
+  },
+  {
+    "index": 490,
+    "soal": "Nasi apa yang paling optimis?",
+    "jawaban": "Nasi-yakin masa depan cerah"
+  },
+  {
+    "index": 491,
+    "soal": "Kenapa gorila dadanya gede?",
+    "jawaban": "Karena dia rajin push up sejak kecil"
+  },
+  {
+    "index": 492,
+    "soal": "Apa persamaan pensil sama kehidupan?",
+    "jawaban": "Sama-sama punya kesempatan untuk hapus kesalahan"
+  },
+  {
+    "index": 493,
+    "soal": "Jam apa yang paling precious?",
+    "jawaban": "Jam-an bersama keluarga tercinta"
+  },
+  {
+    "index": 494,
+    "soal": "Kenapa kasuari berbahaya?",
+    "jawaban": "Karena cakarnya tajam kayak pisau"
+  },
+  {
+    "index": 495,
+    "soal": "Apa bahasa Inggrisnya lagi sedih banget?",
+    "jawaban": "Feeling so down and blue"
+  },
+  {
+    "index": 496,
+    "soal": "Sayur apa yang paling determined?",
+    "jawaban": "Sayur-ah pantang menyerah"
+  },
+  {
+    "index": 497,
+    "soal": "Kenapa bunglon lambat geraknya?",
+    "jawaban": "Karena fokusnya ke kamuflase, bukan kecepatan"
+  },
+  {
+    "index": 498,
+    "soal": "Apa perbedaan cupcake sama muffin?",
+    "jawaban": "Cupcake lebih manis dengan frosting, muffin lebih simple"
+  },
+  {
+    "index": 499,
+    "soal": "Bis apa yang paling baik hati?",
+    "jawaban": "Bis-a berbagi dengan sesama"
+  },
+  {
+    "index": 500,
+    "soal": "Kenapa kucing punya kumis?",
+    "jawaban": "Biar keliatan kece dan bisa navigasi di tempat gelap"
+  },
+  {
+    "index": 501,
+    "soal": "Apa bahasa Sundanya lapar banget?",
+    "jawaban": "Ngarasa lapar pisan euy"
+  },
+  {
+    "index": 502,
+    "soal": "Ikan apa yang paling fashionable?",
+    "jawaban": "Ikan-kuti tren fashion terbaru"
+  },
+  {
+    "index": 503,
+    "soal": "Kenapa flamingo berdiri satu kaki?",
+    "jawaban": "Karena kalau angkat dua-duanya nanti jatuh"
+  },
+  {
+    "index": 504,
+    "soal": "Apa persamaan hujan sama rizki?",
+    "jawaban": "Sama-sama datang dari atas dan nggak bisa ditebak"
+  },
+  {
+    "index": 505,
+    "soal": "Teh apa yang paling setia?",
+    "jawaban": "Teh-tap di sisi kamu"
+  },
+  {
+    "index": 506,
+    "soal": "Kenapa armadillo punya armor?",
+    "jawaban": "Karena dia knight of the animal kingdom"
+  },
+  {
+    "index": 507,
+    "soal": "Apa bahasa Jepangnya lagi galau cinta?",
+    "jawaban": "Koi ni nayanderu"
+  },
+  {
+    "index": 508,
+    "soal": "Buah apa yang paling rajin nabung?",
+    "jawaban": "Buah-t tabungan masa depan"
+  },
+  {
+    "index": 509,
+    "soal": "Kenapa cacing tanah nggak punya mata?",
+    "jawaban": "Karena di dalam tanah gelap juga percuma"
+  },
+  {
+    "index": 510,
+    "soal": "Apa perbedaan brownies sama bolu?",
+    "jawaban": "Brownies coklat pekat, bolu lebih fluffy, sama-sama enak"
+  },
+  {
+    "index": 511,
+    "soal": "Soto apa yang paling peduli lingkungan?",
+    "jawaban": "Soto-p buang sampah pada tempatnya"
+  },
+  {
+    "index": 512,
+    "soal": "Kenapa kumbang kotoran guling-guling kotoran?",
+    "jawaban": "Karena itu makanan sekaligus rumahnya"
+  },
+  {
+    "index": 513,
+    "soal": "Apa bahasa Arabnya terserah kamu?",
+    "jawaban": "Kaifa ma turidu"
+  },
+  {
+    "index": 514,
+    "soal": "Nasi apa yang paling tekun?",
+    "jawaban": "Nasi-buk belajar terus"
+  },
+  {
+    "index": 515,
+    "soal": "Kenapa burung kolibri bisa hover?",
+    "jawaban": "Karena sayapnya ngepak super cepat kayak drone"
+  },
+  {
+    "index": 516,
+    "soal": "Apa persamaan bintang sama cita-cita?",
+    "jawaban": "Sama-sama tinggi dan harus diperjuangkan"
+  },
+  {
+    "index": 517,
+    "soal": "Raja apa yang paling peduli rakyat?",
+    "jawaban": "Raja-kyat sejahtera"
+  },
+  {
+    "index": 518,
+    "soal": "Kenapa sigung bau?",
+    "jawaban": "Karena itu senjata pertahanan terakhirnya"
+  },
+  {
+    "index": 519,
+    "soal": "Apa bahasa Inggrisnya lagi males total?",
+    "jawaban": "Zero motivation today"
+  },
+  {
+    "index": 520,
+    "soal": "Sayur apa yang paling kuat?",
+    "jawaban": "Sayur-an superhero"
+  },
+  {
+    "index": 521,
+    "soal": "Kenapa tarsius matanya gede banget?",
+    "jawaban": "Supaya bisa lihat di malam hari dengan jelas"
+  },
+  {
+    "index": 522,
+    "soal": "Apa perbedaan donat sama bagel?",
+    "jawaban": "Donat manis dan empuk, bagel lebih padat dan asin"
+  },
+  {
+    "index": 523,
+    "soal": "Bis apa yang paling jujur?",
+    "jawaban": "Bis-a bilang apa adanya"
+  },
+  {
+    "index": 524,
+    "soal": "Kenapa ikan archer bisa menyembur air?",
+    "jawaban": "Karena dia sniper dunia ikan"
+  },
+  {
+    "index": 525,
+    "soal": "Apa bahasa Sundanya bahagia sekali?",
+    "jawaban": "Bagja pisan hate ieu mah"
+  },
+  {
+    "index": 526,
+    "soal": "Ikan apa yang paling religius?",
+    "jawaban": "Ikan-terus berdoa"
+  },
+  {
+    "index": 527,
+    "soal": "Kenapa kuda zebra belang?",
+    "jawaban": "Biar lalat bingung mau hinggap di mana"
+  },
+  {
+    "index": 528,
+    "soal": "Apa persamaan gitar sama hidup?",
+    "jawaban": "Sama-sama butuh senar yang pas buat menghasilkan nada indah"
+  },
+  {
+    "index": 529,
+    "soal": "Kue apa yang paling sabar?",
+    "jawaban": "Kue-nunggu dipanggang sampai matang"
+  },
+  {
+    "index": 530,
+    "soal": "Kenapa ngengat suka ke lampu?",
+    "jawaban": "Karena dia pikir itu bulan"
+  },
+  {
+    "index": 531,
+    "soal": "Apa bahasa Jepangnya lagi capek kerja?",
+    "jawaban": "Shigoto de tsukareta"
+  },
+  {
+    "index": 532,
+    "soal": "Buah apa yang paling powerful?",
+    "jawaban": "Buah-t perubahan besar"
+  },
+  {
+    "index": 533,
+    "soal": "Kenapa axolotl bisa regenerasi?",
+    "jawaban": "Karena super power alaminya emang gila"
+  },
+  {
+    "index": 534,
+    "soal": "Apa perbedaan pizza sama martabak?",
+    "jawaban": "Pizza dari Italia, martabak dari India, sama-sama enak pakai topping"
+  },
+  {
+    "index": 535,
+    "soal": "Soto apa yang paling loyal?",
+    "jawaban": "Soto-p setia nemenin kamu"
+  },
+  {
+    "index": 536,
+    "soal": "Kenapa tardigrade nggak mati-mati?",
+    "jawaban": "Karena dia makhluk terkuat di bumi"
+  },
+  {
+    "index": 537,
+    "soal": "Apa bahasa Arabnya senang bertemu?",
+    "jawaban": "Sa'id bi liqaika"
+  },
+  {
+    "index": 538,
+    "soal": "Nasi apa yang paling disiplin?",
+    "jawaban": "Nasi-pat waktu selalu"
+  },
+  {
+    "index": 539,
+    "soal": "Kenapa bintang laut punya 5 lengan?",
+    "jawaban": "Biar bisa pegang banyak hal sekaligus"
+  },
+  {
+    "index": 540,
+    "soal": "Apa persamaan bunga sama senyuman?",
+    "jawaban": "Sama-sama bisa mencerahkan hari orang"
+  },
+  {
+    "index": 541,
+    "soal": "Jam apa yang paling berharga buat ibu?",
+    "jawaban": "Jam-an melahirkan anaknya"
+  },
+  {
+    "index": 542,
+    "soal": "Kenapa angsa setia sama pasangan?",
+    "jawaban": "Karena dia relationship goals dunia hewan"
+  },
+  {
+    "index": 543,
+    "soal": "Apa bahasa Inggrisnya lagi hopeless?",
+    "jawaban": "Feeling so hopeless and lost"
+  },
+  {
+    "index": 544,
+    "soal": "Sayur apa yang paling bijak?",
+    "jawaban": "Sayur-uh nasihat yang baik"
+  },
+  {
+    "index": 545,
+    "soal": "Kenapa gecko bisa jalan di langit-langit?",
+    "jawaban": "Karena kakinya punya jutaan rambut nano"
+  },
+  {
+    "index": 546,
+    "soal": "Apa perbedaan sushi sama sashimi?",
+    "jawaban": "Sushi pakai nasi, sashimi cuma ikan mentah"
+  },
+  {
+    "index": 547,
+    "soal": "Bis apa yang paling gentle?",
+    "jawaban": "Bis-a sopan sama semua orang"
+  },
+  {
+    "index": 548,
+    "soal": "Kenapa udang mantis pukulannya kuat?",
+    "jawaban": "Karena dia petinju heavyweight dunia laut"
+  },
+  {
+    "index": 549,
+    "soal": "Apa bahasa Sundanya lagi sedih?",
+    "jawaban": "Sedih hate ieu mah"
+  },
+  {
+    "index": 550,
+    "soal": "Ikan apa yang paling humble?",
+    "jawaban": "Ikan-gak sombong walau terkenal"
+  },
+  {
+    "index": 551,
+    "soal": "Kenapa wombat kotorannya kotak?",
+    "jawaban": "Karena ususnya bentuknya unik banget"
+  },
+  {
+    "index": 552,
+    "soal": "Apa persamaan matahari sama harapan?",
+    "jawaban": "Sama-sama terbit setiap hari memberi cahaya"
+  },
+  {
+    "index": 553,
+    "soal": "Teh apa yang paling positif?",
+    "jawaban": "Teh-tap optimis menghadapi hari"
+  },
+  {
+    "index": 554,
+    "soal": "Kenapa ayam mutiara berbintik?",
+    "jawaban": "Karena fashion sense nya on point"
+  },
+  {
+    "index": 555,
+    "soal": "Apa bahasa Jepangnya tolong bantu?",
+    "jawaban": "Tasukete kudasai"
+  },
+  {
+    "index": 556,
+    "soal": "Buah apa yang paling visioner?",
+    "jawaban": "Buah-t visi misi yang jelas"
+  },
+  {
+    "index": 557,
+    "soal": "Kenapa narwhal punya tanduk?",
+    "jawaban": "Itu sebenarnya gigi yang tumbuh panjang"
+  },
+  {
+    "index": 558,
+    "soal": "Apa perbedaan burger sama sandwich?",
+    "jawaban": "Burger pakai roti bulat, sandwich roti tawar, sama-sama enak"
+  },
+  {
+    "index": 559,
+    "soal": "Soto apa yang paling supportive?",
+    "jawaban": "Soto-p dukung mimpi kamu"
+  },
+  {
+    "index": 560,
+    "soal": "Kenapa ikan puffer bisa mengembang?",
+    "jawaban": "Karena itu defense mechanism nya yang unik"
+  },
+  {
+    "index": 561,
+    "soal": "Apa bahasa Arabnya semoga lancar?",
+    "jawaban": "Rabba yassir wa la tu'assir"
+  },
+  {
+    "index": 562,
+    "soal": "Nasi apa yang paling inspiring?",
+    "jawaban": "Nasi-hat motivasi setiap hari"
+  },
+  {
+    "index": 563,
+    "soal": "Kenapa musang luak bikin kopi mahal?",
+    "jawaban": "Karena sistem pencernaannya fermentasi alami"
+  },
+  {
+    "index": 564,
+    "soal": "Apa persamaan ombak sama kehidupan?",
+    "jawaban": "Sama-sama naik turun nggak bisa ditebak"
+  },
+  {
+    "index": 565,
+    "soal": "Raja apa yang paling adil?",
+    "jawaban": "Raja-sa keadilan untuk semua"
+  },
+  {
+    "index": 566,
+    "soal": "Kenapa belut licin?",
+    "jawaban": "Supaya predator susah tangkap dia"
+  },
+  {
+    "index": 567,
+    "soal": "Apa bahasa Inggrisnya lagi down banget?",
+    "jawaban": "Feeling really depressed today"
+  },
+  {
+    "index": 568,
+    "soal": "Sayur apa yang paling smart?",
+    "jawaban": "Sayur-an genius"
+  },
+  {
+    "index": 569,
+    "soal": "Kenapa kakatua bisa hidup lama?",
+    "jawaban": "Karena metabolismenya lambat dan sehat"
+  },
+  {
+    "index": 570,
+    "soal": "Apa perbedaan cappuccino sama latte?",
+    "jawaban": "Cappuccino foam lebih tebal, latte susunya lebih banyak"
+  },
+  {
+    "index": 571,
+    "soal": "Bis apa yang paling empathetic?",
+    "jawaban": "Bis-a ngerasain perasaan orang"
+  },
+  {
+    "index": 572,
+    "soal": "Kenapa axolotl tetap larva selamanya?",
+    "jawaban": "Karena dia Peter Pan dunia amfibi"
+  },
+  {
+    "index": 573,
+    "soal": "Apa bahasa Sundanya mau pulang?",
+    "jawaban": "Hoyong mulih euy"
+  },
+  {
+    "index": 574,
+    "soal": "Ikan apa yang paling dermawan?",
+    "jawaban": "Ikan-fak banyak orang"
+  },
+  {
+    "index": 575,
+    "soal": "Kenapa meerkat suka berdiri?",
+    "jawaban": "Biar bisa jadi penjaga wilayah yang baik"
+  },
+  {
+    "index": 576,
+    "soal": "Apa persamaan pelangi sama diversity?",
+    "jawaban": "Sama-sama indah karena punya banyak warna"
+  },
+  {
+    "index": 577,
+    "soal": "Kue apa yang paling thankful?",
+    "jawaban": "Kue-syukuran kesuksesan"
+  },
+  {
+    "index": 578,
+    "soal": "Kenapa babi rusa taringnya bengkok?",
+    "jawaban": "Karena evolusi kasih dia style unik"
+  },
+  {
+    "index": 579,
+    "soal": "Apa bahasa Jepangnya mohon tunggu?",
+    "jawaban": "Chotto matte kudasai"
+  },
+  {
+    "index": 580,
+    "soal": "Buah apa yang paling grateful?",
+    "jawaban": "Buah-t syukur setiap hari"
+  },
+  {
+    "index": 581,
+    "soal": "Kenapa ikan nemo oranye putih?",
+    "jawaban": "Biar gampang dikenali sama penonton film"
+  },
+  {
+    "index": 582,
+    "soal": "Apa perbedaan ramen sama mie ayam?",
+    "jawaban": "Ramen dari Jepang kuahnya kental, mie ayam lokal lebih simple"
+  },
+  {
+    "index": 583,
+    "soal": "Soto apa yang paling passionate?",
+    "jawaban": "Soto-p kejar passion dengan semangat"
+  },
+  {
+    "index": 584,
+    "soal": "Kenapa cendrawasih bulu ekornya panjang?",
+    "jawaban": "Buat menarik pasangan dengan style"
+  },
+  {
+    "index": 585,
+    "soal": "Apa bahasa Arabnya semoga sehat?",
+    "jawaban": "Rabba yahfadhuka"
+  },
+  {
+    "index": 586,
+    "soal": "Nasi apa yang paling positive vibes?",
+    "jawaban": "Nasi-arkan energi positif"
+  },
+  {
+    "index": 587,
+    "soal": "Kenapa echidna bertelur padahal mamalia?",
+    "jawaban": "Karena dia monotreme yang unik"
+  },
+  {
+    "index": 588,
+    "soal": "Apa persamaan api sama semangat?",
+    "jawaban": "Sama-sama bisa menerangi dan menghangatkan"
+  },
+  {
+    "index": 589,
+    "soal": "Jam apa yang paling magical?",
+    "jawaban": "Jam-an childhood yang penuh keajaiban"
+  },
+  {
+    "index": 590,
+    "soal": "Kenapa sugar glider bisa melayang?",
+    "jawaban": "Karena punya membran kulit kayak parasut"
+  },
+  {
+    "index": 591,
+    "soal": "Apa bahasa Inggrisnya lagi bete?",
+    "jawaban": "Feeling annoyed and irritated"
+  },
+  {
+    "index": 592,
+    "soal": "Sayur apa yang paling adventurous?",
+    "jawaban": "Sayur-an petualangan seru"
+  },
+  {
+    "index": 593,
+    "soal": "Kenapa alpaca ludahnya jitu?",
+    "jawaban": "Karena itu senjata pertahanannya yang efektif"
+  },
+  {
+    "index": 594,
+    "soal": "Apa perbedaan croissant sama roti biasa?",
+    "jawaban": "Croissant berlapis-lapis dan buttery, roti biasa lebih simple"
+  },
+  {
+    "index": 595,
+    "soal": "Bis apa yang paling positive?",
+    "jawaban": "Bis-a lihat sisi baik dari segalanya"
+  },
+  {
+    "index": 596,
+    "soal": "Kenapa slow loris punya racun?",
+    "jawaban": "Biar nggak dikira hewan lemah"
+  },
+  {
+    "index": 597,
+    "soal": "Apa bahasa Sundanya terima kasih banyak?",
+    "jawaban": "Hatur nuhun pisan"
+  },
+  {
+    "index": 598,
+    "soal": "Ikan apa yang paling brave?",
+    "jawaban": "Ikan-dapi bahaya tetap maju"
+  },
+  {
+    "index": 599,
+    "soal": "Kenapa kucing maine coon gede banget?",
+    "jawaban": "Karena genetiknya memang untuk jadi kucing raksasa"
+  },
+  {
+    "index": 600,
+    "soal": "Apa persamaan buku sama jendela?",
+    "jawaban": "Sama-sama bisa membuka pandangan ke dunia baru"
+  }
 ]
