@@ -1,0 +1,486 @@
+[
+  {
+    "soal": "Siapakah hero assassin dengan kemampuan untuk mengendalikan bayangan dan memberikan damage besar dengan serangan cepat serta menghindari musuh?",
+    "jawaban": "Aamon"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan memutar tubuhnya dan memberikan efek knockback kepada musuh?",
+    "jawaban": "Akai"
+  },
+  {
+    "soal": "Hero dengan kemampuan menyerang musuh dengan pukulan kuat dan dapat mengabaikan crowd control?",
+    "jawaban": "Aldous"
+  },
+  {
+    "soal": "Hero dengan kemampuan mengendalikan sihir dan menyerap kekuatan musuh untuk memperkuat dirinya?",
+    "jawaban": "Alice"
+  },
+  {
+    "soal": "Hero dengan kemampuan memberikan damage besar dan memperkuat dirinya setiap kali menyerang musuh?",
+    "jawaban": "Alpha"
+  },
+  {
+    "soal": "Hero dengan kemampuan melakukan serangan jarak dekat dengan pedang dan memiliki kemampuan untuk memulihkan HP?",
+    "jawaban": "Alucard"
+  },
+  {
+    "soal": "Siapakah hero support di Mobile Legends yang memiliki kemampuan untuk menyembuhkan, mengendalikan musuh, dan melindungi sekutu dari jarak jauh?",
+    "jawaban": "Angela"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan menggempur musuh dengan serangan cepat dan memberikan damage area?",
+    "jawaban": "Arlott"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan memberikan damage tinggi dan memiliki kekuatan hidup yang besar?",
+    "jawaban": "Argus"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan mengendalikan es dan memberikan damage area yang besar?",
+    "jawaban": "Aurora"
+  },
+  {
+    "soal": "Hero dengan kemampuan menyerang dengan senjata besar dan memberikan damage tinggi di area sekitar?",
+    "jawaban": "Aulus"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan menyerang jarak dekat dan memiliki jurus memukul dengan tangan kosong?",
+    "jawaban": "Badang"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang dikenal sebagai pemimpin pasukan Orc dan memiliki kemampuan regenerasi HP setelah membunuh musuh?",
+    "jawaban": "Balmond"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan memakan musuh dan melemparnya dengan damage besar?",
+    "jawaban": "Barats"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan memutar tubuhnya dan memberikan damage serta efek slow kepada musuh?",
+    "jawaban": "Baxia"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan mengganti senjata dan memberikan damage tinggi dari jarak jauh?",
+    "jawaban": "Beatrix"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan melindungi teman dan memberikan damage ke musuh di sekitar?",
+    "jawaban": "Belerick"
+  },
+  {
+    "soal": "Hero assassin dengan kecepatan tinggi dan kemampuan menghindari serangan musuh?",
+    "jawaban": "Benedetta"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang dikenal sebagai 'The Lone Star' dan memiliki Basic Attack yang lambat namun kuat?",
+    "jawaban": "Brody"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan damage besar melalui bola dan serangan area?",
+    "jawaban": "Bruno"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan mengendalikan darah dan memberikan efek crowd control kepada musuh?",
+    "jawaban": "Carmilla"
+  },
+  {
+    "soal": "Hero dengan kemampuan menyerang musuh dari jarak jauh dan menggunakan kekuatan gelap untuk memberikan damage area?",
+    "jawaban": "Cecilion"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan menggunakan kekuatan bulan untuk memberikan damage tinggi ke musuh?",
+    "jawaban": "Chang’e"
+  },
+  {
+    "soal": "Siapakah hero yang sering digunakan untuk melakukan pick-off dengan combo knock-up dan tendangan?",
+    "jawaban": "Chou"
+  },
+  {
+  "soal": "Siapakah hero tank/support yang dikenal sebagai 'Phase Technician' dengan kemampuan menciptakan portal untuk teleportasi rekan tim dan mengendalikan pergerakan musuh?",
+  "jawaban": "Chip"
+},
+  {
+    "soal": "Apa nama skill ultimate Cici yang menghubungkan dua hero musuh, memperlambat mereka, dan memungkinkan Cici menyerang keduanya secara bersamaan?",
+    "jawaban": "Cici"
+  },
+  {
+    "soal": "Siapakah hero Marksman di Mobile Legends yang bertarung bersama monyet bernama Dexter dan memiliki ultimate area dengan serangan cepat?",
+    "jawaban": "Claude"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan damage jarak jauh dengan kekuatan serangan yang sangat besar?",
+    "jawaban": "Clint"
+  },
+  {
+    "soal": "Siapakah hero mage yang dikenal sebagai 'Starsoul Magician', yang memiliki kemampuan mengurangi cooldown skill setiap kali mengenai musuh dengan skill-nya?",
+    "jawaban": "Cyclops"
+  },
+  {
+    "soal": "Siapakah hero support yang memiliki kemampuan untuk melindungi teman-temannya dengan membuat waktu menjadi lebih lambat?",
+    "jawaban": "Diggie"
+  },
+  {
+    "soal": "Siapakah hero Fighter di Mobile Legends yang dikenal sebagai 'Prince of the Abyss' dan memiliki kemampuan untuk mengurangi Physical Defense lawan secara signifikan?",
+    "jawaban": "Dyrroth"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang dikenal sebagai 'The Forsaken Warden' dan merupakan kombinasi tank dan marksman?",
+    "jawaban": "Edith"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan untuk mengendalikan energi bulan dan memberikan damage besar serta shield kepada diri sendiri?",
+    "jawaban": "Esmeralda"
+  },
+  {
+    "soal": "Hero support yang dapat menyembuhkan teman-temannya dan memberikan efek regen HP dalam area tertentu?",
+    "jawaban": "Estes"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan untuk memberikan stun dan damage yang besar menggunakan kekuatan petir?",
+    "jawaban": "Eudora"
+  },
+  {
+    "soal": "Siapakah hero assassin dengan kemampuan bergerak cepat dan dapat terbang menggunakan kabel?",
+    "jawaban": "Fanny"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan untuk mengendalikan jiwa dan memberikan efek crowd control kepada musuh?",
+    "jawaban": "Faramis"
+  },
+  {
+    "soal": "Hero support yang memiliki kemampuan untuk memberikan heal dan mendukung teman dalam pertarungan?",
+    "jawaban": "Floryn"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan untuk menangkap musuh dengan hook dan memberikan kontrol area?",
+    "jawaban": "Franco"
+  },
+  {
+    "soal": "Siapakah hero tank/fighter di Mobile Legends yang menggunakan sistem Action Point dan memiliki ultimate bernama Appraiser’s Wrath?",
+    "jawaban": "Fredrinn"
+  },
+  {
+    "soal": "Siapakah hero wanita di Mobile Legends yang mendapatkan kekuatan dari Valkyrie dan memiliki kemampuan berubah bentuk untuk meningkatkan kekuatan serangannya?",
+    "jawaban": "Freya"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang terinspirasi dari tokoh pewayangan dan dikenal sebagai 'Iron Bone' dengan kekuatan super serta skill taunt area?",
+    "jawaban": "Gatotkaca"
+  },
+  {
+    "soal": "Hero dengan kemampuan untuk mengubah bentuk tubuhnya dan memberikan damage area dengan menempelkan dirinya pada musuh?",
+    "jawaban": "Gloo"
+  },
+  {
+    "soal": "Siapakah hero mage yang dikenal sebagai 'Professor of the Mystics', yang mengandalkan serangan sihir jarak jauh dengan burst damage tinggi dan kemampuan crowd control?",
+    "jawaban": "Gord"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan menembakkan peluru berkecepatan tinggi dan memberikan damage besar kepada musuh?",
+    "jawaban": "Granger"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan untuk memberikan damage area besar dan memiliki kemampuan untuk menghalangi jalur musuh?",
+    "jawaban": "Grock"
+  },
+  {
+    "soal": "Hero assassin dengan kemampuan untuk bergerak cepat dan memberikan serangan mematikan dengan pedangnya?",
+    "jawaban": "Gusion"
+  },
+  {
+    "soal": "Siapakah hero Mage/Fighter di Mobile Legends yang terkenal dengan combo knock-up mematikan dan memiliki skill ultimate bernama 'Violet Requiem'?",
+    "jawaban": "Guinevere"
+  },
+  {
+  "soal": "Siapakah hero Marksman yang dikenal dengan kemampuan serangan berantai melalui Petal Blades dan memiliki kekebalan terhadap efek crowd control saat perisainya aktif?",
+  "jawaban": "Hanabi"
+},
+  {
+    "soal": "Siapakah hero Assassin di Mobile Legends yang mampu memisahkan roh dari tubuhnya untuk menyerang musuh dari jarak jauh tanpa risiko langsung?",
+    "jawaban": "Hanzo"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang dikenal sebagai 'The Time Traveler' dan memiliki kemampuan untuk melompat ke waktu yang berbeda serta menyerang musuh dengan kecepatan luar biasa?",
+    "jawaban": "Harith"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan memberikan damage besar menggunakan kartu yang bisa mengarah ke musuh?",
+    "jawaban": "Harley"
+  },
+  {
+    "soal": "Siapakah hero Assassin di Mobile Legends yang memiliki kemampuan untuk mengirim bayangan ke musuh dan mengalahkan mereka dengan serangan cepat dan mematikan?",
+    "jawaban": "Hayabusa"
+  },
+  {
+    "soal": "Hero assassin dengan kemampuan untuk memberikan damage tinggi dan menyembunyikan dirinya untuk menyerang musuh?",
+    "jawaban": "Helcurt"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan untuk bertarung di garis depan dan memberikan damage besar serta memiliki kemampuan regenerasi HP yang tinggi?",
+    "jawaban": "Hilda"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan untuk memberikan damage besar dengan menggunakan kekuatan bumi dan melindungi teman-temannya?",
+    "jawaban": "Hylos"
+  },
+  {
+    "soal": "Siapakah hero marksman dengan kemampuan menyerang musuh dari jarak jauh dan memanfaatkan hewan peliharaan untuk menyerang?",
+    "jawaban": "Irithel"
+  },
+  {
+    "soal": "Siapakah hero Marksman di Mobile Legends yang dikenal sebagai 'Arclight Outlaw' dan memiliki kemampuan menyerang area luas dengan senjata plasma berteknologi tinggi?",
+    "jawaban": "Ixia"
+  },
+  {
+    "soal": "Siapakah hero tank dengan kemampuan melemparkan robot ke musuh dan memberikan damage serta efek stun?",
+    "jawaban": "Jawhead"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan berubah menjadi mobil dan memberikan serangan mematikan serta menghempaskan musuh?",
+    "jawaban": "Johnson"
+  },
+  {
+  "soal": "Siapakah hero assassin dengan kemampuan dash beruntun yang menghasilkan damage besar jika dilakukan dengan ritme yang tepat, serta memiliki ultimate yang memberikan burst damage area dan kekebalan terhadap efek crowd control?",
+  "jawaban": "Joy"
+},
+  {
+    "soal": "Siapakah hero mage dengan kemampuan mengendalikan kekuatan payung dan memberikan damage serta crowd control kepada musuh?",
+    "jawaban": "Kagura"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan mengendalikan air dan memberikan serangan area serta mengurangi HP musuh secara bertahap?",
+    "jawaban": "Kadita"
+  },
+  {
+    "soal": "Siapakah hero Mobile Legends yang dikenal sebagai 'Nazar King' dan memiliki ultimate yang dapat menekan serta menyeret musuh?",
+    "jawaban": "Kaja"
+  },
+  {
+    "soal": "Siapakah hero Support/Fighter yang dikenal sebagai 'Surging Wave', keturunan dari Great Serpent, yang memiliki kemampuan healing dan crowd control di Mobile Legends?",
+    "jawaban": "Kalea"
+  },
+  {
+    "soal": "Siapakah hero Assassin di Mobile Legends yang memiliki kemampuan untuk mengeliminasi musuh dengan cepat menggunakan skillnya yang dapat memberikan true damage serta mengurangi cooldown setiap kali membunuh musuh?",
+    "jawaban": "Karina"
+  },
+  {
+    "soal": "Siapakah hero Marksman di Mobile Legends yang memiliki kemampuan untuk memberikan true damage pada musuh berdasarkan persentase HP mereka dan menggunakan skill 'Spinning Lightwheel' untuk memberikan damage area?",
+    "jawaban": "Karrie"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan untuk menyerang musuh dengan kekuatan pasir dan memberikan damage serta pengurangan HP musuh?",
+    "jawaban": "Khaleed"
+  },
+  {
+    "soal": "Siapakah hero Tank di Mobile Legends yang dikenal dengan kemampuan untuk menghalau musuh menggunakan skill 'Toughened' dan mengontrol area dengan skill ultimate 'Bouncing Ball'?",
+    "jawaban": "Khufra"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan serangan jarak jauh dengan peluru kimia dan memiliki kemampuan untuk memberikan damage tinggi?",
+    "jawaban": "Kimmy"
+  },
+  {
+    "soal": "Siapakah hero Assassin di Mobile Legends yang terkenal dengan kemampuan untuk melakukan serangan cepat dan lincah menggunakan skill 'Puncture' dan memiliki ultimate 'Phantom Execution' yang memberikan damage besar kepada musuh?",
+    "jawaban": "Lancelot"
+  },
+  {
+    "soal": "Siapakah hero Fighter di Mobile Legends yang memiliki kemampuan untuk mengubah bentuknya menjadi lebih kuat dengan skill 'Ultimate Sword' dan menggunakan kemampuan 'Justice Blade' untuk melancarkan serangan area?",
+    "jawaban": "Lapu-Lapu"
+  },
+  {
+    "soal": "Siapakah hero Marksman di Mobile Legends yang memiliki kemampuan untuk menyerang musuh dari jarak jauh dengan skill 'Malefic Bomb' dan ultimate 'Destruction Rush' yang memberikan damage besar di area luas?",
+    "jawaban": "Layla"
+  },
+  {
+    "soal": "Hero knight dengan kemampuan memanggil kuda dan memberikan serangan besar menggunakan pedang?",
+    "jawaban": "Leomord"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan damage jarak jauh dan menyerang musuh dengan keahlian sniping?",
+    "jawaban": "Lesley"
+  },
+  {
+  "soal": "Siapakah hero assassin yang dikenal dengan kemampuan melompat di antara dinding, memiliki mobilitas tinggi, dan dapat memberikan damage besar dengan serangan kritis?",
+  "jawaban": "Ling"
+},
+  {
+    "soal": "Hero tank dengan kemampuan untuk memberikan damage area dan melindungi teman-temannya dengan menggunakan perisai?",
+    "jawaban": "Lolita"
+  },
+  {
+    "soal": "Siapakah hero Mage di Mobile Legends yang dikenal dengan kemampuannya untuk mengendalikan jarak dan ruang dengan skill 'The Flow' dan dapat mengirimkan sekutu melalui portal menggunakan ultimate 'Black Sun'?",
+    "jawaban": "Luo Yi"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan mengendalikan cahaya dan kegelapan serta memberikan damage yang sangat besar?",
+    "jawaban": "Lunox"
+  },
+  {
+  "soal": "Siapakah hero fighter dengan kemampuan untuk berubah menjadi bentuk 'Sacred Beast' dan memberikan damage area besar menggunakan serangan fisik yang kuat?",
+  "jawaban": "Lukas"
+  },
+  {
+    "soal": "Siapakah hero Fighter di Mobile Legends yang memiliki kemampuan untuk mengendalikan dua senjata besar dan dapat memberikan damage besar kepada musuh dengan skill 'Ashura Aura' dan ultimate 'Decimate'?",
+    "jawaban": "Martis"
+  },
+  {
+    "soal": "Siapakah hero Support di Mobile Legends yang memiliki kemampuan untuk memberikan perlindungan dan mempercepat pergerakan sekutunya, serta menggunakan ultimate 'The Blessing' untuk meluncurkan sekutu ke musuh dan memberikan damage besar?",
+    "jawaban": "Mathilda"
+  },
+  {
+    "soal": "Siapakah hero Fighter di Mobile Legends yang memiliki tiga bar health dan dapat mengorbankan satu bar untuk meningkatkan damage serangannya, serta memiliki skill ultimate 'Unstoppable Force' untuk menyerang musuh?",
+    "jawaban": "Masha"
+  },
+  {
+    "soal": "Siapakah hero Marksman di Mobile Legends yang dikenal dengan kemampuan untuk menggunakan robot bernama 'Plum' untuk memberikan damage, serta skill ultimate 'Go Home' yang memungkinkan dia mengirimkan Plum ke musuh?",
+    "jawaban": "Melissa"
+  },
+  {
+    "soal": "Siapakah hero marksman yang pertama kali dirilis di Mobile Legends dan dikenal dengan kemampuan serangan panahnya?",
+    "jawaban": "Miya"
+  },
+  {
+    "soal": "Siapakah hero Tank di Mobile Legends yang dikenal dengan kemampuan untuk mengendalikan kemarahan dan memiliki ultimate 'Minos Fury' yang memberikan efek stun kepada musuh di sekitarnya?",
+    "jawaban": "Minotaur"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan memberikan damage besar dalam area dan mengendalikan kekuatan kerajaan?",
+    "jawaban": "Minsitthar"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan damage jarak jauh dan memiliki serangan cepat serta dapat menembus musuh?",
+    "jawaban": "Moskov"
+  },
+  {
+  "soal": "Siapakah hero mage/support yang dikenal dengan kemampuan mengubah musuh menjadi makhluk kecil, serta memiliki pasif yang membuatnya kebal terhadap kematian sementara waktu?",
+  "jawaban": "Nana"
+},
+  {
+    "soal": "Hero assassin dengan kemampuan untuk menyelinap dan memberikan serangan mematikan sambil menghilang dari pandangan musuh?",
+    "jawaban": "Natalia"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan memberikan damage tinggi serta kemampuan untuk menembak peluru yang memantul di area musuh?",
+    "jawaban": "Natan"
+  },
+  {
+    "soal": "Siapakah hero assassin di Mobile Legends yang dikenal sebagai 'Cosmic Wayfinder' dan merupakan ayah dari Layla?",
+    "jawaban": "Nolan"
+  },
+  {
+  "soal": "Siapakah hero Mage di Mobile Legends yang dikenal dengan kemampuan untuk mengendalikan energi luar biasa dan dapat memanipulasi ruang serta waktu dengan skill ultimate 'True Overdrive'?",
+    "jawaban": "Novaria"
+  },
+  {
+    "soal": "Siapakah hero Mage di Mobile Legends yang dikenal dengan kemampuan untuk mengendalikan kekuatan angin dan air dengan ultimate 'Swan Song' yang memberikan damage besar di area luas?",
+    "jawaban": "Odette"
+  },
+  {
+    "soal": "Siapakah hero fighter dengan kemampuan untuk memberikan damage besar dan memiliki teknik bertarung yang cepat serta kuat?",
+    "jawaban": "Paquito"
+  },
+  {
+    "soal": "Siapakah hero mage yang dikenal sebagai 'Feather of Heaven', yang dapat berubah menjadi burung untuk mobilitas tinggi dan memiliki ultimate dengan jangkauan luas bernama Feathered Air Strike?",
+    "jawaban": "Pharsa"
+  },
+  {
+  "soal": "Siapakah duo hero marksman yang terdiri dari seorang pemburu dan serigala peliharaannya, yang dikenal dengan kemampuan mengendalikan medan perang melalui jebakan dan serangan gabungan?",
+  "jawaban": "Popol dan Kupa"
+},
+  {
+    "soal": "Siapakah hero support dengan kemampuan untuk menyembuhkan teman-temannya dan memberikan aura penyembuhan di area tertentu?",
+    "jawaban": "Rafaela"
+  },
+  {
+    "soal": "Hero marksman dengan kemampuan berubah menjadi serigala dan memberikan damage fisik besar dalam bentuk serangan jarak dekat dan jauh?",
+    "jawaban": "Roger"
+  },
+  {
+  "soal": "Siapakah hero Fighter/Tank yang dikenal dengan kemampuan crowd control tinggi, spell vamp besar, dan dapat menarik serta men-stun banyak musuh sekaligus dengan sabitnya?",
+  "jawaban": "Ruby"
+},
+  {
+    "soal": "Siapakah hero assassin dengan kemampuan untuk memberikan serangan mematikan menggunakan pedangnya dan melancarkan serangan cepat?",
+    "jawaban": "Saber"
+  },
+  {
+    "soal": "Siapakah hero di Mobile Legends yang memiliki dua bentuk—Elven dan Abyssal—dan dikenal dengan kemampuan stun jarak jauhnya?",
+    "jawaban": "Selena"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan untuk memberikan damage besar dan mengendalikan kecepatan serta meluncurkan serangan beruntun?",
+    "jawaban": "Silvanna"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan untuk memberikan damage area besar dan memanggil pasukan monyet untuk menyerang musuh?",
+    "jawaban": "Sun"
+  },
+  {
+    "soal": "Siapakah hero Assassin/Fighter di Mobile Legends yang dikenal dengan kemampuan untuk bertransformasi antara dua bentuk, Mortal dan Immortal, menggunakan skill tap dan hold, serta memiliki ultimate 'Nuo's Wrath' yang memberikan damage besar kepada musuh di area luas?",
+    "jawaban": "Suyou"
+  },
+  {
+    "soal": "Siapakah hero fighter dengan kemampuan untuk memberikan damage area yang besar menggunakan senjata besar dan memiliki kekuatan pertahanan tinggi?",
+    "jawaban": "Terizla"
+  },
+  {
+    "soal": "Siapakah hero Fighter di Mobile Legends yang dikenal dengan kemampuan untuk memberikan damage besar melalui serangan bertubi-tubi dan memiliki ultimate 'Lava Flow' yang dapat meluncurkan gelombang lava ke arah musuh?",
+    "jawaban": "Thamuz"
+  },
+  {
+    "soal": "Hero tank dengan kemampuan untuk memberikan crowd control dan melindungi teman-temannya dengan serangan area serta kemampuan untuk bertahan hidup lama?",
+    "jawaban": "Tigreal"
+  },
+  {
+    "soal": "Siapakah hero Tank di Mobile Legends yang memiliki kemampuan regenerasi HP yang sangat cepat dan dapat meningkatkan ketahanan dirinya menggunakan skill 'Transcendent' serta memiliki ultimate 'Converge' yang mengontrol area sekitar musuh?",
+    "jawaban": "Uranus"
+  },
+  {
+    "soal": "Siapakah hero mage dengan kemampuan mengendalikan angin dan memberikan serangan area besar menggunakan kekuatan alam?",
+    "jawaban": "Vale"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan mengendalikan kekuatan ilusi dan mengubah musuh menjadi dirinya untuk beberapa waktu?",
+    "jawaban": "Valentina"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan mengendalikan kekuatan necromancy dan memberikan damage besar dengan sihir kematian?",
+    "jawaban": "Vexana"
+  },
+  {
+    "soal": "Siapakah hero marksman dengan kemampuan untuk memberikan serangan beruntun dan menghindari serangan musuh menggunakan kecepatan tinggi?",
+    "jawaban": "Wanwan"
+  },
+  {
+    "soal": "Siapakah hero fighter dengan kemampuan untuk mengendalikan api dan memberikan damage besar menggunakan mesin tubuh serta dapat meregenerasi HP?",
+    "jawaban": "X.Borg"
+  },
+  {
+    "soal": "Hero mage dengan kemampuan untuk memberikan serangan area besar menggunakan kekuatan sinar dan mengendalikan medan perang?",
+    "jawaban": "Xavier"
+  },
+  {
+    "soal": "Siapakah hero marksman dengan kemampuan untuk menyerang dari jarak jauh menggunakan busur dan memberikan serangan mematikan dengan panah?",
+    "jawaban": "Yi Sun-shin"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan mengendalikan kekuatan energi dan menggunakan jurus yang dapat menyebabkan kerusakan besar di area sekitar?",
+    "jawaban": "Yin"
+  },
+  {
+    "soal": "Hero fighter dengan kemampuan untuk mengubah tubuhnya menjadi naga dan memberikan damage area besar serta memiliki kemampuan regenerasi HP yang cepat?",
+    "jawaban": "Yu Zhong"
+  },
+  {
+    "soal": "Siapakah hero mage dengan kemampuan untuk mengendalikan nightmaric dan memberikan damage area besar dengan serangan mekanik?",
+    "jawaban": "Zhask"
+  },
+  {
+  "soal": "Siapakah hero mage yang menggunakan lentera roh untuk mengendalikan kupu-kupu merah, memberikan damage berkelanjutan dan crowd control, serta dikenal sebagai 'Beacon of Spirits'?",
+  "jawaban": "Zhuxin"
+},
+  {
+    "soal": "Siapakah hero fighter dengan kemampuan untuk memberikan damage besar menggunakan tombak dan memberikan kecepatan tinggi untuk mengejar musuh?",
+    "jawaban": "Zilong"
+  },
+    ]

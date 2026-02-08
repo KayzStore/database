@@ -1,0 +1,162 @@
+[
+    {
+        soal: "Item defense yang bisa hidup kembali setelah mati.",
+        jawaban: "Immortality"
+    },
+    {
+    soal: "Item defense yang memberikan magic defense dan pasif unik yang memberikan shield untuk menyerap magic damage setiap beberapa detik.",
+    jawaban: "Athena's Shield"
+},
+    {
+        soal: "Item untuk tank yang memberikan pengurangan lifestyle musuh dan attack speed musuh.",
+        jawaban: "Dominance Ice"
+    },
+    {
+        soal: "Item defense yang memberikan Physical Defense dan memberikan efek pasif yang dapat mengurangi damage fisik yang diterima oleh hero pengguna.",
+        jawaban: "Antique Cuirass"
+    },
+    {
+        soal: "Item defense dengan efek area slow (bisa di stack) dan memberikan tambahan defense.",
+        jawaban: "Thunder Belt"
+    },
+    {
+        soal: "Item defense yang memberikan HP regen dan cocok untuk offlaner.",
+        jawaban: "Oracle"
+    },
+    {
+        soal: "Item defense dengan efek mengurangi damage critical dari musuh.",
+        jawaban: "Blade Armor"
+    },
+    {
+        soal: "Item defense dengan mengurangi magic damage lawan beruntun sebanyak 5-8 poin selama tiga detik, dan bisa sampai 6 stack.",
+        jawaban: "Radiant Armor"
+    },
+    {
+        soal: "Item defense yang dapat memberikan tambahan HP besar dan regenerasi HP diluar pertandingan.",
+        jawaban: "Guardian Helmet"
+    },
+    {
+        soal: "Item defense yang memberikan tambahan HP besar dan regenerasi HP di luar pertarungan.",
+        jawaban: "Guardian Helmet"
+    },
+    {
+        soal: "Sepatu yang memberikan tambahan movement speed dan cooldown reduction.",
+        jawaban: "Magic Shoes"
+    },
+    {
+        soal: "Sepatu yang memberikan tambahan movement speed dan physical defense.",
+        jawaban: "Warrior Boots"
+    },
+    {
+        soal: "Sepatu yang memberikan tambahan movement speed dan magic defense.",
+        jawaban: "Tough Boots"
+    },
+    {
+        soal: "Sepatu yang memberikan tambahan movement speed dan physical penetration.",
+        jawaban: "Swift Boots"
+    },
+    {
+        soal: "Sepatu yang memberikan tambahan movement speed dan magic penetration.",
+        jawaban: "Arcane Boots"
+    },
+    {
+        soal: "Sepatu yang memberikan efek lifesteal tambahan saat menggunakan basic attack.",
+        jawaban: "Swift Boots"
+    },
+    {
+        soal: "Sepatu yang memberikan efek tambahan gold setiap detik.",
+        jawaban: "Rapid Boots"
+    },
+    {
+        soal: "Sepatu dengan movement speed paling tinggi, namun mengurangi saat menyerang atau menerima damage.",
+        jawaban: "Rapid Boots"
+    },
+    {
+        soal: "Sepatu yang mengurangi waktu crowd control yang diterima.",
+        jawaban: "Tough Boots"
+    },
+    {
+        soal: "Sepatu yang membantu mage mendapatkan cooldown lebih cepat.",
+        jawaban: "Magic Shoes"
+    },
+    {
+        soal: "Item magic yang meningkatkan cooldown reduction dan pemulihan mana setiap detik.",
+        jawaban: "Enchanted Talisman"
+    },
+    {
+        soal: "Item magic dengan efek pasif burn damage kepada musuh.",
+        jawaban: "Glowing Wand"
+    },
+    {
+        soal: "Item magic yang memberikan efek slow dan tambahan magic power.",
+        jawaban: "Ice Queen Wand"
+    },
+    {
+        soal: "Item magic dengan efek pasif ledakan area saat skill mengenai musuh.",
+        jawaban: "Lightning Truncheon"
+    },
+    {
+        soal: "Item magic dengan magic lifesteal tinggi dan cocok untuk mage burst.",
+        jawaban: "Concentrated Energy"
+    },
+    {
+        soal: "Item magic dengan tambahan magic power tinggi dan efek burst tambahan.",
+        jawaban: "Holy Crystal"
+    },
+    {
+        soal: "Item magic dengan efek pengurangan magic defense musuh.",
+        jawaban: "Divine Glaive"
+    },
+    {
+        soal: "Item magic yang memberikan tambahan kekuatan Magic Power yang sangat besar jika sudah mencapai stack maksimal.",
+        jawaban: "Clock of Destiny"
+    },
+    {
+        soal: "Item magic yang memberi tambahan efek regenerasi bagi hero yg menggunakannya.",
+        jawaban: "Oracle"
+    },
+    {
+        soal: "Item jungle untuk hero magic yang memperkuat retribution dan mana regen.",
+        jawaban: "Star Shard"
+    },
+    {
+        soal: "Item attack dengan efek pasif meningkatkan critical damage.",
+        jawaban: "Berserker's Fury"
+    },
+    {
+        soal: "Item attack untuk efektif melawan hero tank dengan HP tinggi.",
+        jawaban: "Demon Hunter Sword"
+    },
+    {
+        soal: "Item physical attack dengan critical chance tinggi.",
+        jawaban: "Scarlet Phantom"
+    },
+    {
+        soal: "Item attack dengan efek true damage cocok untuk hero dengan basic attack dan skil.",
+        jawaban: "Endless Battle"
+    },
+    {
+        soal: "Item attack yang sangat cocok untuk hero critical, meningkatkan critical chance dan attack speed.",
+        jawaban: "Windtalker"
+    },
+    {
+        soal: "Item attack yang membuat hero kebal terhadap seluruh Physical Damage selama 2 detik.",
+        jawaban: "Wind of Nature"
+    },
+    {
+        soal: "Item attack yang memberi tambahan attack speed dan lifesteal, cocok untuk marksman.",
+        jawaban: "Golden Staff"
+    },
+    {
+        soal: "Item attack yang memberikan peningkatan penetrasi fisik, sangat efektif melawan hero dengan pertahanan fisik tinggi.",
+        jawaban: "Malefic Roar"
+    },
+    {
+        soal: "Item attack dengan tambahan lifesteal tinggi dan damage besar untuk fighter.",
+        jawaban: "Bloodlust Axe"
+    },
+    {
+        soal: "Item attack dengan memperlambat musuh dan meningkatkan kecepatan serangan di saat yang bersamaan.",
+        jawaban: "Corrosion Scythe"
+    }
+]
