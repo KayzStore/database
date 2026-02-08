@@ -1,0 +1,354 @@
+[
+    {
+        "soal": "Pengembara yang mencari saudara kembarnya di Teyvat.",
+        "jawaban": "Traveler"
+    },
+    {
+        "soal": "Outrider terakhir dari Knights of Favonius di Mondstadt.",
+        "jawaban": "Amber"
+    },
+    {
+        "soal": "Pustakawan Knights of Favonius yang sangat menyukai teh.",
+        "jawaban": "Lisa"
+    },
+    {
+        "soal": "Kapten Kavaleri Knights of Favonius yang misterius.",
+        "jawaban": "Kaeya"
+    },
+    {
+        "soal": "Deaconess dari Gereja Favonius yang merupakan idola Mondstadt.",
+        "jawaban": "Barbara"
+    },
+    {
+        "soal": "Pemilik Dawn Winery yang sangat membenci Knights of Favonius.",
+        "jawaban": "Diluc"
+    },
+    {
+        "soal": "Gadis kecil ahli peledak yang dikurung di markas Knights of Favonius.",
+        "jawaban": "Klee"
+    },
+    {
+        "soal": "Karakter Electro yang dibesarkan oleh serigala di Wolvendom.",
+        "jawaban": "Razor"
+    },
+    {
+        "soal": "Anggota petualang yang selalu sial namun memiliki semangat tinggi.",
+        "jawaban": "Bennett"
+    },
+    {
+        "soal": "Ketua alkemis Knights of Favonius yang berasal dari Khaenri'ah.",
+        "jawaban": "Albedo"
+    },
+    {
+        "soal": "Penyair berjiwa bebas yang sebenarnya adalah Anemo Archon.",
+        "jawaban": "Venti"
+    },
+    {
+        "soal": "Konsultan Wangsheng Funeral Parlor yang merupakan Geo Archon.",
+        "jawaban": "Zhongli"
+    },
+    {
+        "soal": "Sekretaris Yuehai Pavilion yang memiliki darah Qilin.",
+        "jawaban": "Ganyu"
+    },
+    {
+        "soal": "Satu-satunya Yaksha yang masih tersisa untuk menjaga Liyue.",
+        "jawaban": "Xiao"
+    },
+    {
+        "soal": "Manager Wangsheng Funeral Parlor yang suka membuat puisi aneh.",
+        "jawaban": "Hu Tao"
+    },
+    {
+        "soal": "Karakter yang menggunakan teknik pedang Guhua dan sangat suka membaca.",
+        "jawaban": "Xingqiu"
+    },
+    {
+        "soal": "Koki terkenal dari Wanmin Restaurant yang berteman dengan Guoba.",
+        "jawaban": "Xiangling"
+    },
+    {
+        "soal": "Yuheng dari Liyue Qixing yang sangat skeptis terhadap dewa.",
+        "jawaban": "Keqing"
+    },
+    {
+        "soal": "Tianquan dari Liyue Qixing dan pemilik Jade Chamber.",
+        "jawaban": "Ningguang"
+    },
+    {
+        "soal": "Fatui Harbinger ke-11 yang sangat haus akan pertarungan.",
+        "jawaban": "Tartaglia"
+    },
+    {
+        "soal": "Shogun yang memimpin Inazuma dan mengejar keabadian.",
+        "jawaban": "Raiden Shogun"
+    },
+    {
+        "soal": "Putri dari klan Kamisato yang dikenal sebagai Shirasagi Himegimi.",
+        "jawaban": "Kamisato Ayaka"
+    },
+    {
+        "soal": "Kepala klan Kamisato sekaligus Yashiro Commissioner.",
+        "jawaban": "Kamisato Ayato"
+    },
+    {
+        "soal": "Karakter yang memimpin pemberontakan di Pulau Watatsumi.",
+        "jawaban": "Sangonomiya Kokomi"
+    },
+    {
+        "soal": "Ronin pengembara yang berhasil menahan serangan Musou no Hitotachi.",
+        "jawaban": "Kaedehara Kazuha"
+    },
+    {
+        "soal": "Pemilik toko kembang api Naganohara di Inazuma.",
+        "jawaban": "Yoimiya"
+    },
+    {
+        "soal": "Pemimpin geng Arataki yang sangat terobsesi dengan adu kumbang.",
+        "jawaban": "Arataki Itto"
+    },
+    {
+        "soal": "Miko dari Kuil Grand Narukami yang juga pemilik Yae Publishing House.",
+        "jawaban": "Yae Miko"
+    },
+    {
+        "soal": "Detektif muda dari Tenryou Commission yang sangat jenius.",
+        "jawaban": "Shikanoin Heizou"
+    },
+    {
+        "soal": "Lesser Lord Kusanali, Archon termuda yang melindungi Sumeru.",
+        "jawaban": "Nahida"
+    },
+    {
+        "soal": "Scribe dari Sumeru Akademiya yang sangat mementingkan logika.",
+        "jawaban": "Alhaitham"
+    },
+    {
+        "soal": "Arsitek jenius dari Sumeru yang tinggal menumpang di rumah Alhaitham.",
+        "jawaban": "Kaveh"
+    },
+    {
+        "soal": "General Mahamatra yang sangat menyukai kartu TCG dan lelucon garing.",
+        "jawaban": "Cyno"
+    },
+    {
+        "soal": "Penari dari Teater Zubayr yang sangat memuja Nahida.",
+        "jawaban": "Nilou"
+    },
+    {
+        "soal": "Tentara bayaran Eremite yang memiliki julukan Flame-Mane.",
+        "jawaban": "Dehya"
+    },
+    {
+        "soal": "Seorang pengembara yang sebelumnya dikenal sebagai Scaramouche.",
+        "jawaban": "Wanderer"
+    },
+    {
+        "soal": "Dokter dari Bubu Pharmacy yang selalu membawa ular putih di lehernya.",
+        "jawaban": "Baizhu"
+    },
+    {
+        "soal": "Hydro Archon (mantan) yang sangat mencintai panggung sandiwara.",
+        "jawaban": "Furina"
+    },
+    {
+        "soal": "Iudex dari Fontaine yang merupakan naga Hydro asli.",
+        "jawaban": "Neuvillette"
+    },
+    {
+        "soal": "Pesulap hebat dari Fontaine yang memiliki rahasia bersama adiknya.",
+        "jawaban": "Lyney"
+    },
+    {
+        "soal": "Asisten pesulap yang pendiam dan ahli dalam menyelam.",
+        "jawaban": "Lynette"
+    },
+    {
+        "soal": "Diving mekanik dari Fontaine yang merupakan adik dari Lyney.",
+        "jawaban": "Freminet"
+    },
+    {
+        "soal": "Presiden dari Spina di Rosula yang sangat menyukai macaron.",
+        "jawaban": "Navia"
+    },
+    {
+        "soal": "Sipir dari Penjara Meropide yang sangat menyukai teh.",
+        "jawaban": "Wriothesley"
+    },
+    {
+        "soal": "Suster dari Fortress of Meropide yang memiliki telinga kelinci.",
+        "jawaban": "Sigewinne"
+    },
+    {
+        "soal": "Kapten Special Security and Surveillance Patrol yang selalu membawa senapan.",
+        "jawaban": "Chevreuse"
+    },
+    {
+        "soal": "Seorang desainer ternama dari Inazuma yang berbasis di Fontaine.",
+        "jawaban": "Chiori"
+    },
+    {
+        "soal": "Cloud Retainer dalam wujud manusia yang tinggal di Liyue.",
+        "jawaban": "Xianyun"
+    },
+    {
+        "soal": "The Knave, Fatui Harbinger yang memimpin House of the Hearth.",
+        "jawaban": "Arlecchino"
+    },
+    {
+        "soal": "Pyro Archon dari Natlan yang juga seorang petarung hebat.",
+        "jawaban": "Mavuika"
+    },
+    {
+        "soal": "Prajurit muda dari suku Children of Echoes yang menunggangi bor.",
+        "jawaban": "Kachina"
+    },
+    {
+        "soal": "Karakter dari suku Scions of the Canopy yang mahir menggunakan grapple hook.",
+        "jawaban": "Kinich"
+    },
+    {
+        "soal": "Anggota People of the Springs yang bisa berselancar di atas air.",
+        "jawaban": "Mualani"
+    },
+    {
+        "soal": "Karakter misterius yang muncul di Natlan dengan kemampuan terbang.",
+        "jawaban": "Chasca"
+    },
+    {
+        "soal": "Seorang peramal dari Natlan yang memiliki gaya rambut unik.",
+        "jawaban": "Citlali"
+    },
+    {
+        "soal": "Peneliti dari Sumeru yang memiliki gangguan tidur dan sering berjalan sambil tidur.",
+        "jawaban": "Layla"
+    },
+    {
+        "soal": "Karakter Electro pengguna Claymore yang merupakan pengacara handal di Fontaine.",
+        "jawaban": "Clorinde"
+    },
+    {
+        "soal": "Seorang penari pedang dari Liyue yang tampil di pertunjukan tarian Wushuu.",
+        "jawaban": "Gaming"
+    },
+    {
+        "soal": "Prajurit elit dari Inazuma yang memiliki telinga anjing dan sangat setia pada Kokomi.",
+        "jawaban": "Gorou"
+    },
+    {
+        "soal": "Seorang ninja dari Shuumatsuban yang selalu ingin tidur agar tubuhnya bertambah tinggi.",
+        "jawaban": "Sayu"
+    },
+    {
+        "soal": "Wakil pemimpin Geng Arataki yang sangat disiplin dan merupakan lulusan hukum Liyue.",
+        "jawaban": "Kuki Shinobu"
+    },
+    {
+        "soal": "Karakter kolaborasi dari Horizon Zero Dawn yang memiliki elemen Cryo.",
+        "jawaban": "Aloy"
+    },
+    {
+        "soal": "Karakter pengguna Polearm dari Liyue yang dibesarkan oleh Crane.",
+        "jawaban": "Shenhe"
+    },
+    {
+        "soal": "Penyanyi opera ternama dari Liyue yang memimpin grup Opera Yun-Han.",
+        "jawaban": "Yun Jin"
+    },
+    {
+        "soal": "Penyidik dari Liyue yang mengklaim bekerja untuk kementerian urusan sipil.",
+        "jawaban": "Yelan"
+    },
+    {
+        "soal": "Asisten peneliti dari Mondstadt yang sangat pemalu dan menggunakan katalis Bio-Organik.",
+        "jawaban": "Sucrose"
+    },
+    {
+        "soal": "Suster dari Gereja Favonius yang penampilannya sangat gotik dan dingin.",
+        "jawaban": "Rosaria"
+    },
+    {
+        "soal": "Ksatria pemula dari Knights of Favonius yang sangat rajin membantu warga Mondstadt.",
+        "jawaban": "Noelle"
+    },
+    {
+        "soal": "Seorang astrologer jenius yang selalu kesulitan dalam masalah keuangan.",
+        "jawaban": "Mona"
+    },
+    {
+        "soal": "Penjaga hutan di Gandharva Ville yang memiliki telinga panjang dan ekor lebat.",
+        "jawaban": "Tighnari"
+    },
+    {
+        "soal": "Ranger pemula di Sumeru yang belajar di bawah bimbingan Tighnari.",
+        "jawaban": "Collei"
+    },
+    {
+        "soal": "Pedagang kaya dari Sumeru yang sangat terobsesi dengan Mora.",
+        "jawaban": "Dori"
+    },
+    {
+        "soal": "Penjaga desa Aaru yang memiliki mata heterochromia (beda warna).",
+        "jawaban": "Candace"
+    },
+    {
+        "soal": "Seorang mahasiswi abadi di Sumeru yang sangat ahli dalam bidang astronomi.",
+        "jawaban": "Faruzan"
+    },
+    {
+        "soal": "Seorang jurnalis dari koran 'The Steambird' di Fontaine.",
+        "jawaban": "Charlotte"
+    },
+    {
+        "soal": "Karakter Anemo dari Fontaine yang bekerja sebagai perancang busana magis.",
+        "jawaban": "Emilie"
+    },
+    {
+        "soal": "Karakter Geo dari Natlan yang memiliki palu besar untuk menghancurkan pertahanan lawan.",
+        "jawaban": "Xilonen"
+    },
+    {
+        "soal": "Karakter Pyro dari Liyue yang menggunakan instrumen musik rock 'n roll.",
+        "jawaban": "Xinyan"
+    },
+    {
+        "soal": "Seorang exorcist muda dari Liyue yang memiliki energi yang sangat panas (Pure Yang).",
+        "jawaban": "Chongyun"
+    },
+    {
+        "soal": "Zombie kecil dari Bubu Pharmacy yang sering lupa ingatan.",
+        "jawaban": "Qiqi"
+    },
+    {
+        "soal": "Karakter elemen Hydro yang merupakan kapten dari armada The Crux.",
+        "jawaban": "Beidou"
+    },
+    {
+        "soal": "Fatui Harbinger peringkat pertama yang dikenal sebagai 'The Captain'.",
+        "jawaban": "Capitano"
+    },
+    {
+        "soal": "Karakter misterius yang membimbing Traveler di awal perjalanan melalui pancingan.",
+        "jawaban": "Paimon"
+    },
+    {
+        "soal": "Pemilik kedai kucing Cat's Tail di Mondstadt yang benci alkohol.",
+        "jawaban": "Diona"
+    },
+    {
+        "soal": "Karakter elemen Dendro bintang 4 yang menggunakan payung sebagai senjatanya.",
+        "jawaban": "Sethos"
+    },
+    {
+        "soal": "Karakter Anemo dari Mondstadt yang bertugas memetakan wilayah baru.",
+        "jawaban": "Mika"
+    },
+    {
+        "soal": "Dokter dari Natlan yang sering disebutkan oleh para pejuang.",
+        "jawaban": "Ifa"
+    },
+    {
+        "soal": "Fatui Harbinger peringkat ke-3 yang dijuluki Damselette.",
+        "jawaban": "Columbina"
+    }
+]
