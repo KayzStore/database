@@ -1,0 +1,782 @@
+[
+    {
+        "soal": "Negara kepulauan terbesar di dunia yang terletak di Asia Tenggara.",
+        "jawaban": "Indonesia"
+    },
+    {
+        "soal": "Negara yang dikenal dengan julukan Negeri Matahari Terbit.",
+        "jawaban": "Jepang"
+    },
+    {
+        "soal": "Negara yang memiliki menara Eiffel sebagai ikon terkenalnya.",
+        "jawaban": "Prancis"
+    },
+    {
+        "soal": "Negara Tirai Bambu yang memiliki populasi terbesar kedua di dunia.",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "soal": "Negara Paman Sam yang terletak di Amerika Utara.",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "soal": "Negara beruang merah dengan wilayah terluas di dunia.",
+        "jawaban": "Rusia"
+    },
+    {
+        "soal": "Negara yang terkenal dengan Piramida Giza dan Sungai Nil.",
+        "jawaban": "Mesir"
+    },
+    {
+        "soal": "Negara yang merupakan asal dari olahraga sepak bola dan memiliki menara Big Ben.",
+        "jawaban": "Inggris"
+    },
+    {
+        "soal": "Negara Amerika Latin yang terkenal dengan tarian Samba dan Hutan Amazon.",
+        "jawaban": "Brasil"
+    },
+    {
+        "soal": "Negara kangguru yang juga merupakan sebuah benua.",
+        "jawaban": "Australia"
+    },
+    {
+        "soal": "Negara yang memiliki Taj Mahal sebagai salah satu keajaiban dunia.",
+        "jawaban": "India"
+    },
+    {
+        "soal": "Negara Ginseng yang terkenal dengan budaya K-Pop.",
+        "jawaban": "Korea Selatan"
+    },
+    {
+        "soal": "Negara yang terkenal dengan cokelat, jam tangan, dan pegunungan Alpen.",
+        "jawaban": "Swiss"
+    },
+    {
+        "soal": "Negara asal pizza dan pasta yang memiliki Menara Miring Pisa.",
+        "jawaban": "Italia"
+    },
+    {
+        "soal": "Negara yang terkenal dengan kincir angin dan bunga tulip.",
+        "jawaban": "Belanda"
+    },
+    {
+        "soal": "Negara yang memiliki daun Mapel pada benderanya.",
+        "jawaban": "Kanada"
+    },
+    {
+        "soal": "Negara tempat lahirnya Dewa-Dewi Olimpus dan filsuf terkenal.",
+        "jawaban": "Yunani"
+    },
+    {
+        "soal": "Negara yang terkenal dengan tarian Flamenco dan adu banteng.",
+        "jawaban": "Spanyol"
+    },
+    {
+        "soal": "Negara tetangga Indonesia yang memiliki ikon Patung Merlion.",
+        "jawaban": "Singapura"
+    },
+    {
+        "soal": "Negara yang memiliki Burj Khalifa, gedung tertinggi di dunia.",
+        "jawaban": "Uni Emirat Arab"
+    },
+    {
+        "soal": "Negara yang terkenal dengan sistem pendidikan terbaik dan cahaya Aurora Borealis.",
+        "jawaban": "Finlandia"
+    },
+    {
+        "soal": "Negara skandinavia yang merupakan markas besar dari brand IKEA.",
+        "jawaban": "Swedia"
+    },
+    {
+        "soal": "Negara yang memiliki situs kuno Petra dan berbatasan dengan Laut Mati.",
+        "jawaban": "Yordania"
+    },
+    {
+        "soal": "Negara Amerika Latin yang terkenal dengan Hari Arwah (Dia de los Muertos).",
+        "jawaban": "Meksiko"
+    },
+    {
+        "soal": "Negara yang dipimpin oleh seorang Sultan dan berada di pulau Kalimantan.",
+        "jawaban": "Brunei Darussalam"
+    },
+    {
+        "soal": "Negara asal legenda sepak bola Lionel Messi.",
+        "jawaban": "Argentina"
+    },
+    {
+        "soal": "Negara yang memiliki kuil Angkor Wat yang megah.",
+        "jawaban": "Kamboja"
+    },
+    {
+        "soal": "Negara yang terkenal dengan teknologi otomotif seperti BMW dan Mercedes-Benz.",
+        "jawaban": "Jerman"
+    },
+    {
+        "soal": "Negara yang terletak di dua benua, Asia dan Eropa (Transkontinental).",
+        "jawaban": "Turki"
+    },
+    {
+        "soal": "Negara tempat lahirnya agama Buddha dan memiliki Gunung Everest.",
+        "jawaban": "Nepal"
+    },
+    {
+        "soal": "Negara yang memiliki garis pantai terpanjang di dunia.",
+        "jawaban": "Kanada"
+    },
+    {
+        "soal": "Negara yang terkenal dengan kopi Gayo dan kulinernya yang mendunia.",
+        "jawaban": "Indonesia"
+    },
+    {
+        "soal": "Negara yang memiliki Ka'bah sebagai kiblat umat Muslim.",
+        "jawaban": "Arab Saudi"
+    },
+    {
+        "soal": "Negara terkecil di dunia yang berada di dalam kota Roma.",
+        "jawaban": "Vatikan"
+    },
+    {
+        "soal": "Negara yang memiliki bendera paling unik karena tidak berbentuk segi empat.",
+        "jawaban": "Nepal"
+    },
+    {
+        "soal": "Negara yang terkenal dengan pemandangan Lord of the Rings (Hobbitton).",
+        "jawaban": "Selandia Baru"
+    },
+    {
+        "soal": "Negara yang pernah dipimpin oleh Nelson Mandela.",
+        "jawaban": "Afrika Selatan"
+    },
+    {
+        "soal": "Negara yang memiliki Menara Kembar Petronas.",
+        "jawaban": "Malaysia"
+    },
+    {
+        "soal": "Negara yang terkenal dengan Gajah Putih dan kuliner Tom Yum.",
+        "jawaban": "Thailand"
+    },
+    {
+        "soal": "Negara yang memiliki kanal-kanal air di atas laut (Venesia).",
+        "jawaban": "Italia"
+    },
+    {
+        "soal": "Negara yang memiliki ikon patung Christ the Redeemer.",
+        "jawaban": "Brasil"
+    },
+    {
+        "soal": "Negara yang merupakan produsen minyak sawit terbesar kedua setelah Indonesia.",
+        "jawaban": "Malaysia"
+    },
+    {
+        "soal": "Negara skandinavia yang terkenal dengan bangsa Viking.",
+        "jawaban": "Norwegia"
+    },
+    {
+        "soal": "Negara yang memiliki situs Machu Picchu dari peradaban Inka.",
+        "jawaban": "Peru"
+    },
+    {
+        "soal": "Negara yang terletak di 'Tanduk Afrika'.",
+        "jawaban": "Somalia"
+    },
+    {
+        "soal": "Negara penghasil cerutu terbaik di dunia.",
+        "jawaban": "Kuba"
+    },
+    {
+        "soal": "Negara yang terkenal dengan keindahan pulau Santorini.",
+        "jawaban": "Yunani"
+    },
+    {
+        "soal": "Negara yang memiliki tembok Berlin yang bersejarah.",
+        "jawaban": "Jerman"
+    },
+    {
+        "soal": "Negara yang terkenal dengan film Hollywood.",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "soal": "Negara yang memiliki mata uang Euro dan beribu kota di Brussels.",
+        "jawaban": "Belgia"
+    },
+    {
+        "soal": "Negara yang memiliki sistem pemerintahan kekaisaran tertua di dunia.",
+        "jawaban": "Jepang"
+    },
+    {
+        "soal": "Negara produsen jam tangan mewah terbanyak.",
+        "jawaban": "Swiss"
+    },
+    {
+        "soal": "Negara yang memiliki banyak kastil tua dan drakula (Transylvania).",
+        "jawaban": "Rumania"
+    },
+    {
+        "soal": "Negara yang memiliki pelabuhan tersibuk di Asia Tenggara.",
+        "jawaban": "Singapura"
+    },
+    {
+        "soal": "Negara yang terletak paling selatan di benua Amerika.",
+        "jawaban": "Chile"
+    },
+    {
+        "soal": "Negara yang memiliki sungai terpanjang di dunia, Amazon (sebagian besar).",
+        "jawaban": "Brasil"
+    },
+    {
+        "soal": "Negara yang berbatasan langsung dengan Portugal.",
+        "jawaban": "Spanyol"
+    },
+    {
+        "soal": "Negara yang mengklaim Yerusalem Timur sebagai ibu kotanya.",
+        "jawaban": "Palestina"
+    },
+    {
+        "soal": "Negara di Asia Tengah yang merupakan negara 'landlocked' terbesar.",
+        "jawaban": "Kazakhstan"
+    },
+    {
+        "soal": "Negara kepulauan di Samudra Hindia yang terancam tenggelam.",
+        "jawaban": "Maladewa"
+    },
+    {
+        "soal": "Negara yang memiliki bendera berwarna merah polos (sebelum tahun 2011).",
+        "jawaban": "Libya"
+    },
+    {
+        "soal": "Negara yang terkenal dengan cokelat Belgia dan markas besar Uni Eropa.",
+        "jawaban": "Belgia"
+    },
+    {
+        "soal": "Negara di Eropa Tengah yang memiliki ibu kota bernama Budapest.",
+        "jawaban": "Hongaria"
+    },
+    {
+        "soal": "Negara yang terkenal dengan tarian tango dan terletak di Amerika Selatan.",
+        "jawaban": "Argentina"
+    },
+    {
+        "soal": "Negara yang memiliki garis pantai terpanjang di Afrika dan terkenal dengan Marrakesh.",
+        "jawaban": "Maroko"
+    },
+    {
+        "soal": "Negara yang memiliki bendera bergambar naga (Druk) di Asia Selatan.",
+        "jawaban": "Bhutan"
+    },
+    {
+        "soal": "Negara penghasil kopi terbesar di Afrika dan asal mula tanaman kopi.",
+        "jawaban": "Etiopia"
+    },
+    {
+        "soal": "Negara di Eropa Utara yang memiliki banyak pulau kecil dan ibu kota Kopenhagen.",
+        "jawaban": "Denmark"
+    },
+    {
+        "soal": "Negara yang memiliki kanal buatan penghubung Samudra Atlantik dan Pasifik.",
+        "jawaban": "Panama"
+    },
+    {
+        "soal": "Negara yang pernah dipisahkan oleh 'Tirai Besi' dan memiliki ibu kota Praha.",
+        "jawaban": "Ceko"
+    },
+    {
+        "soal": "Negara kepulauan di Pasifik yang merupakan negara pertama yang merayakan tahun baru.",
+        "jawaban": "Kiribati"
+    },
+    {
+        "soal": "Negara yang memiliki gedung tertinggi di dunia, Burj Khalifa.",
+        "jawaban": "Uni Emirat Arab"
+    },
+    {
+        "soal": "Negara yang terkenal dengan legenda Dracula di wilayah Transylvania.",
+        "jawaban": "Rumania"
+    },
+    {
+        "soal": "Negara yang memiliki kota suci umat Islam, Kristen, dan Yahudi (Yerusalem).",
+        "jawaban": "Palestina"
+    },
+    {
+        "soal": "Negara di Asia Tenggara yang tidak pernah dijajah oleh bangsa Eropa.",
+        "jawaban": "Thailand"
+    },
+    {
+        "soal": "Negara yang memiliki situs arkeologi Petra yang terpahat di dinding batu.",
+        "jawaban": "Yordania"
+    },
+    {
+        "soal": "Negara kepulauan yang terkenal dengan keindahan Maladewa dan wisata lautnya.",
+        "jawaban": "Maladewa"
+    },
+    {
+        "soal": "Negara di Amerika Selatan yang memiliki bentuk wilayah sangat panjang dan ramping.",
+        "jawaban": "Chile"
+    },
+    {
+        "soal": "Negara yang merupakan rumah bagi spesies hewan endemik Lemur.",
+        "jawaban": "Madagaskar"
+    },
+    {
+        "soal": "Negara yang memiliki bendera paling unik karena berbentuk segitiga ganda.",
+        "jawaban": "Nepal"
+    },
+    {
+        "soal": "Negara di Eropa yang terkenal dengan pemandangan fjord dan fenomena Midnight Sun.",
+        "jawaban": "Norwegia"
+    },
+    {
+        "soal": "Negara penghasil minyak terbesar di dunia yang terletak di Timur Tengah.",
+        "jawaban": "Arab Saudi"
+    },
+    {
+        "soal": "Negara yang memiliki peninggalan peradaban Aztec dan suku Maya.",
+        "jawaban": "Meksiko"
+    },
+    {
+        "soal": "Negara terkecil di dunia yang dipimpin oleh Paus.",
+        "jawaban": "Vatikan"
+    },
+    {
+        "soal": "Negara di Asia Tengah yang merupakan negara terkurung daratan terbesar di dunia.",
+        "jawaban": "Kazakhstan"
+    },
+    {
+        "soal": "Negara yang terkenal dengan kincir angin, tulip, dan bendungan lautnya.",
+        "jawaban": "Belanda"
+    },
+    {
+        "soal": "Negara penghasil wol terbesar dan memiliki hewan endemik Kiwi.",
+        "jawaban": "Selandia Baru"
+    },
+    {
+        "soal": "Negara yang memiliki pelabuhan bebas dan dikenal sebagai pusat keuangan di Asia.",
+        "jawaban": "Singapura"
+    },
+    {
+        "soal": "Negara yang terkenal dengan musik Reggae dan pelari tercepat Usain Bolt.",
+        "jawaban": "Jamaika"
+    },
+    {
+        "soal": "Negara di Afrika Utara yang memiliki reruntuhan Kartago kuno.",
+        "jawaban": "Tunisia"
+    },
+    {
+        "soal": "Negara yang pernah menjadi pusat kekaisaran Persia.",
+        "jawaban": "Iran"
+    },
+    {
+        "soal": "Negara di Eropa Timur yang sedang berjuang mempertahankan kedaulatannya (ibu kota Kyiv).",
+        "jawaban": "Ukraina"
+    },
+    {
+        "soal": "Negara kepulauan di Amerika Tengah yang terkenal dengan cerutu dan sistem medisnya.",
+        "jawaban": "Kuba"
+    },
+    {
+        "soal": "Negara di Asia Tenggara yang memiliki ribuan pulau dan gunung berapi aktif terbanyak.",
+        "jawaban": "Indonesia"
+    },
+    {
+        "soal": "Negara yang terkenal dengan jam tangan mewah dan kerahasiaan perbankannya.",
+        "jawaban": "Swiss"
+    },
+    {
+        "soal": "Negara di Afrika Barat yang merupakan eksportir kakao (cokelat) terbesar dunia.",
+        "jawaban": "Pantai Gading"
+    },
+    {
+        "soal": "Negara yang memiliki situs keajaiban dunia Machu Picchu.",
+        "jawaban": "Peru"
+    },
+    {
+        "soal": "Negara yang memiliki garis pantai di Laut Tengah dan Samudra Atlantik.",
+        "jawaban": "Spanyol"
+    },
+    {
+        "soal": "Negara terkecil di Asia Tenggara yang baru merdeka dari Indonesia tahun 2002.",
+        "jawaban": "Timor Leste"
+    },
+    {
+        "soal": "Negara yang memiliki bendera merah putih dengan simbol pohon Cedar di tengah.",
+        "jawaban": "Lebanon"
+    },
+    {
+        "soal": "Negara di Eropa yang berbentuk seperti sepatu bot.",
+        "jawaban": "Italia"
+    },
+    {
+        "soal": "Negara yang merupakan asal dari olahraga bela diri Taekwondo.",
+        "jawaban": "Korea Selatan"
+    },
+    {
+        "soal": "Negara yang memiliki jumlah penduduk terbanyak di dunia saat ini.",
+        "jawaban": "India"
+    },
+    {
+        "soal": "Negara di Afrika yang terkenal dengan wisata safari dan Gunung Kilimanjaro.",
+        "jawaban": "Tanzania"
+    },
+    {
+        "soal": "Negara yang terkenal dengan produksi bir dan kastil-kastil megahnya.",
+        "jawaban": "Jerman"
+    },
+    {
+        "soal": "Negara kepulauan yang memiliki ribuan kuil dan tradisi Shinto.",
+        "jawaban": "Jepang"
+    },
+    {
+        "soal": "Negara yang memiliki tembok besar sepanjang ribuan kilometer.",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "soal": "Negara di Amerika Selatan yang memiliki air terjun tertinggi di dunia (Angel Falls).",
+        "jawaban": "Venezuela"
+    },
+    {
+        "soal": "Negara yang terkenal dengan kuliner Pho dan teluk Ha Long yang indah.",
+        "jawaban": "Vietnam"
+    },
+    {
+        "soal": "Negara yang memiliki bendera berwarna biru-kuning dan merupakan asal IKEA.",
+        "jawaban": "Swedia"
+    },
+    {
+        "soal": "Negara penghasil berlian terbesar di dunia yang terletak di Afrika.",
+        "jawaban": "Botswana"
+    },
+    {
+        "soal": "Negara yang memiliki Menara Kembar Petronas sebagai ikon negaranya.",
+        "jawaban": "Malaysia"
+    },
+    {
+        "soal": "Negara di Eropa Barat yang terkenal dengan keju, wine, dan mode.",
+        "jawaban": "Prancis"
+    },
+    {
+        "soal": "Negara yang berada di perbatasan Asia dan Eropa, terkenal dengan Cappadocia.",
+        "jawaban": "Turki"
+    },
+    {
+        "soal": "Negara kepulauan yang memiliki Boracay dan menjadi produsen kelapa besar.",
+        "jawaban": "Filipina"
+    },
+    {
+        "soal": "Negara yang memiliki lagu kebangsaan terpendek di dunia.",
+        "jawaban": "Jepang"
+    },
+    {
+        "soal": "Negara yang merupakan rumah bagi hewan buas Nil dan Piramida.",
+        "jawaban": "Mesir"
+    },
+    {
+        "soal": "Negara di Eropa Utara yang dikenal sebagai 'Negara Seribu Danau'.",
+        "jawaban": "Finlandia"
+    },
+    {
+        "soal": "Negara terkecil di Amerika Selatan berdasarkan luas wilayah.",
+        "jawaban": "Suriname"
+    },
+    {
+        "soal": "Negara yang memiliki lagu kebangsaan tanpa lirik sama sekali.",
+        "jawaban": "Spanyol"
+    },
+    {
+        "soal": "Negara di Afrika Tengah yang merupakan rumah bagi gorila gunung dan hutan hujan luas.",
+        "jawaban": "Republik Demokratik Kongo"
+    },
+    {
+        "soal": "Negara Eropa yang terkenal dengan cokelat, bir, dan komik petualangan Tintin.",
+        "jawaban": "Belgia"
+    },
+    {
+        "soal": "Negara kepulauan di Samudra Pasifik yang terdiri dari 33 atol karang.",
+        "jawaban": "Kiribati"
+    },
+    {
+        "soal": "Negara di Balkan yang merupakan asal dari penemu hebat Nikola Tesla.",
+        "jawaban": "Serbia"
+    },
+    {
+        "soal": "Negara yang memiliki pelabuhan alami terdalam di dunia (Freetown).",
+        "jawaban": "Sierra Leone"
+    },
+    {
+        "soal": "Negara terkecil di benua Afrika yang terletak di daratan utama.",
+        "jawaban": "Gambia"
+    },
+    {
+        "soal": "Negara yang memiliki bendera dengan warna hijau, kuning, dan biru serta motto 'Ordem e Progresso'.",
+        "jawaban": "Brasil"
+    },
+    {
+        "soal": "Negara di Asia Tengah yang terkenal dengan 'Gerbang Neraka' (kawah gas Darvaza).",
+        "jawaban": "Turkmenistan"
+    },
+    {
+        "soal": "Negara di Eropa yang merdeka dari Uni Soviet dan memiliki ibu kota Riga.",
+        "jawaban": "Latvia"
+    },
+    {
+        "soal": "Negara yang memiliki danau terdalam di dunia, Danau Baikal.",
+        "jawaban": "Rusia"
+    },
+    {
+        "soal": "Negara di Afrika Barat yang merupakan tempat asal musik Afrobeat dan populasi terbesar di Afrika.",
+        "jawaban": "Nigeria"
+    },
+    {
+        "soal": "Negara yang memiliki bendera paling berwarna-warni dengan total 12 warna.",
+        "jawaban": "Belize"
+    },
+    {
+        "soal": "Negara kepulauan di Mediterania yang terkenal dengan sejarah Ksatria Hospitaller.",
+        "jawaban": "Malta"
+    },
+    {
+        "soal": "Negara di Amerika Selatan yang merupakan satu-satunya negara berbahasa resmi Inggris di benua tersebut.",
+        "jawaban": "Guyana"
+    },
+    {
+        "soal": "Negara di Teluk Persia yang akan menjadi tuan rumah pusat seni global di Pulau Saadiyat.",
+        "jawaban": "Uni Emirat Arab"
+    },
+    {
+        "soal": "Negara yang memiliki garis pantai terpendek di dunia (hanya sekitar 4,1 km).",
+        "jawaban": "Monako"
+    },
+    {
+        "soal": "Negara di Asia Selatan yang dulu dikenal dengan nama Ceylon.",
+        "jawaban": "Sri Lanka"
+    },
+    {
+        "soal": "Negara yang memiliki hutan hujan tropis tertua di dunia, Taman Nasional Taman Negara.",
+        "jawaban": "Malaysia"
+    },
+    {
+        "soal": "Negara di Afrika Timur yang terkenal dengan pelari maraton jarak jauhnya.",
+        "jawaban": "Kenya"
+    },
+    {
+        "soal": "Negara terkecil di dunia berdasarkan populasi (hanya sekitar 800 jiwa).",
+        "jawaban": "Vatikan"
+    },
+    {
+        "soal": "Negara yang memiliki situs kuno Timbuktu di gurun Sahara.",
+        "jawaban": "Mali"
+    },
+    {
+        "soal": "Negara yang menggunakan mata uang Yen.",
+        "jawaban": "Jepang"
+    },
+    {
+        "soal": "Negara yang memiliki bendera bergambar burung Cendrawasih.",
+        "jawaban": "Papua Nugini"
+    },
+    {
+        "soal": "Negara yang terkenal dengan produksi cerutu Havana dan musik Salsa.",
+        "jawaban": "Kuba"
+    },
+    {
+        "soal": "Negara di Pegunungan Kaukasus yang merupakan produsen anggur tertua di dunia.",
+        "jawaban": "Georgia"
+    },
+    {
+        "soal": "Negara yang memiliki bendera dengan simbol matahari bersinar 24 sinar (sebelum diubah).",
+        "jawaban": "Kirgizstan"
+    },
+    {
+        "soal": "Negara di Afrika Selatan yang dikelilingi sepenuhnya oleh wilayah Afrika Selatan (enklave).",
+        "jawaban": "Lesotho"
+    },
+    {
+        "soal": "Negara yang memiliki pulau Socotra yang terlihat seperti planet lain.",
+        "jawaban": "Yaman"
+    },
+    {
+        "soal": "Negara yang terkenal dengan industri film Bollywood.",
+        "jawaban": "India"
+    },
+    {
+        "soal": "Negara di Eropa yang memiliki ribuan pulau dan ibu kota Athena.",
+        "jawaban": "Yunani"
+    },
+    {
+        "soal": "Negara yang memiliki bendera berbentuk persegi (selain Vatikan).",
+        "jawaban": "Swiss"
+    },
+    {
+        "soal": "Negara di Afrika yang terkenal dengan Delta Okavango dan populasi gajah terbesar.",
+        "jawaban": "Botswana"
+    },
+    {
+        "soal": "Negara kepulauan yang memiliki kota terkecil di dunia, Hum.",
+        "jawaban": "Kroasia"
+    },
+    {
+        "soal": "Negara yang memiliki situs Chichen Itza, piramida suku Maya.",
+        "jawaban": "Meksiko"
+    },
+    {
+        "soal": "Negara di Asia Tenggara yang memiliki ibu kota Vientiane dan tidak memiliki laut.",
+        "jawaban": "Laos"
+    },
+    {
+        "soal": "Negara yang memiliki bendera biru dengan salib kuning mendatar.",
+        "jawaban": "Swedia"
+    },
+    {
+        "soal": "Negara di Amerika Selatan yang memiliki ibu kota tertinggi di dunia (La Paz).",
+        "jawaban": "Bolivia"
+    },
+    {
+        "soal": "Negara yang memiliki gurun tertua di dunia, Gurun Namib.",
+        "jawaban": "Namibia"
+    },
+    {
+        "soal": "Negara kepulauan di Samudra Hindia yang terdiri dari 115 pulau.",
+        "jawaban": "Seychelles"
+    },
+    {
+        "soal": "Negara di Eropa yang terkenal dengan kastil-kastil dan pegunungan Alpen (ibu kota Wina).",
+        "jawaban": "Austria"
+    },
+    {
+        "soal": "Negara yang memiliki situs arkeologi Carthage.",
+        "jawaban": "Tunisia"
+    },
+    {
+        "soal": "Negara di Amerika Tengah yang tidak memiliki tentara (militer) tetap.",
+        "jawaban": "Kosta Rika"
+    },
+    {
+        "soal": "Negara yang memiliki kota pelabuhan Casablanca.",
+        "jawaban": "Maroko"
+    },
+    {
+        "soal": "Negara terkecil di belahan bumi barat dan negara pulau terkecil di dunia.",
+        "jawaban": "Nauru"
+    },
+    {
+        "soal": "Negara yang memiliki bendera bergambar Elang yang sedang memakan ular.",
+        "jawaban": "Meksiko"
+    },
+    {
+        "soal": "Negara yang memiliki tradisi minum teh paling kuat (per kapita) di dunia.",
+        "jawaban": "Turki"
+    },
+    {
+        "soal": "Negara di Afrika Barat yang pernah menjadi pusat Kerajaan Ashanti.",
+        "jawaban": "Ghana"
+    },
+    {
+        "soal": "Negara yang memiliki pulau Paskah (Easter Island) dengan patung Moai-nya.",
+        "jawaban": "Chile"
+    },
+    {
+        "soal": "Negara yang memiliki ibu kota bernama Reykjavik.",
+        "jawaban": "Islandia"
+    },
+    {
+        "soal": "Negara di Asia Timur yang memiliki wilayah otonom bernama Makau.",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "soal": "Negara yang memiliki bendera bergambar bintang dan bulan sabit dengan latar belakang merah.",
+        "jawaban": "Turki"
+    },
+    {
+        "soal": "Negara di Amerika Selatan yang merupakan produsen emerald (zamrud) terbesar.",
+        "jawaban": "Kolombia"
+    },
+    {
+        "soal": "Negara yang memiliki bandara paling berbahaya di dunia (Lukla).",
+        "jawaban": "Nepal"
+    },
+    {
+        "soal": "Negara di Afrika Utara yang memiliki garis pantai di Laut Merah dan Laut Mediterania.",
+        "jawaban": "Mesir"
+    },
+    {
+        "soal": "Negara yang memiliki mata uang Pound Sterling.",
+        "jawaban": "Inggris"
+    },
+    {
+        "soal": "Negara yang memiliki kota terapung Venesia.",
+        "jawaban": "Italia"
+    },
+    {
+        "soal": "Negara di Afrika yang baru merdeka pada tahun 2011.",
+        "jawaban": "Sudan Selatan"
+    },
+    {
+        "soal": "Negara yang memiliki pulau Bali sebagai destinasi wisata utama.",
+        "jawaban": "Indonesia"
+    },
+    {
+        "soal": "Negara di Eropa yang terkenal dengan industri jam tangan dan pisau lipat.",
+        "jawaban": "Swiss"
+    },
+    {
+        "soal": "Negara yang memiliki tradisi perayaan 'Holi' (festival warna).",
+        "jawaban": "India"
+    },
+    {
+        "soal": "Negara yang memiliki gunung tertinggi di Afrika, Kilimanjaro.",
+        "jawaban": "Tanzania"
+    },
+    {
+        "soal": "Negara yang memiliki kota kuno Babylon.",
+        "jawaban": "Irak"
+    },
+    {
+        "soal": "Negara yang memiliki bendera paling banyak bintang (50 bintang).",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "soal": "Negara di Asia yang memiliki bentuk wilayah seperti huruf 'S'.",
+        "jawaban": "Vietnam"
+    },
+    {
+        "soal": "Negara yang memiliki situs keajaiban dunia tembok besar.",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "soal": "Negara di Eropa yang memiliki ibu kota Lisbon.",
+        "jawaban": "Portugal"
+    },
+    {
+        "soal": "Negara yang memiliki bendera bergambar senjata AK-47.",
+        "jawaban": "Mozambik"
+    },
+    {
+        "soal": "Negara di Timur Tengah yang memiliki kota kuno Palmyra.",
+        "jawaban": "Suriah"
+    },
+    {
+        "soal": "Negara yang memiliki penduduk asli suku Aborigin.",
+        "jawaban": "Australia"
+    },
+    {
+        "soal": "Negara di Asia Tenggara yang memiliki ribuan pagoda di Bagan.",
+        "jawaban": "Myanmar"
+    },
+    {
+        "soal": "Negara yang memiliki bendera dengan dua warna horizontal: Putih di atas, Merah di bawah.",
+        "jawaban": "Polandia"
+    },
+    {
+        "soal": "Negara yang memiliki bendera dengan dua warna horizontal: Merah di atas, Putih di bawah.",
+        "jawaban": "Indonesia"
+    },
+    {
+        "soal": "Negara yang terkecil di benua Amerika Selatan.",
+        "jawaban": "Suriname"
+    },
+    {
+        "soal": "Negara yang memiliki ibu kota bernama Amman.",
+        "jawaban": "Yordania"
+    },
+    {
+        "soal": "Negara terakhir dalam daftar ini, terletak di Samudra Pasifik dan memiliki banyak gunung berapi.",
+        "jawaban": "Vanuatu"
+    }
+]
